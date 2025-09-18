@@ -1,0 +1,900 @@
+.Navbar {
+
+
+      z-index: 3;
+      position: relative;
+      /* background: #ffffffa1; */
+      border-bottom: 1px solid #222f635c;
+      padding: 15px 0px;
+}
+
+.NavbarInner {
+      display: flex;
+      justify-content: space-between;
+      max-width: 1450px;
+      margin: 0 auto;
+      align-items: center;
+}
+
+.NavbarLinks {
+      display: flex;
+}
+
+.NavbarLinks a {
+      text-transform: uppercase;
+      text-decoration: none;
+      font-family: 'ProxiRegular';
+      font-size: 1.8rem;
+      margin-right: 25px;
+      font-weight: 800;
+      color: black;
+}
+
+.Navbar .NavbarLogo a img {
+      width: 25%;
+}
+
+.Container {
+      max-width: 1450px;
+      margin: 0 auto;
+}
+
+
+
+.move {
+      animation: slideIn 1s ease forwards;
+}
+
+.move2 {
+      animation: slideIn 1.5s ease forwards;
+}
+
+@keyframes slideIn {
+      from {
+            transform: translateX(-100%);
+            opacity: 0;
+      }
+
+      to {
+            transform: translateX(0);
+            opacity: 1;
+      }
+}
+
+.HeroSection h1:hover,
+.HeroSection p:hover,
+.PageHead:hover {
+      /* color: white; */
+      word-spacing: 1.4px;
+}
+
+.HeroSection h1,
+.PageHead {
+      font-size: 6rem;
+      /* color: rgb(206, 206, 206); */
+      color: black;
+      z-index: 3;
+      position: relative;
+      font-family: 'InterMedium';
+      transition: all 0.2s ease;
+      /* font-weight: 500; */
+}
+.PageHead
+{
+    font-size: 5rem;  
+}
+.HeroSection p,
+.HeroSection button,
+.ServicesWrapper .Container p {
+      font-size: 3rem;
+      /* color: rgb(206, 206, 206); */
+      color: black;
+      width: 50%;
+      z-index: 3;
+      position: relative;
+      margin-top: 50px;
+      transition: all 0.2s ease;
+}
+
+.HeroSection button,
+.AboutContent button,
+form button,
+.SisuButton1 {
+      font-size: 2.5rem;
+      background-color: #222F63;
+      border: none;
+      display: inline-block;
+      width: max-content;
+      padding: 15px 55px;
+      border-radius: 25px;
+      cursor: pointer;
+      color: white;
+      z-index: 3;
+}
+
+.HeroContent,
+.AboutImage img {
+      width: 100%;
+}
+
+.HeroSection {
+      background-position: center;
+      background-size: cover;
+      height: 90vh;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      transition: opacity 0.9s ease-in-out;
+      /* Smooth fade */
+}
+
+
+.overlay {
+      position: absolute;
+      top: 0;
+      width: 100%;
+      background: #ffffffcc;
+      z-index: 2;
+      height: 100%;
+}
+
+
+
+
+
+.bg-layer {
+      position: absolute;
+      inset: 0;
+      background-position: center;
+      background-size: cover;
+      opacity: 0;
+      transition: opacity 1s ease-in-out;
+}
+
+.bg-layer.visible {
+      opacity: 1;
+}
+
+.AboutUs {
+      margin-bottom: 150px;
+      margin-top: 100px;
+}
+
+.AboutUs .Container {
+      display: flex;
+      justify-content: space-between;
+}
+
+.SmallHead {
+      font-size: 2.5rem;
+      color: #222F63;
+      font-family: 'InterLight';
+      font-weight: 600;
+}
+
+.HeadFont {
+      font-size: 5rem;
+      color: #494949;
+      margin-top: 25px;
+      font-family: 'InterLight';
+      font-weight: 600;
+      line-height: 1.5;
+      transition: all 0.5s ease;
+}
+
+.HeadFont:hover {
+      color: black;
+      word-spacing: 1.5px;
+}
+
+.AboutContent,
+.AboutImage {
+      width: 45%;
+}
+
+.AboutContent {
+      padding-top: 100px;
+}
+
+.AboutContent button {
+      margin-top: 50px;
+}
+
+
+
+.AboutImage {
+      position: relative;
+      width: 45%;
+      height: 86vh;
+}
+
+.AboutImage img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      border-radius: 12px;
+      height: auto;
+      width: 100%;
+      object-fit: cover;
+      opacity: 0;
+      transition: opacity 1s ease-in-out;
+
+}
+
+.AboutImage img.active {
+      opacity: 1;
+}
+
+.OurServices {
+      background-color: #f5f5f7;
+      padding: 100px 0px;
+}
+
+.OurServices .SmallHead,
+.OurServices .HeadFont,
+.FaqsTop,
+.Testimonilas .SmallHead,
+.Testimonilas .HeadFont {
+      text-align: center;
+}
+
+.OurServices .HeadFont {
+      width: 70%;
+      margin-left: auto;
+      margin-right: auto;
+}
+
+.ServiceName {
+      font-size: 2.5rem;
+      color: #494949;
+      margin-top: 10px;
+      font-family: 'InterLight';
+      font-weight: 600;
+      transition: all 0.5s ease;
+      margin: 35px 0px 25px 0px;
+}
+
+.ServiceDetials {
+      font-size: 2.2rem;
+}
+
+.ServicesContainer {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 100px 35px;
+      margin-top: 120px;
+
+}
+
+.EachService {
+      width: calc(33% - 20px);
+      text-align: center;
+      background-color: white;
+      border-radius: 8px;
+      padding: 50px;
+      box-sizing: border-box;
+      position: relative;
+      transition: all 0.5s ease;
+      border-left: 1px solid black;
+      border-bottom: 1px solid black;
+      border-top-left-radius: 0px;
+      border-bottom-right-radius: 0px;
+
+}
+
+.EachService a {
+      text-decoration: none;
+      font-size: 2rem;
+      position: absolute;
+      bottom: 0px;
+      width: 100%;
+      left: 0;
+      background-color: white;
+      color: #222F63;
+      opacity: 0;
+      white-space: nowrap;
+      padding: 10px;
+      border-bottom-left-radius: 6px;
+      border-bottom-right-radius: 0px;
+}
+
+.EachService:hover a {
+      bottom: 0;
+      opacity: 1;
+      animation: moveUp 0.5s ease-in-out forwards;
+}
+
+@keyframes moveUp {
+      0% {
+            width: 0%;
+            opacity: 0;
+      }
+
+      100% {
+            width: 100%;
+            opacity: 1;
+      }
+}
+
+
+.EachService:hover {
+      background-color: #222F63;
+      color: #d1d1d1;
+}
+
+.EachService:hover .ServiceName {
+      /* color: #d1d1d1; */
+      color: white;
+}
+
+.EachService:hover .ServiceImage {
+      box-shadow: none;
+      border: 2px solid #222F63;
+      transform: translate(-50%, -50%) rotateY(180deg);
+
+}
+
+.EachService .ServiceImage {
+      position: absolute;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      top: -0px;
+      background-color: white;
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      padding: 32px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      box-shadow: 0px 5px 12px 0px #bbc6ce;
+      border: 2px solid white;
+      transition: all 0.5s ease;
+}
+
+.LandingServices .EachService {
+      width: 48%;
+}
+
+
+
+
+
+
+/* FAQ SLIDER  */
+
+.Faqs,
+.ContactUs {
+      padding: 100px 0px;
+}
+
+.FaqsContent,
+.Container form {
+      margin-top: 50px;
+}
+
+.accordion {
+      border: none !important;
+}
+
+.accordion__button {
+      background-color: #ecececb8 !important;
+      padding: 30px 0px 30px 20px;
+      position: relative;
+      transition: all 0.8s ease;
+      margin-bottom: 5px;
+      border-radius: 8px;
+
+}
+
+.accordion__panel {
+      padding: 20px 0px 20px 20px;
+      background-color: #ecececb8 !important;
+      margin-bottom: 5px;
+      border-bottom: 1px solid black;
+}
+
+.accordion__button:before {
+      transform: rotate(45deg) !important;
+      position: absolute !important;
+      right: 75px !important;
+      transition: all 0.8s ease;
+}
+
+.accordion__button[aria-expanded='true']::before,
+.accordion__button[aria-selected='true']::before {
+      transform: rotate(226deg) !important;
+      transition: all 0.8s ease;
+}
+
+.accordion__item+.accordion__item {
+      border-top: none !important;
+}
+
+.accordion-item {
+      border: none !important;
+      border-bottom: 2px solid #5b5b5b5c !important;
+      padding: 30px 18px 30px 5px;
+      background-color: transparent !important;
+      position: relative;
+}
+
+.accordion-item:hover {
+      background-color: #222F63 !important;
+
+}
+
+.accordion-item:hover button,
+.accordion-item:hover .accordion-body {
+      color: #d1d1d1 !important;
+}
+
+.accordion-item button {
+      font-size: 2.5rem;
+      color: #5B5B5B;
+      background-color: transparent !important;
+      border: none;
+      font-weight: 500;
+
+}
+
+.accordion-item button::after {
+      display: none;
+}
+
+.accordion-button:not(.collapsed) {
+      background-color: transparent !important;
+      box-shadow: 0px 0px 0px 0px !important;
+      color: black !important;
+}
+
+.accordion-body {
+      font-size: 2rem;
+      color: black;
+      font-weight: 400;
+}
+
+
+.collapse:not(.show) {
+      display: none;
+}
+
+.accordion-button:not(.collapsed) {
+      color: #222F63 !important;
+}
+
+@keyframes progressLine {
+      from {
+            width: 0%;
+      }
+
+      to {
+            width: 100%;
+      }
+}
+
+.accordion-progress {
+      position: absolute;
+      bottom: -2px;
+      left: 0;
+      height: 2px;
+      background-color: #222F63 !important;
+      animation: progressLine 4s linear forwards;
+}
+
+/* FAQ SLIDER  */
+.EachTesti {
+      background-color: white;
+      position: relative;
+      padding: 45px 45px;
+      box-shadow: 0px 5px 12px 0px #bbc6ce;
+      box-sizing: border-box;
+      /* margin-left: 5px; */
+      border: 2px solid white;
+      height: 322px;
+}
+
+.TestiName {
+      font-size: 2rem;
+}
+.EachTesti p {
+      font-size: 1.6rem;
+}
+
+.Testimonilas {
+      background-color: #f5f5f7;
+      padding: 100px 0px;
+}
+
+.EachTesti::before {
+      box-sizing: border-box;
+      color: #222F63;
+      content: '\201C';
+      display: block;
+      height: 96px;
+      left: 50px;
+      position: absolute;
+      text-size-adjust: 100%;
+      top: 40px;
+      width: 24px;
+      column-rule-color: #bbb;
+      perspective-origin: 12.2969px 48px;
+      transform-origin: 12.2969px 48px;
+      border: 0 none #bbb;
+      font: normal normal normal normal 60px / 96px Georgia, serif;
+      margin: -25px 0 0 -40px;
+      outline: #bbb none 0;
+      font-size: 10rem;
+}
+
+.EachTesti:after {
+      bottom: -30px;
+      content: '';
+      left: 80px;
+      position: absolute;
+      perspective-origin: 15px 15px;
+      filter: drop-shadow(2px 2px 1px rgba(0, 0, 0, .0980392));
+      border-top: 30px solid #fff;
+      border-right: 30px solid transparent;
+
+}
+
+.EachTesti p svg {
+      fill: #222F63;
+      margin-top: -4px;
+}
+
+.EachTesti p svg:last-child {
+      margin-right: 15px;
+}
+
+.TestiName {
+      margin-left: 80px;
+      margin-top: 25px;
+      font-weight: 500;
+}
+
+.TestiName span {
+      font-weight: 400;
+}
+
+.EachTesti:hover {
+      border-left: 2px solid #222F63;
+      border-bottom: 2px solid #222F63;
+}
+
+.ClientTestimonials {
+      margin-top: 50px;
+}
+
+.Footer {
+      background-color: black;
+      padding: 25px 0px;
+}
+
+.Footer .Container,
+.ContactUs .Container {
+      display: flex;
+      justify-content: space-between;
+}
+
+.Footer .Container .FooterLogoSec {
+      width: 40%;
+      padding-right: 50px;
+}
+
+.FooterLogoSec a img {
+      width: 125px;
+      margin: 5px 0px 25px 0px;
+}
+
+.FooterLogoSec p {
+      color: #d1d1d1;
+      font-size: 1.6rem;
+      margin-bottom: 25px;
+}
+
+.FooterLogoSec p:hover {
+      color: white;
+}
+
+
+.FooterLogoSec svg {
+      color: white;
+      width: 42px;
+      height: 40px;
+      margin-right: 15px;
+      border: 1px solid white;
+      border-radius: 6px;
+      padding: 8px;
+}
+
+.FooterLinksSec,
+.FooterContactSec {
+      width: 25%;
+      padding-top: 50px;
+}
+
+.FooterLinksSec p,
+.FooterContactSec p {
+      font-size: 2.6rem;
+      color: white;
+}
+
+.FooterLinksWrapper a,
+.FooterContactSec a {
+      display: block;
+      text-decoration: none;
+      color: #d1d1d1;
+      font-size: 1.8rem;
+      text-transform: capitalize;
+      margin: 10px 0px;
+}
+
+.FooterLinksWrapper a:hover,
+.FooterContactSec a:hover {
+      color: white;
+}
+
+.FooterContactSec a svg {
+      margin-right: 8px;
+      margin-top: 5px;
+}
+
+.FooterContactSec a {
+      display: flex;
+}
+
+.Rights {
+      background-color: #222F63;
+      padding: 25px 0px;
+}
+
+.Rights p {
+      color: white;
+      font-size: 1.2rem;
+      text-align: center;
+      margin-bottom: 0px;
+}
+
+.ContactUsLeft form input,
+.ContactUsLeft form textarea {
+      width: 80%;
+      padding: 12px 8px;
+      border-radius: 8px;
+      margin-bottom: 30px;
+      font-size: 1.8rem;
+      border: 1px solid #222F63;
+}
+
+.ContactUsLeft form input:focus-visible,
+.ContactUsLeft form textarea:focus-visible {
+      outline: none;
+}
+
+form button {
+      margin-top: 0px;
+      display: block;
+}
+
+.ContactUsLeft {
+      width: 48%;
+}
+
+.ContactUsRight {
+      width: 52%;
+      /* background-image: url(../../../public/Images/contactUs.webp);
+      background-repeat: no-repeat;
+      background-size: cover;
+      border-radius: 12px;
+      background-position: 60% 100%; */
+}
+
+.ContactUsRight img {
+      width: 100%;
+      border-radius: 50%;
+}
+
+
+/* GOOGLE FORM SETTINGS */
+
+
+.FormSubmited {
+      position: fixed;
+      width: 100%;
+      height: 100vh;
+      z-index: 999;
+      top: 0;
+      background: #000000cf;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+.FormSubmited p {
+      width: 60%;
+      height: 350px;
+      background: black;
+      font-size: 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+}
+
+.FormSubmited p svg {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      width: 35px;
+      height: 35px;
+      cursor: pointer;
+}
+
+
+.ServicesWrapper {
+      height: 85vh;
+      background-image: url(/public/Images/ServicePageHeroBg.webp);
+      position: relative;
+      background-position: 100% 100%;
+      background-size: contain;
+      background-repeat: no-repeat;
+}
+
+.UsImmigrationMainPage .OurServices {
+      padding-top: 0px;
+}
+
+.UsImmigrationMainPage .OurServices .overlay,
+.ServicePage .ServicesWrapper .overlay {
+      height: 100%;
+}
+
+.ServicesWrapper .Container {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      height: 100%;
+}
+
+.ServicesWrapper .Container p {
+      width: 90%;
+      margin-bottom: 50px;
+}
+
+.ServicesWrapper .Container a {
+      color: white;
+}
+
+.ServiceGrid {
+      padding-top: 100px;
+}
+
+.BreadCrumb {
+      margin: 80px 0px;
+}
+
+.BreadCrumb .Container {
+      background-color: #222F63;
+      padding: 25px;
+}
+
+.BreadCrumb .Container a {
+      font-size: 2.2rem;
+      color: white;
+      margin-right: 15px;
+}
+
+.BreadCrumb .Container a::after {
+      content: '/';
+      margin-left: 15px;
+}
+
+.BreadCrumb .Container a:last-child::after {
+      content: '';
+}
+
+.service-name {
+      font-size: 3rem;
+      border-top: 1px solid black;
+      border-bottom: 1px solid black;
+      padding: 25px;
+      margin-bottom: 50px;
+}
+
+.ServiceHead {
+      font-size: 2.4rem;
+      text-align: left;
+      margin-bottom: 0px;
+      font-weight: 500;
+}
+
+.ServiceContent {
+      font-size: 2.2rem;
+}
+
+.ServiceAccordion button {
+      border: none;
+      width: 100%;
+      padding: 25px;
+      margin-bottom: 15px;
+}
+
+.ServiceAccordion button:hover {
+      background-color: #222F63;
+      color: white;
+      border-left: 5px solid red !important;
+}
+
+.ServiceAccordion strong,
+b {
+      font-weight: 700 !important;
+}
+
+.ServiceAccordion ul,
+.ServiceAccordion ol {
+      margin-left: 20px;
+}
+
+.Service-Accordion-body {
+      padding: 10px 0px;
+}
+
+.accordion-header {
+      border-radius: 8px;
+      border-left: 5px solid #222F63 !important;
+}
+.FaqsContent .accordion-header {
+      border-radius: 8px;
+      border-left: none !important;
+}
+.accordion-header .ServiceHead span {
+      font-size: 1.5rem;
+}
+
+.ServicePage .ContactUs {
+      background-color: #f5f5f7;
+      padding: 100px 0px;
+      margin-top: 100px;
+}
+
+.Tabs {
+      margin: 80px 0px;
+}
+
+.Tabs a {
+      font-size: 1.5rem;
+      background-color: #222F63;
+      border: none;
+      display: inline-block;
+      width: max-content;
+      padding: 8px 18px;
+      border-radius: 25px;
+      cursor: pointer;
+      color: white;
+      margin-right: 5px;
+}
+.Tabs .activeTab
+{
+      background-color: red;
+}
+.Tabs a:hover
+{
+      background-color: red;
+      color: white;
+}
+.Tabs a {
+      text-decoration: none;
+      color: white;
+}
+td, th
+{
+      border: 1px solid #222F63 !important;
+      padding:10px;
+}
+tr:hover td
+{
+      background-color: #222F63;
+      color: white;
+}

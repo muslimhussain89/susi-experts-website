@@ -1,0 +1,90 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  font-family: 'ProxiRegular';
+  overflow-x: hidden;
+}
+
+@font-face {
+  font-family: 'ProxiBold';
+  src: url('./assets/fonts/proximanova_bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'ProxiMedium';
+  src: url('./assets/fonts/proximanova_medium.otf') format('opentype');
+}
+@font-face {
+  font-family: 'ProxiRegular';
+  src: url('./assets/fonts/proximanova_regular.ttf') format('opentype');
+}
+@font-face {
+  font-family: 'ProxiLight';
+  src: url('./assets/fonts/proximanova_light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'InterBlack';
+  src: url('./assets/fonts/Inter/InterTight-Black.ttf') format('opentype');
+}
+
+@font-face {
+  font-family: 'InterLight';
+  src: url('./assets/fonts/Inter/InterTight-Light.ttf') format('opentype');
+}
+@font-face {
+  font-family: 'InterMedium';
+  src: url('./assets/fonts/Inter/InterTight-Medium.ttf') format('opentype');
+}
+p,h1,h2,h3
+{
+  margin: 0;
+}
+a
+{
+  text-decoration: none !important;
+}
+
+
+/* Styles for mobile */
+@media (min-width: 250px) {
+  html {
+    font-size: 48%;
+  }
+}
+
+/* Styles for small tablets */
+@media screen and (min-width: 768px) {
+  html {
+    font-size: 52%;
+  }
+}
+
+/* Styles for tablets */
+@media screen and (min-width: 1024px) {
+  html {
+    font-size: 55%;
+  }
+}
+
+/* Styles for laptops and desktops */
+@media screen and (min-width: 1450px) {
+  html {
+    font-size: 62.5%;
+  }
+}
+
+/* Styles for laptops and desktops */
+@media screen and (min-width: 1920px) {
+  html {
+    font-size: 72.5%;
+  }
+}
+
+/* Styles for large screens */
+@media screen and (min-width: 2060px) {
+  html {
+    font-size: 78.5%;
+  }
+}
