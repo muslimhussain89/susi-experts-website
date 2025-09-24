@@ -1,5 +1,6 @@
 import { NiwEntrepreneur } from "../../Components/AllServicesContent";
 import ServicesBread from "../../Components/ServicesBread";
+import Sidebar from "../../Components/Sidebar";
 
 export default function NiwEntrepreneurs() {
   return (
@@ -18,27 +19,29 @@ export default function NiwEntrepreneurs() {
             entrepreneurs and innovative ventures.
           </p>
           <button className="SisuButton1">
-            <a href="/profile-evaluation">
-              Evaluate Profile for NIW for Entrepreneurs
-            </a>
+            <a href="/profile-evaluation">Evaluate Profile for Entrepreneurs</a>
           </button>
         </div>
         <div className="overlay"></div>
       </div>
-      <ServicesBread bread3={"NIW for Entrepreneurs"} />
-      <div className="ServiceDetailSection">
-              <div className="Container">
-                <p className="service-name">
-                  NIW for Entrepreneurs
-                </p>
-      
-                <p className="ServiceContent">
-                  {NiwEntrepreneur.map((item, index) => (
-                    <div key={index}>{item}</div>
-                  ))}
-                </p>
-              </div>
+      <div className="Container">
+        <div className="page-divider">
+          <Sidebar />
+          <div className="ServiceDetailSection">
+            <div className="Container">
+              <ServicesBread bread3={"NIW for Entrepreneurs"} />
+
+              <p className="service-name">NIW for Entrepreneurs</p>
+
+              <p className="ServiceContent">
+                {NiwEntrepreneur.map((item, index) => (
+                  <div key={index}>{item}</div>
+                ))}
+              </p>
             </div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

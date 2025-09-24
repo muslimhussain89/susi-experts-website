@@ -35,7 +35,7 @@
 }
 
 .Container {
-      max-width: 1450px;
+      max-width: 1650px;
       margin: 0 auto;
 }
 
@@ -79,14 +79,15 @@
       transition: all 0.2s ease;
       /* font-weight: 500; */
 }
-.PageHead
-{
-    font-size: 5rem;  
+
+.PageHead {
+      font-size: 4rem;
 }
+
 .HeroSection p,
 .HeroSection button,
 .ServicesWrapper .Container p {
-      font-size: 3rem;
+      font-size: 2.5rem;
       /* color: rgb(206, 206, 206); */
       color: black;
       width: 50%;
@@ -100,7 +101,7 @@
 .AboutContent button,
 form button,
 .SisuButton1 {
-      font-size: 2.5rem;
+      font-size: 2rem;
       background-color: #222F63;
       border: none;
       display: inline-block;
@@ -497,6 +498,7 @@ form button,
 .TestiName {
       font-size: 2rem;
 }
+
 .EachTesti p {
       font-size: 1.6rem;
 }
@@ -771,8 +773,8 @@ form button {
       padding-top: 100px;
 }
 
-.BreadCrumb {
-      margin: 80px 0px;
+.page-divider {
+      margin: 40px 0px;
 }
 
 .BreadCrumb .Container {
@@ -804,14 +806,14 @@ form button {
 }
 
 .ServiceHead {
-      font-size: 2.4rem;
+      font-size: 2rem;
       text-align: left;
       margin-bottom: 0px;
       font-weight: 500;
 }
 
 .ServiceContent {
-      font-size: 2.2rem;
+      font-size: 1.8rem;
 }
 
 .ServiceAccordion button {
@@ -838,17 +840,19 @@ b {
 }
 
 .Service-Accordion-body {
-      padding: 10px 0px;
+      padding: 8px 0px;
 }
 
 .accordion-header {
       border-radius: 8px;
       border-left: 5px solid #222F63 !important;
 }
+
 .FaqsContent .accordion-header {
       border-radius: 8px;
       border-left: none !important;
 }
+
 .accordion-header .ServiceHead span {
       font-size: 1.5rem;
 }
@@ -860,7 +864,7 @@ b {
 }
 
 .Tabs {
-      margin: 80px 0px;
+      margin: 40px 0px;
 }
 
 .Tabs a {
@@ -875,26 +879,60 @@ b {
       color: white;
       margin-right: 5px;
 }
-.Tabs .activeTab
-{
+
+.Tabs .activeTab {
       background-color: red;
 }
-.Tabs a:hover
-{
+
+.Tabs a:hover {
       background-color: red;
       color: white;
 }
+
 .Tabs a {
       text-decoration: none;
       color: white;
 }
-td, th
-{
+
+td,
+th {
       border: 1px solid #222F63 !important;
-      padding:10px;
+      padding: 10px;
 }
-tr:hover td
-{
+
+tr:hover td {
       background-color: #222F63;
       color: white;
+}
+
+.page-divider {
+      display: flex;
+      justify-content: space-between;
+}
+
+.sidebar {
+      width: 22%;
+      height:min-content;
+      border: 1px solid black;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+.sidebar a
+{
+      font-size: 1.4rem;
+}
+.sidebar p {
+      font-size: 2.2rem;
+      color: white;
+      background-color: #222F63;
+      padding: 25px;
+}
+.Outlet,
+.ServiceDetailSection
+{
+      width: 74%;
+}
+.sidebar ul li
+{
+      margin-bottom: 8px;
 }

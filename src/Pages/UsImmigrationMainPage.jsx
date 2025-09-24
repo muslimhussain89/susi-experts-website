@@ -50,7 +50,7 @@ export default function UsImmigrationMainPage() {
                 We provide degree equivalence services for individuals planning
                 to study or immigrate to the U.S. and Canada.
               </p>
-              <a href="">Read More</a>
+              <a href="/eb1-a">Read More</a>
             </div>
             <div className="EachService">
               <div className="ServiceImage">
@@ -62,7 +62,7 @@ export default function UsImmigrationMainPage() {
                 documents for U.S. immigration applications. Our concise and
                 compelling summaries effectively highlight achievements...
               </p>
-              <a href="">Read More</a>
+              <a href="/eb1-b">Read More</a>
             </div>
             <div className="EachService">
               <div className="ServiceImage">
@@ -74,7 +74,7 @@ export default function UsImmigrationMainPage() {
                 letters tailored to enhance your application. Whether for
                 employment, education, or immigration...
               </p>
-              <a href="">Read More</a>
+              <a href="/perm-labor-certification">Read More</a>
             </div>
             <div className="EachService">
               <div className="ServiceImage">

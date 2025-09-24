@@ -13,6 +13,19 @@ import ProcessingOfNiW from "./Pages/ServicesPages/ProcessingOfNiW";
 import BenefitOfNiw from "./Pages/ServicesPages/BenefitOfNiw";
 import Eb2NiwFaqs from "./Pages/ServicesPages/Eb2NiwFaqs";
 import NiwEntrepreneurs from "./Pages/ServicesPages/NiwEntrepreneurs";
+import Eb1A from "./Pages/ServicesPages/Eb1A";
+import Eb1B from "./Pages/ServicesPages/Eb1B";
+import Eb1AOutlet from "./Pages/ServicesPages/Eb1AOutlet";
+import Eb1BOutlet from "./Pages/ServicesPages/Eb1BOutlet";
+import LegalFeeEb1A from "./Pages/ServicesPages/LegalFeeEb1A";
+import LegalFeeEb1B from "./Pages/ServicesPages/LegalFeeEb1B";
+import ProcessingOfEb1A from "./Pages/ServicesPages/ProcessingOfEb1A";
+import ProcessingOfEb1B from "./Pages/ServicesPages/ProcessingOfEb1B";
+import Eb1AFaqs from "./Pages/ServicesPages/Eb1AFaqs";
+import Eb1BFaqs from "./Pages/ServicesPages/Eb1BFaqs";
+import LaborCertificationOutlet from "./Pages/ServicesPages/LaborCertificationOutlet";
+import LaborCertificationServiceTabs from "./Components/LaborCertificationServiceTabs";
+import LaborCertification from "./Pages/ServicesPages/LaborCertification";
 
 function App() {
   return (
@@ -32,7 +45,34 @@ function App() {
           <Route path="benefits-of-niw" element={<BenefitOfNiw />} />
           <Route path="niw-faqs" element={<Eb2NiwFaqs />} />
         </Route>
+
         <Route path="/niw-entrepreneurs" element={<NiwEntrepreneurs />} />
+
+        {/* Nested route setup for EB1-A (Extraordinary Ability)  */}
+        <Route path="/eb1-a" element={<Eb1AOutlet />}>
+          <Route index element={<Eb1A />} />
+          <Route path="eb1-a-legal-fee" element={<LegalFeeEb1A />} />
+          <Route path="processing-of-eb1-a" element={<ProcessingOfEb1A />} />
+          <Route path="eb1-a-faqs" element={<Eb1AFaqs />} />
+        </Route>
+
+        {/* Nested route setup for EB1-B  */}
+        <Route path="/eb1-b" element={<Eb1BOutlet />}>
+          <Route index element={<Eb1B />} />
+          <Route path="eb1-b-legal-fee" element={<LegalFeeEb1B />} />
+          <Route path="processing-of-eb1-b" element={<ProcessingOfEb1B />} />
+          <Route path="eb1-b-faqs" element={<Eb1BFaqs />} />
+        </Route>
+
+        {/* Nested route setup for EB1-B  */}
+        <Route path="/perm-labor-certification" element={<LaborCertificationOutlet />}>
+          <Route index element={<LaborCertification />} />
+          <Route path="eb1-b-legal-fee" element={<LegalFeeEb1B />} />
+        </Route>
+
+
+
+
       </Routes>
       <Footer />
     </BrowserRouter>

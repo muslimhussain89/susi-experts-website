@@ -1,4 +1,5 @@
 import { Outlet } from "react-router-dom";
+import Sidebar from "../../Components/Sidebar";
 
 export default function Eb2NiwOutlet() {
   return (
@@ -21,7 +22,14 @@ export default function Eb2NiwOutlet() {
         </div>
         <div className="overlay"></div>
       </div>
-      <Outlet /> {/* Child components will be rendered here */}
+      <div className="Container">
+        <div className="page-divider">
+          <Sidebar />
+          <div className="Outlet">
+            <Outlet />
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

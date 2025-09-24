@@ -1586,11 +1586,8 @@ export const ProcessingNiw = [
         We are fully confident in our ability to represent our clients
         successfully. In fact, we are the only U.S. immigration law firm
         offering a refund policy on I-140 petitions. This is not just a
-        promise—it is a binding term clearly stated in the<span> </span>
-        <a href="https://www.wegreened.com/Legal-Fees">
-          attorney-client contract
-        </a>
-        .
+        promise—it is a binding term clearly stated in the attorney-client
+        contract .
       </>
     ),
   },
@@ -3065,10 +3062,10 @@ export const NiwFaqs = [
     content: (
       <>
         <p>
-          Yes. Ph.D. students may apply if they can show their{" "}
+          Yes. Ph.D. students may apply if they can show their
           <strong>research or work has national importance</strong> and that
           they are <strong>well positioned</strong> to advance it. Many
-          successful cases were filed while applicants were{" "}
+          successful cases were filed while applicants were
           <strong>still Ph.D. candidates</strong>. Explore our success stories
           here:
           <br />
@@ -3131,12 +3128,11 @@ export const NiwFaqs = [
       <>
         {" "}
         <p>
-          <strong>EB1-A</strong> requires proof of{" "}
-           extraordinary ability  with{" "}
+          <strong>EB1-A</strong> requires proof of extraordinary ability with{" "}
           <strong>sustained national or international recognition</strong>. In
           contrast, <strong>EB2 NIW</strong> focuses on whether the applicant’s
-          work benefits the  national interest , and its
-          threshold is generally more accessible. You may file{" "}
+          work benefits the national interest , and its threshold is generally
+          more accessible. You may file{" "}
           <strong>both petitions at the same time</strong>, and USCIS reviews
           them independently. Many applicants pursue both to increase approval
           chances.
@@ -3184,155 +3180,3387 @@ export const NiwFaqs = [
   },
 ];
 
-
-
-
-
 // **************************************************************************************************
-// ************************ LEGAL FEE  **********************************************
+// ************************ Niw Entrepreneur  **********************************************
 // **************************************************************************************************
 
 export const NiwEntrepreneur = [
   <>
-  <strong>National Interest Waiver (NIW) for Entrepreneurs</strong> <br /><br />
+    <strong>National Interest Waiver (NIW) for Entrepreneurs</strong> <br />
+    <br />
     <p>
-      Thanks to recent updates in the <b>USCIS Policy Manual</b>, entrepreneurs now have
-      a clearer pathway to secure a green card through the National Interest Waiver (NIW).
-      Unlike traditional immigration routes requiring employer sponsorship, the NIW empowers
-      entrepreneurs to self-petition if they can demonstrate that their work significantly benefits
-      the United States. This page explains how founders and innovators can use the NIW to
-      establish and grow businesses in the U.S. while driving economic growth, innovation,
-      and societal impact.
+      Thanks to recent updates in the <b>USCIS Policy Manual</b>, entrepreneurs
+      now have a clearer pathway to secure a green card through the National
+      Interest Waiver (NIW). Unlike traditional immigration routes requiring
+      employer sponsorship, the NIW empowers entrepreneurs to self-petition if
+      they can demonstrate that their work significantly benefits the United
+      States. This page explains how founders and innovators can use the NIW to
+      establish and grow businesses in the U.S. while driving economic growth,
+      innovation, and societal impact.
+    </p>
+    <br />
+    <strong>What is the NIW for Entrepreneurs?</strong>
+    <br />
+    <br />
+    <p>
+      The National Interest Waiver allows qualified individuals to bypass labor
+      certification and employer sponsorship if their endeavor holds substantial
+      merit and national importance. While historically associated with
+      researchers and academics, recent policy updates emphasize its relevance
+      to entrepreneurs. To qualify, applicants must show that their venture
+      benefits the U.S. and that they are well-positioned to advance it
+      successfully.
+    </p>
+    <br />
+    <strong>Academic vs. Entrepreneurial NIW Pathways</strong>
+    <br />
+    <br />
+    <table class="bluetable">
+      <thead>
+        <tr>
+          <th scope="col">Aspect</th>
+          <th scope="col">NIW for Academia</th>
+          <th scope="col">NIW for Entrepreneurs</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Focus of Endeavor</td>
+          <td>Research with recognized national or global significance</td>
+          <td>Business solutions addressing critical U.S. needs</td>
+        </tr>
+        <tr>
+          <td>Evidentiary Basis</td>
+          <td>Publications, citations, and academic honors</td>
+          <td>Business plans, financial growth, and innovation milestones</td>
+        </tr>
+        <tr>
+          <td>Evaluation Metrics</td>
+          <td>Scholarly impact and peer recognition</td>
+          <td>Job creation, market expansion, and national impact</td>
+        </tr>
+        <tr>
+          <td>Key Documents</td>
+          <td>Research papers, recommendation letters, academic summaries</td>
+          <td>
+            Business plans, financial records, IP filings, and endorsements
+          </td>
+        </tr>
+        <tr>
+          <td>Unique Considerations</td>
+          <td>Proven research excellence</td>
+          <td>Founder’s leadership and demonstrated entrepreneurial success</td>
+        </tr>
+        <tr>
+          <td>Third-Party Validation</td>
+          <td>Scholarly citations, academic endorsements</td>
+          <td>
+            Investor backing, accelerator/incubator participation, industry
+            recognition
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <br />
+    <br />
+    <strong>Core Eligibility Requirements for NIW Entrepreneurs</strong>
+    <br />
+    <br />
+    <ol>
+      <li>
+        <b>Substantial Merit:</b> The venture must provide clear value—economic,
+        cultural, educational, or social. Examples include new technologies,
+        public health initiatives, or sustainable solutions.
+      </li>
+      <li>
+        <b>National Importance:</b> The business must extend beyond local
+        benefits, addressing broader U.S. or global priorities such as{" "}
+        <b>job creation, competitiveness, and public welfare</b>.
+      </li>
+      <li>
+        <b>Entrepreneur’s Positioning:</b> Applicants must show they have the
+        expertise, experience, and resources to carry the endeavor forward.
+      </li>
+    </ol>
+    <br />
+    <strong>Meeting NIW Standards as an Entrepreneur</strong>
+    <br />
+    <br />
+    <strong>1. Substantial Merit</strong>
+    <br />
+    <br />
+    <ul>
+      <li>
+        Present a strong business plan with objectives, market research, and
+        innovation strategy.
+      </li>
+      <li>
+        Provide data, studies, or reports showing economic or social impact.
+      </li>
+      <li>
+        Include evidence of awards, grants, or endorsements supporting the
+        venture.
+      </li>
+    </ul>
+    <br />
+    <strong>2. National Importance</strong>
+    <br />
+    <br />
+    <ul>
+      <li>
+        Show how your business addresses critical U.S. needs such as workforce
+        development or innovation gaps.
+      </li>
+      <li>Provide evidence of national or industry-wide significance.</li>
+    </ul>
+    <br />
+    <strong>3. Entrepreneur’s Positioning</strong>
+    <br />
+    <br />
+    <ul>
+      <li>
+        Highlight credentials such as education, prior startups, or industry
+        expertise.
+      </li>
+      <li>
+        Show your active leadership role (e.g., founder, CEO, or principal
+        decision-maker).
+      </li>
+      <li>
+        Submit proof of investor backing, accelerator participation, or industry
+        support.
+      </li>
+    </ul>
+    <br />
+    <strong>Evidence Commonly Submitted by Entrepreneurs</strong>
+    <br />
+    <br />
+    <ul>
+      <li>
+        <b>Ownership and Role:</b> Proof of direct involvement in the U.S.-based
+        entity.
+      </li>
+      <li>
+        <b>Funding:</b> Documentation of secured investments from credible
+        sources.
+      </li>
+      <li>
+        <b>Accelerator/Incubator:</b> Acceptance into competitive
+        entrepreneurial programs.
+      </li>
+      <li>
+        <b>Intellectual Property:</b> Patents, trademarks, or IP licenses
+        showcasing innovation.
+      </li>
+      <li>
+        <b>Media Coverage:</b> Press articles or features highlighting
+        achievements.
+      </li>
+      <li>
+        <b>Revenue & Job Creation:</b> Metrics showing economic contribution.
+      </li>
+      <li>
+        <b>Third-Party Endorsements:</b> Letters from investors, experts, or
+        policymakers.
+      </li>
+    </ul>
+    <br />
+    <strong>Essential Documents for Entrepreneurial NIW Petitions</strong>
+    <br />
+    <br />
+    <ul>
+      <li>
+        Detailed business plan with market analysis and financial projections.
+      </li>
+      <li>Investment or funding agreements.</li>
+      <li>Letters of support from investors, industry leaders, or experts.</li>
+      <li>Media features and recognition.</li>
+      <li>Intellectual property filings and awards.</li>
+    </ul>
+    <br />
+    <strong>Conclusion: Why the NIW Matters</strong>
+    <br />
+    <br />
+    <p>
+      Whether you are advancing research or building a business, the National
+      Interest Waiver offers a flexible and powerful pathway to U.S. permanent
+      residency. For entrepreneurs, the NIW is now a practical option to
+      establish ventures, create jobs, and strengthen the U.S. economy.
+    </p>
+    <br />
+    <p>
+      At <b>WeGreened.com - North America Immigration Law Group</b>, we
+      specialize in tailored NIW petitions for both academics and entrepreneurs.
+      With an approval rate above <b>99%</b> through our “Approval or Refund
+      <sup>®</sup>” service, our team has the expertise to maximize your
+      success.
+    </p>
+    <br />
+    <br />
+  </>,
+];
+
+// **************************************************************************************************
+// ************************ NIW MAIN PAGE ALL CONTENT **********************************************
+// **************************************************************************************************
+
+export const Eb1AOverview = [
+  {
+    title: "Introduction:",
+    content: (
+      <>
+        <p>
+          EB1-A (Alien of Extraordinary Ability) , also known as EB1-EA, is a
+          subgroup of the first-preference employment-based immigration (EB-1).
+          At <b>North America Immigration Law Group</b>, we specialize in EB1-A
+          petitions for individuals with extraordinary ability in science, arts,
+          education, business, or athletics. Unlike EB1-B, EB1-C, and other
+          employment-based categories, EB1-A does not require a job offer or
+          employer sponsorship. Applicants must demonstrate they will continue
+          working in their field of expertise and that their contributions will
+          substantially benefit the U.S. The most challenging requirement is
+          proving sustained national or international acclaim. With extensive
+          experience, our firm has developed winning strategies to build strong
+          EB1-A cases through comprehensive documentation and persuasive legal
+          argumentation.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Advantages: No Labor Certification, Self-Petition Allowed",
+    content: (
+      <>
+        <p>
+          EB1-A offers significant advantages. Most importantly, applicants can{" "}
+          self-petition without a U.S. employer, provided they will continue
+          working in their area of extraordinary ability. While self-petition is
+          possible, we strongly recommend professional legal assistance due to
+          the complex regulations involved. Our attorneys have successfully
+          handled thousands of EB1-A petitions.
+        </p>
+        <p>
+          Another benefit is that no labor certification is required. Since
+          labor certification is a lengthy process, EB1-A saves applicants
+          considerable time, making it one of the fastest routes to a green card
+          for qualified individuals.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Qualifications for EB1-A",
+    content: (
+      <>
+        <p>To qualify for EB1-A, the petitioner must demonstrate:</p>
+        <ul>
+          <li>
+            National or international acclaim for outstanding achievements
+          </li>
+          <li>Intent to continue working in the same field of endeavor</li>
+          <li>
+            That their presence and contributions will substantially benefit the
+            United States
+          </li>
+        </ul>
+        <p>
+          For detailed criteria, see &nbsp;
+          <a
+            href="https://www.wegreened.com/EB1A_qualification"
+            class="link_underline"
+          >
+            EB1-A Qualification Guide <i class="fa fa-external-link"></i>
+          </a>
+          .
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Definitions and Evidence of “Extraordinary Ability”",
+    content: (
+      <>
+        <p>
+          USCIS defines “extraordinary ability” as being among the top few
+          percent in one’s field, demonstrated through sustained acclaim and
+          recognition. Evidence may include major international awards (e.g.,
+          Nobel Prize, Academy Award) or at least three of the following:
+        </p>
+        <ol>
+          <li>Nationally or internationally recognized prizes or awards</li>
+          <li>Membership in associations requiring outstanding achievement</li>
+          <li>
+            Published material about the individual in major journals or media
+          </li>
+          <li>Judging the work of peers in the field</li>
+          <li>Original contributions of major significance</li>
+          <li>Authorship of scholarly articles</li>
+          <li>Exhibition of work at major venues</li>
+          <li>Leading or critical role in distinguished organizations</li>
+          <li>High salary compared to others in the field</li>
+          <li>Commercial success in the performing arts</li>
+          <li>Other comparable evidence if above do not apply</li>
+        </ol>
+        <p>
+          Since not all criteria apply equally across fields, it is crucial to
+          identify the most relevant evidence. Our attorneys are skilled at
+          tailoring evidence strategies. See more in
+          <a href="#" class="link_underline">
+            EB1-A Documentation Guide <i class="fa fa-external-link"></i>
+          </a>
+          .
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Proving “Very Top of the Field”",
+    content: (
+      <>
+        <p>
+          USCIS requires that the applicant belongs to the small percentage at
+          the top of their field. Defining the field of endeavor is crucial—too
+          broad makes it difficult to stand out, while too narrow may appear
+          artificial. Our attorneys help clients strategically define their
+          field based on education and professional experience. For more
+          insights, see Victoria Chen’s article:
+          <a href="#" class="link_underline">
+            Have You Risen to the Top of the Endeavor?{" "}
+            <i class="fa fa-external-link"></i>
+          </a>
+          .
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Presenting Evidence Effectively",
+    content: (
+      <>
+        <p>
+          Strong EB1-A petitions emphasize comparison. For instance, in academic
+          fields where publishing is common, showing that the applicant’s work
+          appears in top-tier journals or has been extensively cited
+          distinguishes them from peers. Our attorneys structure evidence to
+          clearly demonstrate such comparisons.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Comparing with Approved Cases",
+    content: (
+      <>
+        <p>
+          While USCIS discourages direct comparisons with prior approvals,
+          courts and the AAO have affirmed that such comparisons are relevant in
+          establishing extraordinary ability. Our team strategically references
+          similar cases to strengthen arguments.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "The Two-Part Approach",
+    content: (
+      <>
+        <p>
+          Following the 2010 Ninth Circuit Kazarian case, USCIS uses a two-step
+          framework:
+          <b>Step 1:</b> Verify if at least three types of evidence are met.
+          <b>Step 2:</b> Final merits determination, assessing whether the
+          applicant truly belongs to the top of their field. Learn more in our
+          detailed summary:
+          <a
+            href="https://www.wegreened.com/EB1A_twopart"
+            class="link_underline"
+          >
+            Two-Part Approach for EB1-A <i class="fa fa-external-link"></i>
+          </a>
+          .
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Applying from Outside the U.S.",
+    content: (
+      <>
+        <p>
+          Applicants abroad can also pursue EB1-A. For details, see:
+          <a
+            href="https://www.wegreened.com/How-Can-I-get-a-Green-Card-Outside-the-US"
+            class="link_underline"
+          >
+            EB1-A from Outside the U.S.
+          </a>
+          .
+        </p>
+
+        <ul>
+          <li>
+            <a href="https://www.wegreened.com/EB1A">
+              EB1-A (Alien of Extraordinary Ability)
+            </a>
+          </li>
+          <li>
+            <a href="https://www.wegreened.com/EB1B-Outstanding-Professors-and-Researchers">
+              EB1-B: Outstanding Professors and Researchers
+            </a>
+          </li>
+          <li>
+            <a href="https://www.wegreened.com/EB1C-Multinational-Executives-or-Managers">
+              EB1-C: Multinational Executives or Managers
+            </a>
+          </li>
+          <li>
+            <a href="https://www.wegreened.com/eb1">EB1 Visa Requirements</a>
+          </li>
+          <li>
+            <a href="https://www.wegreened.com/EB1A_twopart">
+              Two-Part Approach for EB1-A
+            </a>
+          </li>
+        </ul>
+      </>
+    ),
+  },
+];
+
+// **************************************************************************************************
+// ************************ LEGAL FEE EB 1 A  **********************************************
+// **************************************************************************************************
+
+export const LeagalFeeEB1A = [
+  <>
+    <strong>
+      <i></i> Approval or Refund
+    </strong>
+    <br />
+    <br />
+    <p>
+      We stand by our commitment—either your case gets approved, or you receive
+      a full refund. No other law firm offers this level of assurance. Our
+      proven EB1-A strategies give us complete confidence in every petition we
+      file.
     </p>
     <br />
 
-  <strong>What is the NIW for Entrepreneurs?</strong><br /><br />
-  <p>
-    The National Interest Waiver allows qualified individuals to bypass labor
-    certification and employer sponsorship if their endeavor holds substantial merit and
-    national importance. While historically associated with researchers and academics,
-    recent policy updates emphasize its relevance to entrepreneurs. To qualify,
-    applicants must show that their venture benefits the U.S. and that they are
-    well-positioned to advance it successfully.
-  </p><br />
+    <strong>
+      <i></i> Winning Strategies — from Start to Approval
+    </strong>
+    <br />
+    <br />
+    <p>
+      Once you hire us, our focus is entirely on getting your petition approved.
+      After years of studying thousands of cases and legal opinions, we’ve
+      developed strategies that present your achievements in a clear and
+      compelling way that USCIS cannot easily deny. While final approval is at
+      the officer’s discretion, USCIS must maintain consistency in its
+      decisions.
+    </p>
 
-  <strong>Academic vs. Entrepreneurial NIW Pathways</strong><br /><br />
-  <table class="bluetable">
-    <thead>
-      <tr>
-        <th scope="col">Aspect</th>
-        <th scope="col">NIW for Academia</th>
-        <th scope="col">NIW for Entrepreneurs</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Focus of Endeavor</td>
-        <td>Research with recognized national or global significance</td>
-        <td>Business solutions addressing critical U.S. needs</td>
-      </tr>
-      <tr>
-        <td>Evidentiary Basis</td>
-        <td>Publications, citations, and academic honors</td>
-        <td>Business plans, financial growth, and innovation milestones</td>
-      </tr>
-      <tr>
-        <td>Evaluation Metrics</td>
-        <td>Scholarly impact and peer recognition</td>
-        <td>Job creation, market expansion, and national impact</td>
-      </tr>
-      <tr>
-        <td>Key Documents</td>
-        <td>Research papers, recommendation letters, academic summaries</td>
-        <td>Business plans, financial records, IP filings, and endorsements</td>
-      </tr>
-      <tr>
-        <td>Unique Considerations</td>
-        <td>Proven research excellence</td>
-        <td>Founder’s leadership and demonstrated entrepreneurial success</td>
-      </tr>
-      <tr>
-        <td>Third-Party Validation</td>
-        <td>Scholarly citations, academic endorsements</td>
-        <td>Investor backing, accelerator/incubator participation, industry recognition</td>
-      </tr>
-    </tbody>
-  </table><br /><br />
+    <br />
+    <strong>
+      <i></i> Attorneys from Top Law Schools
+    </strong>
+    <br />
+    <br />
+    <p>
+      Unlike many other immigration firms, we only employ attorneys with Juris
+      Doctor degrees from leading law schools. This ensures you are represented
+      by professionals with deep knowledge of immigration law, USCIS
+      regulations, and court rulings. Our attorneys stay updated on the latest
+      changes and trends, providing you with highly skilled legal guidance in a
+      constantly evolving field.
+    </p>
 
-  <strong>Core Eligibility Requirements for NIW Entrepreneurs</strong><br /><br />
-  <ol>
-    <li>
-      <b>Substantial Merit:</b> The venture must provide clear value—economic, cultural,
-      educational, or social. Examples include new technologies, public health initiatives,
-      or sustainable solutions.
-    </li>
-    <li>
-      <b>National Importance:</b> The business must extend beyond local benefits,
-      addressing broader U.S. or global priorities such as <b>job creation,
-      competitiveness, and public welfare</b>.
-    </li>
-    <li>
-      <b>Entrepreneur’s Positioning:</b> Applicants must show they have the
-      expertise, experience, and resources to carry the endeavor forward.
-    </li>
-  </ol>
-<br />
-  <strong>Meeting NIW Standards as an Entrepreneur</strong><br /><br />
+    <br />
+    <strong>
+      <i></i> Legal Fee
+    </strong>
+    <br />
+    <br />
+    <p>
+      We charge a{" "}
+      <a href="https://www.wegreened.com/Legal-Fees" class="link_underline">
+        flat fee for EB-1 and NIW petitions
+      </a>
+      . Despite our approval guarantee, our fees remain fair and affordable so
+      that qualified applicants can achieve their American dream without
+      financial burden.
+    </p>
+    <p>
+      We are the only immigration firm that backs its I-140 services with a
+      binding refund policy, clearly stated in the{" "}
+      <a href="https://www.wegreened.com/Legal-Fees" class="link_underline">
+        attorney-client agreement
+      </a>
+      . This is not just a promise—it is a legal commitment.
+    </p>
+    <p>
+      Additionally, we offer flexible payment plans, allowing eligible clients
+      to pay in multiple installments.
+    </p>
 
-  <strong>1. Substantial Merit</strong><br /><br />
-  <ul>
-    <li>Present a strong business plan with objectives, market research, and innovation strategy.</li>
-    <li>Provide data, studies, or reports showing economic or social impact.</li>
-    <li>Include evidence of awards, grants, or endorsements supporting the venture.</li>
-  </ul><br />
+    <br />
+    <strong>
+      <i></i> Accepted Payment Methods
+    </strong>
+    <br />
+    <br />
+    <p>
+      We accept cash, personal checks, money orders, traveler’s checks,
+      cashier’s checks, wire transfers, as well as online payments via
+      MasterCard and Visa.
+    </p>
 
-  <strong>2. National Importance</strong><br /><br />
-  <ul>
-    <li>Show how your business addresses critical U.S. needs such as workforce development or innovation gaps.</li>
-    <li>Provide evidence of national or industry-wide significance.</li>
-  </ul><br />
+    <br />
+    <strong>
+      <i></i> What Does the Legal Fee Cover?
+    </strong>
+    <br />
+    <br />
+    <ol>
+      <li>
+        <span>Unlimited consultations during representation</span>: Once we
+        receive your signed agreement and payment, we provide full legal support
+        until your case is closed. This includes:
+        <ul>
+          <li>Keeping you updated on all case developments</li>
+          <li>Answering all your questions promptly</li>
+          <li>Returning phone calls without delay</li>
+          <li>Discussing the benefits and risks of your decisions</li>
+        </ul>
+        <br />
+      </li>
+      <li>
+        <span>Identifying recommenders</span>: We work with you to select the
+        most suitable recommenders for your case. While USCIS doesn’t set a
+        fixed number, typically 3–7 letters are recommended.
+      </li>
+      <br />
+      <li>
+        <span>Drafting recommendation letters</span>: Unlike many firms that
+        only provide templates or charge extra, we draft tailored letters for
+        you. Since strong letters are vital for success, you will provide us
+        with details about your recommenders, their reputation, and how their
+        expertise relates to your work.
+      </li>
+      <br />
+      <li>
+        <span>Preparing the petition letter</span>: After gathering your signed
+        recommendation letters, we create a legal summary and arguments aligned
+        with our proven strategy. You’ll receive a draft within a week for
+        review and revision until you’re fully satisfied.
+      </li>
+      <br />
+      <li>
+        <span>Form I-140 preparation and filing</span>: We prepare Form I-140,
+        compile evidence, and organize documentation per USCIS standards. You
+        will review and sign before we finalize and submit via FedEx.
+      </li>
+      <br />
+      <li>
+        <span>Responding to RFE</span>: If USCIS requests further evidence, we
+        promptly draft legal arguments and additional letters at no extra cost.
+      </li>
+      <br />
+      <li>
+        <span>In case of denial</span>: If denied, you may choose between a full
+        refund or a free appeal. This ensures that you are never left
+        unprotected.
+      </li>
+    </ol>
+    <br />
+  </>,
+];
 
-  <strong>3. Entrepreneur’s Positioning</strong><br /><br />
-  <ul>
-    <li>Highlight credentials such as education, prior startups, or industry expertise.</li>
-    <li>Show your active leadership role (e.g., founder, CEO, or principal decision-maker).</li>
-    <li>Submit proof of investor backing, accelerator participation, or industry support.</li>
-  </ul><br />
+// **************************************************************************************************
+// ************************ EB 1-A PROCESSING **********************************************
+// **************************************************************************************************
 
-  <strong>Evidence Commonly Submitted by Entrepreneurs</strong><br /><br />
-  <ul>
-    <li><b>Ownership and Role:</b> Proof of direct involvement in the U.S.-based entity.</li>
-    <li><b>Funding:</b> Documentation of secured investments from credible sources.</li>
-    <li><b>Accelerator/Incubator:</b> Acceptance into competitive entrepreneurial programs.</li>
-    <li><b>Intellectual Property:</b> Patents, trademarks, or IP licenses showcasing innovation.</li>
-    <li><b>Media Coverage:</b> Press articles or features highlighting achievements.</li>
-    <li><b>Revenue & Job Creation:</b> Metrics showing economic contribution.</li>
-    <li><b>Third-Party Endorsements:</b> Letters from investors, experts, or policymakers.</li>
-  </ul><br />
+export const Eb1A_Processing = [
+  {
+    title:
+      "Step 1: Free Evaluation: <br /> <span> EB1 Credential Test™ </span>",
+    content: (
+      <>
+        <strong>1. Submit a Free Evaluation Request</strong>
+        <p>
+          Start by sending us your resume along with basic details by submitting
+          a free evaluation request online. Simply click{" "}
+          <a
+            href="https://wenzo.wegreened.com/case_evaluation"
+            class="link_underline"
+            target="_blank"
+          >
+            here
+          </a>{" "}
+          to begin.
+        </p>
+        <br />
 
-  <strong>Essential Documents for Entrepreneurial NIW Petitions</strong><br /><br />
-  <ul>
-    <li>Detailed business plan with market analysis and financial projections.</li>
-    <li>Investment or funding agreements.</li>
-    <li>Letters of support from investors, industry leaders, or experts.</li>
-    <li>Media features and recognition.</li>
-    <li>Intellectual property filings and awards.</li>
-  </ul><br />
+        <strong>2. Receive a Personal Response from Our Lead Attorney</strong>
+        <br />
+        <br />
+        <p>
+          Our principal attorney will personally review your information, assess
+          your qualifications, and provide an honest evaluation of your chances
+          of success. At North America Immigration Law Group, we use a{" "}
+          <a
+            href="https://www.wegreened.com/EB1-NIW-CREDENTIAL-TEST"
+            class="link_underline"
+            title="EB1/NIW Credential Test™"
+          >
+            custom-designed credential test
+          </a>{" "}
+          based on immigration law, USCIS guidelines, AAO opinions, judicial
+          reviews, and our extensive experience. Your profile will be analyzed
+          for the EB1-A (Alien of Extraordinary Ability) category using this
+          framework and the attorney’s expertise.
+        </p>
+        <br />
 
-  <strong>Conclusion: Why the NIW Matters</strong><br /><br />
-  <p>
-    Whether you are advancing research or building a business, the National Interest Waiver
-    offers a flexible and powerful pathway to U.S. permanent residency. For entrepreneurs,
-    the NIW is now a practical option to establish ventures, create jobs, and strengthen
-    the U.S. economy.
-  </p><br />
-  <p>
-    At <b>WeGreened.com - North America Immigration Law Group</b>, we specialize in
-    tailored NIW petitions for both academics and entrepreneurs. With an
-    approval rate above <b>99%</b> through our
-    “Approval or Refund<sup>®</sup>” service, our team has the
-    expertise to maximize your success.
-  </p><br /><br />
-  </>
+        <strong>3. Possible Outcomes of Your Evaluation</strong>
+        <br />
+        <br />
+        <p>A. You Qualify for EB1-A (Alien of Extraordinary Ability):</p>
+        <p>
+          If, after thorough review, you meet the criteria for EB1-A, you may
+          proceed with our guaranteed service package: you pay 50% upon signing
+          the Retainer Agreement, and in the event of denial, you receive a full
+          refund.
+        </p>
 
-]
+        <p>B. You Do Not Qualify for EB1-A:</p>
+        <p>
+          If your profile does not meet the EB1-A threshold, we will explore
+          alternative immigration options with you.
+        </p>
+        <p>
+          Other possible categories include EB1-B for Outstanding Professors and
+          Researchers (if you have a qualifying sponsor), or EB-2 NIW{" "}
+          <a
+            href="https://www.wegreened.com/niw/Frequently-Asked-Questions"
+            class="link_underline"
+          >
+            National Interest Waiver
+          </a>
+          . Many applicants who do not qualify for EB1-A may still qualify for
+          NIW, as its requirements are considered less stringent.
+        </p>
+        <br />
+
+        <strong>4. Continued Communication</strong>
+        <br />
+        <br />
+        <p>
+          Once you receive your evaluation, you are welcome to reach out via
+          phone or email to discuss your case, ask questions, or share concerns.
+          Having specific questions often helps clarify your priorities. Please
+          note that all information shared with us remains strictly
+          confidential.
+        </p>
+        <br />
+
+        <strong>5. Your Decision</strong>
+        <br />
+        <br />
+        <p>
+          After reviewing our evaluation and if you believe North America
+          Immigration Law Group is the right firm for you, you may proceed by
+          notifying us of the service package you select and your preferred
+          payment arrangement.
+        </p>
+        <br />
+
+        <strong>6. Important Note</strong>
+        <br />
+        <br />
+        <p>
+          Up to this stage, the evaluation of your eligibility and the exchange
+          of general information do not constitute formal legal advice nor
+          establish an attorney-client relationship.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Step 2: Client-Attorney: <br /> <span>1. Sign Agreemenet,  2. Attorney Fee Due, 3. Client Package</span>",
+    content: (
+      <>
+        <strong>1. Reviewing the Retainer Agreement</strong>
+        <br />
+        <br />
+        <p>
+          Once you notify us of your decision to retain our services, we will
+          email you a Retainer Agreement based on the service package you
+          select. Please review it carefully and contact us with any questions
+          regarding the terms, professional services, or payment details.
+        </p>
+
+        <br />
+        <strong>2. Returning the Signed Agreement and Fee</strong>
+        <br />
+        <br />
+        <p>
+          You may return the signed Retainer Agreement via mail, fax, or by
+          scanning and emailing it, along with payment of the attorney fee. We
+          accept cash, personal checks, money orders, traveler’s checks,
+          cashier’s checks, wire transfers, as well as MasterCard and Visa
+          credit card payments (including online transactions).
+        </p>
+
+        <br />
+        <strong>3. Establishing the Attorney-Client Relationship</strong>
+        <br />
+        <br />
+        <p>
+          After we sign and return a scanned copy of the Retainer Agreement to
+          you, the attorney-client relationship becomes effective. From that
+          point, we will handle your case promptly, thoroughly, and with
+          professionalism. As your attorneys, we will:
+        </p>
+        <ol>
+          <li>Keep you updated on the progress of your case.</li>
+          <li>Respond promptly to your questions and concerns.</li>
+          <li>Return your calls in a timely manner.</li>
+          <li>
+            Discuss with you the advantages and potential risks of important
+            decisions.
+          </li>
+        </ol>
+
+        <br />
+        <strong>4. Receiving the Client Packet</strong>
+        <br />
+        <br />
+        <p>
+          Once the attorney-client relationship is established, you will
+          immediately receive a client packet via email. This packet outlines
+          the process and provides detailed guidance to help move your case
+          forward. It includes:
+        </p>
+        <ol>
+          <li>
+            A comprehensive questionnaire to gather your credentials and
+            supporting evidence.
+          </li>
+          <li>
+            A step-by-step flowchart and timeline of the petition process.
+          </li>
+          <li>
+            Detailed instructions on selecting strong candidates for
+            recommendation letters.
+          </li>
+          <li>
+            Guidance on approaching recommenders, along with sample invitation
+            emails.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "Step 3: Processing: <br /> <span> 1. Recommendation Letter, 2. Prepare Documentation, 3. Finalize Petition Letter, 4. I-140 Filing to USCIS </span>",
+    content: (
+      <>
+        <strong>1. Completing the Questionnaire</strong>
+        <br />
+        <br />
+        <p>
+          After receiving the client packet, please complete the questionnaire
+          carefully, providing all required information in detail.
+        </p>
+        <br />
+
+        <strong>2. Recommendation Letters</strong>
+        <br />
+        <br />
+        <ol>
+          <li>
+            <span>Identifying potential recommenders</span>: After reviewing
+            your completed questionnaire, we will discuss suitable candidates
+            for your recommendation letters. Please review the client packet
+            section on recommendation letters beforehand. While USCIS
+            regulations do not specify a set number, typically 3–7 letters are
+            considered appropriate.
+          </li>
+          <br />
+          <li>
+            <span>Contacting recommenders</span>: Once recommenders are
+            identified, you may contact them. We provide sample request emails
+            and phone scripts to assist you. Since many recommenders are busy
+            professionals, you may let them know that you will prepare draft
+            letters for their review and approval.
+          </li>
+          <br />
+          <li>
+            <span>Drafting recommendation letters</span>: If your recommenders
+            prefer to receive drafts (which is common), we will prepare them
+            based on the information you provide. Since you know your
+            recommenders best—their authority, expertise, and how your work
+            relates to theirs—you will need to provide us with detailed
+            information about their background and connection to your research.
+          </li>
+          <br />
+          <li>
+            <span>Finalizing recommendation letters</span>: We will prepare
+            initial drafts and send them to you for feedback. After revisions
+            are completed, you will forward the finalized versions to your
+            recommenders for review, approval, and signature. Additional
+            revisions may be made if recommenders request changes.
+          </li>
+        </ol>
+        <br />
+
+        <strong>3. Preparing Supporting Documentation</strong>
+        <br />
+        <br />
+        <p>
+          Along with recommendation letters, you will need to gather and prepare
+          other supporting evidence, which may include:
+        </p>
+        <br />
+        <ol>
+          <li>
+            Official academic records (degrees, diplomas, certificates,
+            licenses).
+          </li>
+          <br />
+          <li>
+            Employment verification letters describing your role and
+            contributions.
+          </li>
+          <br />
+          <li>Proof of national or international awards or prizes.</li>
+          <br />
+          <li>
+            Evidence of membership in prestigious professional associations.
+          </li>
+          <br />
+          <li>
+            Published materials about you in recognized publications or
+            newspapers (with certified English translations, if applicable).
+          </li>
+          <br />
+          <li>
+            Evidence of your participation as a judge of others’ work (e.g.,
+            invitation letters).
+          </li>
+          <br />
+          <li>
+            Documentation of your significant contributions to the field (e.g.,
+            expert testimonials).
+          </li>
+          <br />
+          <li>
+            Evidence of authorship, such as excerpts from your published
+            research or papers.
+          </li>
+        </ol>
+        <br />
+
+        <strong>
+          4. Mailing Recommendation Letters, Evidence, and Filing Fee
+        </strong>
+        <br />
+        <br />
+        <p>
+          Once recommendation letters and supporting documentation are
+          finalized, please mail all materials to us along with the I-140 filing
+          fee.
+          <br />
+          <br />
+        </p>
+
+        <strong>5. Drafting the Petition Letter</strong>
+        <br />
+        <br />
+        <p>
+          After receiving your materials, we will review your credentials within
+          our proven petition framework and prepare a legal summary with strong
+          arguments. You will receive the first draft of the petition letter
+          within approximately two weeks. You may suggest revisions, and we will
+          refine the letter until you are fully satisfied.
+        </p>
+        <br />
+
+        <strong>6. Preparing Form I-140 and Submitting the Petition</strong>
+        <br />
+        <br />
+        <p>
+          We will complete Form I-140, prepare an exhibit list, and organize
+          your supporting documentation in compliance with USCIS requirements.
+          You will receive the prepared Form for review and signature, along
+          with the compiled evidence. After a final check, we will submit your
+          complete petition package to USCIS via FedEx.
+        </p>
+        <br />
+      </>
+    ),
+  },
+  {
+    title:
+      "Step 4: Approval / Refund <br /> <span> 1. Reply RFE, 2. Appeal Decision </span>",
+    content: (
+      <>
+        <strong>1. Receiving Your Case Number</strong>
+        <br />
+        <br />
+        <p>
+          After submitting your petition package, we will scan and email you a
+          copy of the USCIS official receipt once it becomes available, usually
+          within about 2 weeks. Using this receipt number, you can track your
+          case status on the USCIS website. We will also monitor your case
+          progress on your behalf.
+        </p>
+        <br />
+
+        <strong>2. Case Approval</strong>
+        <br />
+        <br />
+        <p>
+          When USCIS issues an approval notice, we will inform you immediately
+          and promptly mail the original notice to you. At this point, your case
+          is considered successfully completed. We will also provide you with
+          guidance on filing Form I-485 or, if you prefer, prepare your I-485
+          filing at a discounted legal fee.
+        </p>
+        <br />
+
+        <strong>3. Request for Evidence (RFE)</strong>
+        <br />
+        <br />
+        <p>
+          If USCIS issues an RFE, we will notify you right away and guide you in
+          gathering the additional documents required. We will prepare response
+          letters, including legal arguments and supporting evidence, at{" "}
+          <strong>no additional charge</strong>. If your case is approved
+          following the RFE response, the process will proceed as described in
+          the approval section above.
+        </p>
+        <br />
+
+        <strong>4. In the Rare Event of Denial</strong>
+        <br />
+        <br />
+        <ol>
+          <li>
+            <span>Adjudicating officer’s discretion</span>: Despite thorough
+            preparation and representation, USCIS officers have discretion in
+            decision-making, and occasional erroneous denials may occur.
+          </li>
+          <br />
+          <li>
+            <span>Reviewing the denial</span>: If your petition is denied, we
+            will promptly inform you of USCIS’s decision and reasoning. We will
+            carefully evaluate the denial, explain the grounds, and advise you
+            on possible next steps, including the option to appeal.
+          </li>
+          <br />
+          <li>
+            <span>Your choice: refund or appeal</span>: You may either request a
+            full refund of the attorney fee immediately or choose to have us
+            file an appeal on your behalf at <strong>no extra cost</strong>. If
+            the appeal results in an approval, your case will proceed as
+            outlined in the approval section.
+          </li>
+          <br />
+        </ol>
+
+        <p>
+          We take pride in our proven track record and are confident in our
+          ability to represent clients successfully. That is why we are the only
+          U.S. immigration law firm offering a{" "}
+          <strong>binding refund policy on I-140 petitions</strong>, clearly
+          detailed in our attorney-client contract .
+        </p>
+        <br />
+      </>
+    ),
+  },
+];
+
+// **************************************************************************************************
+// ************************ EB1 FAQS **********************************************
+// **************************************************************************************************
+
+export const Eb1A_FAQs = [
+  {
+    title: "What is EB-1A (Alien of Extraordinary Ability)?",
+    content: (
+      <>
+        The EB-1A is a first-preference, employment-based immigration category
+        designed for foreign nationals who have achieved exceptional recognition
+        in their field. Individuals applying under this category do not require
+        labor certification. Additionally, EB-1A visas are always current,
+        meaning applicants do not have to wait for a priority date to become
+        available to obtain a Green Card once their case is approved. Another
+        advantage is that no job offer is required.
+        <br />
+        Answer provided by North America Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title: "Who qualifies as an alien of extraordinary ability?",
+    content: (
+      <>
+        An alien of extraordinary ability is someone with proven excellence in
+        the sciences, arts, education, business, or athletics, demonstrated
+        through sustained national or international recognition. Their
+        achievements must be well-documented and acknowledged within their
+        field. Furthermore, the applicant must intend to continue working in the
+        same area of expertise in the U.S., and their contribution should bring
+        significant benefit to the country.
+        <br />
+        Answer provided by North America Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title: "What does “extraordinary ability” mean?",
+    content: (
+      <>
+        “Extraordinary ability” refers to a level of expertise and distinction
+        that places an individual among the small percentage of professionals
+        who have reached the very top of their field.
+        <br />
+        Answer provided by North America Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title: "Who can file a petition under EB-1A?",
+    content: (
+      <>
+        A foreign national can self-petition for EB-1A classification by filing
+        directly with USCIS. Alternatively, if employed, the applicant’s
+        employer may also submit the petition on their behalf.
+        <br />
+        Answer provided by North America Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title: "What form is used to petition under EB-1A?",
+    content: (
+      <>
+        The petition for EB-1A is filed using Form I-140, Immigrant Petition for
+        Alien Worker.
+        <br />
+        Answer provided by North America Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title: "Is a labor certification required before filing an I-140?",
+    content: (
+      <>
+        No. A labor certification is not necessary for any EB-1 category prior
+        to filing Form I-140.
+        <br />
+        Answer provided by North America Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title: "Is a job offer required for EB-1A?",
+    content: (
+      <>
+        No. Applicants under EB-1A do not need a job offer or an employer
+        sponsor to file their petition.
+        <br />
+        Answer provided by North America Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title: "What are the major advantages of applying under EB-1A?",
+    content: (
+      <>
+        <p>Main benefits include:</p>
+        <ol>
+          <li>No labor certification required</li>
+          <li>No job offer or permanent position needed</li>
+          <li>Self-petition allowed</li>
+          <li>Visas are current</li>
+        </ol>
+        <p>
+          This makes EB-1A one of the fastest routes to a Green Card. <br />{" "}
+          Answer provided by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How difficult is it to have an EB-1A petition approved?",
+    content: (
+      <>
+        <p>
+          The petitioner must provide strong evidence for at least three
+          criteria (or one major award). Approval depends largely on case
+          presentation. While the USCIS approval rate in 2010 was 62%, our firm
+          has achieved nearly 100%.
+          <br /> Answer provided by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What eligibility criteria should be identified for EB-1A petitions?",
+    content: (
+      <>
+        {" "}
+        <p>
+          The petitioner must show which of the ten criteria are being met with
+          evidence, and prove the beneficiary intends to continue working in
+          their recognized field in the U.S. <br /> Answer provided by North
+          America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How can a petition prove national or international acclaim?",
+    content: (
+      <>
+        <p>
+          Proof can be through a major award (e.g., Nobel Prize) or meeting at
+          least three of the following:
+        </p>
+        <ol>
+          <li>Receipt of national or international prizes/awards</li>
+          <li>Membership in selective associations</li>
+          <li>Published material about the individual</li>
+          <li>Judging the work of others</li>
+          <li>Original contributions of major significance</li>
+          <li>Authorship of scholarly articles</li>
+          <li>Exhibiting work at showcases</li>
+          <li>Leading/critical role in reputable organizations</li>
+          <li>High salary compared to peers</li>
+          <li>Commercial success in the performing arts</li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "What evidence shows the foreign national will continue working in their field?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Letters from employers, contracts, prearranged commitments, or a
+          personal statement of plans in the U.S. are accepted forms of
+          evidence. <br /> Answer provided by North America Immigration Law
+          Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What evidence shows the foreign person’s work will benefit the U.S.?",
+    content: (
+      <>
+        {" "}
+        <p>
+          No separate documentation is required. This requirement is generally
+          met once other EB-1A criteria are satisfied. <br /> Answer provided by
+          North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What qualifies as a major or lesser internationally recognized award?",
+    content: (
+      <>
+        <p>
+          Major prizes are globally known awards like the Nobel Prize, Pulitzer
+          Prize, Academy Award, or Olympic Gold Medal. These are considered the
+          highest honors in their fields.
+        </p>
+        <p>
+          Lesser awards can still qualify but require strong evidence showing
+          they are nationally or internationally recognized. Documentation
+          should include the number of nominees, award criteria, and whether it
+          was for an individual or team. USCIS guidance notes:
+        </p>
+        <ol>
+          <li>Scholarships or grants are not sufficient.</li>
+          <li>Details about nominees and selection criteria are required.</li>
+          <li>Individual awards carry more weight than team awards.</li>
+          <li>Local awards generally do not qualify.</li>
+        </ol>
+        <p>
+          See more about{" "}
+          <a
+            href="https://www.wegreened.com/Victoria-Immigration-Blog-We-Greened-Dot-Com-20110511"
+            class="link_underline"
+          >
+            the difference between major and lesser awards{" "}
+            <i class="fa fa-external-link"></i>
+          </a>
+          . <br /> Answer provided by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What documentation is needed for membership in professional associations?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Evidence must show that membership is based on outstanding
+          achievements and that applications are reviewed by recognized national
+          or international experts. Membership in trade unions, provincial
+          groups, or organizations requiring only education, work experience,
+          dues, or test scores does not qualify. The key factor is the
+          selectivity of membership requirements, not the association’s
+          reputation. <br /> Answer provided by North America Immigration Law
+          Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What counts as published material about the foreign person?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Articles or coverage must appear in major media, professional
+          publications, or national broadcasts. They must include publication
+          details (title, date, author). Local media or mentions where the
+          applicant is not the focus carry little weight. <br /> Answer provided
+          by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How can participation as a judge of others’ work be proven?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Evidence must clearly show that the applicant evaluated the work of
+          others in their field, either individually or on a panel. Claims of
+          leading workshops or panels must be supported by documentation proving
+          the judging role. <br /> Answer provided by North America Immigration
+          Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What is the standard for proving original contributions of major significance?",
+    content: (
+      <>
+        {" "}
+        <p>
+          The evidence must show that the applicant’s contributions set them
+          significantly above peers in their field, not just that they were
+          successful. <br /> Answer provided by North America Immigration Law
+          Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What is the standard for proving authorship of scholarly articles?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Articles must appear in prestigious, nationally or internationally
+          circulated journals with strict selection standards. In fields where
+          publishing is common, USCIS gives more weight to articles that are in
+          top journals, widely cited, or peer-reviewed. <br /> Answer provided
+          by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What evidence is needed for performing a leading or critical role in an organization?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Affidavits or documentation should show both the applicant’s
+          importance to the organization and the organization’s distinguished
+          reputation. Proof of project or production success is also required.
+          Being considered for future roles is not sufficient. <br /> Answer
+          provided by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How can high salary or remuneration be proven?",
+    content: (
+      <>
+        {" "}
+        <p>
+          The applicant’s pay must be compared with others in similar roles in
+          the field. Factors beyond ability are considered. Evidence from one
+          project alone is not enough; consistent high compensation must be
+          shown. <br /> Answer provided by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Can USCIS consider evidence beyond the listed categories?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Yes. USCIS allows “comparable evidence” if the listed criteria don’t
+          apply to the applicant’s field. In some cases, more than three types
+          of evidence may be required. <br /> Answer provided by North America
+          Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How should I argue an EB-1A case for better chances of approval?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Define the field narrowly to make it easier to show the applicant is
+          among the top. Applicants should highlight their unique mix of
+          education and work experience to stand out. A narrowly defined field
+          strengthens the argument of being one of the few experts at the top.{" "}
+          <br /> Answer provided by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How should evidence of being “extraordinary” be presented?",
+    content: (
+      <>
+        <p>
+          To demonstrate that you are among the small percentage at the very top
+          of your field, provide evidence that sets you apart from average
+          professionals. For example, if publishing is common in your field, you
+          should show that your work has appeared in leading journals, undergone
+          peer review, or been widely cited.
+        </p>
+        <p>
+          Additionally, compare your qualifications with those in previously
+          approved cases. While USCIS may downplay such comparisons, the rules
+          allow them, making it highly relevant. Showing how your record aligns
+          with or surpasses others who were approved strengthens your case.
+          <br /> Answer provided by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What is the two-part approach taken by the USCIS adjudicators?",
+    content: (
+      <>
+        {" "}
+        <p>
+          In 2010, the Ninth Circuit Court of Appeals (Kazarian case) outlined a
+          two-part analysis for EB-1A petitions:
+        </p>
+        <p>
+          <b>Step 1:</b> Determine if the applicant has submitted evidence
+          meeting the required criteria (e.g., a major award like a Nobel Prize
+          or at least three of the ten listed evidentiary criteria). At this
+          stage, the adjudicator only checks if evidence exists—not its quality.
+        </p>
+        <p>
+          <b>Step 2:</b> Evaluate the totality of the evidence to determine if
+          the applicant truly qualifies as being at the top of their field.
+          Here, the quality and significance of the evidence are reviewed. For
+          instance, external judging responsibilities carry more weight than
+          internal ones, and citation counts may indicate the impact of
+          scholarly work.
+        </p>
+        <p>
+          In short, while Step 1 is about quantity, Step 2 focuses on quality.
+          Our firm adjusts petition formats to align with this approach and
+          improve approval chances. <br /> Answer provided by North America
+          Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Can I request Premium Processing for my I-140 petition?",
+    content: (
+      <>
+        <p>
+          Yes. To request Premium Processing for Form I-140, you must also
+          submit Form I-907. Both forms should be filed together at the address
+          listed in the I-907 instructions. Do NOT send Premium Processing
+          requests to a Lockbox facility. <br /> Answer provided by North
+          America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Can I request Premium Processing when my I-140 is pending?",
+    content: (
+      <>
+        <p>
+          Yes. If your I-140 is already filed, you can request Premium
+          Processing by submitting Form I-907 with the fee and a copy of your
+          I-140 receipt notice (Form I-797C). Ensure you fully <br /> Answer
+          questions 1–5 in Part 2 of Form I-907 so USCIS can match it with your
+          pending petition. Missing details may cause rejection. <br /> Answer
+          provided by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "How about my family? Are they also beneficiaries of my I-140 petition?",
+    content: (
+      <>
+        <p>
+          Yes. Your spouse and unmarried children under 21 are eligible as
+          derivative beneficiaries of an approved I-140. <br /> Answer provided
+          by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How many publications are sufficient to meet EB-1A requirements?",
+    content: (
+      <>
+        <p>
+          There is no fixed number of publications required. USCIS evaluates
+          each case individually, considering the quality and impact of the work
+          rather than a specific count. <br /> Answer provided by North America
+          Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Can I file an EB-1A petition and petition for other categories simultaneously?",
+    content: (
+      <>
+        <p>
+          Yes. However, each visa category requires a separate Form I-140 with
+          its own fee and supporting documents. Do not select multiple
+          categories on a single form. <br /> Answer provided by North America
+          Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How can a petition be filed?",
+    content: (
+      <>
+        <p>
+          Form I-140 can be filed electronically or by mail. Supporting evidence
+          must be submitted to the appropriate service center. If filed
+          electronically, the system will automatically route your petition and
+          provide a receipt indicating the service center. All future
+          correspondence and evidence must be sent to that location. <br />{" "}
+          Answer provided by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Does priority date matter in a EB-1A case?",
+    content: (
+      <>
+        <p>
+          No. All EB-1 visas are current, so priority dates are not a concern.
+          <br /> Answer provided by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Can a petition be withdrawn?",
+    content: (
+      <>
+        <p>
+          Yes. The petitioner or their legal representative (Form G-28) can send
+          a written request to USCIS to withdraw the petition. <br /> Answer
+          provided by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "How can a petitioner request the withdrawal of a Form I-140 petition?",
+    content: (
+      <>
+        Withdrawal requests should include:
+        <ol>
+          <li>A statement that the petitioner wishes to withdraw the I-140.</li>
+          <li>The Form I-140 petition receipt number.</li>
+          <li>The petitioner’s name, address, and phone number.</li>
+          <li>The beneficiary’s name.</li>
+          <li>The beneficiary’s alien registration number (if known).</li>
+          <li>The petitioner’s or representative’s signature.</li>
+        </ol>
+        Answer provided by North America Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title:
+      "If an EB-1A petition is rejected or denied, how long do I have to wait to file again?",
+    content: (
+      <>
+        There is no waiting period. You may file another EB-1A or other category
+        petition at any time. However, unless your circumstances have improved,
+        refiling with the same evidence is not recommended as it will likely
+        result in another denial. <br /> Answer provided by North America
+        Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title: "How should I organize evidence for my petition?",
+    content: (
+      <>
+        <p>Here are best practices for organizing supporting evidence:</p>
+        <ol>
+          <li>
+            Submit all required forms and documentation with the petition. USCIS
+            may deny Form I-140 without issuing a Request for Evidence if
+            initial requirements are missing.
+          </li>
+          <li>Ensure that all photocopies are clear and easy to read.</li>
+          <li>
+            Any document in a foreign language must include a certified English
+            translation, verifying that it is accurate and complete. It is best
+            to attach the translation to the original document.
+          </li>
+          <li>
+            When citing the petitioner’s publications, highlight their name in
+            the articles. Full dissertations or lengthy works are not
+            needed—provide the title page, cited section(s), and the references
+            or bibliography.
+          </li>
+          <li>
+            For petitions with extensive documentation, tab and label each
+            exhibit, and include an exhibit list identifying which eligibility
+            criteria the document supports. If one exhibit applies to multiple
+            criteria, note this clearly.
+          </li>
+        </ol>
+        <br /> Answer provided by North America Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title: "What is a recommendation letter?",
+    content: (
+      <>
+        A recommendation letter, also called a reference letter, is written by
+        an expert in the petitioner’s field (or a related area). These letters
+        are crucial in employment-based immigration petitions since USCIS
+        officers may not be experts in the applicant’s field. Strong
+        recommendation letters provide essential evidence of extraordinary
+        ability. <br /> Answer provided by North America Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title: "Who should I ask for recommendation letters?",
+    content: (
+      <>
+        Letters from independent experts outside your immediate circle carry the
+        most weight, as they show recognition of your contributions beyond
+        personal or professional connections. While letters from close
+        colleagues may help, USCIS gives them less importance unless the
+        recommenders are highly distinguished in the field. Ideally,
+        recommenders should both be experts and familiar with your specific
+        work, allowing them to give detailed and credible support. <br /> Answer
+        provided by North America Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title: "What details should be included in a recommendation letter?",
+    content: (
+      <>
+        Strong recommendation letters should include:
+        <ol>
+          <li>
+            <b>Recommender’s qualifications</b>: A description of the
+            recommender’s expertise and authority to evaluate your work.
+          </li>
+          <li>
+            <b>Expert testimonials</b>: Statements emphasizing how your
+            achievements demonstrate expertise beyond the ordinary. Generic
+            praise is not persuasive.
+          </li>
+          <li>
+            <b>Substantive details</b>: Specific examples of your unique
+            contributions, responsibilities, and influence on the field.
+            Employer or professor letters should explain why only highly skilled
+            individuals could perform your role and why you stand out among
+            peers.
+          </li>
+        </ol>
+        <br /> Answer provided by North America Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title: "How many recommendation letters do I need?",
+    content: (
+      <>
+        USCIS does not specify a set number, but typically three to seven
+        letters are recommended in EB-1 cases.
+        <br /> Answer provided by North America Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title: "How does your firm assist with recommendation letters?",
+    content: (
+      <>
+        Our team helps clients develop strong letters through the following
+        steps:
+        <ol>
+          <li>
+            We provide detailed guidance on the format, purpose, and content of
+            recommendation letters.
+          </li>
+          <li>
+            We assist in identifying strong candidates to serve as recommenders.
+          </li>
+          <li>
+            You supply details about the recommenders’ expertise, relationship
+            to your work, and relevant connections.
+          </li>
+          <li>
+            Our legal team drafts tailored recommendation letters based on the
+            provided information.
+          </li>
+          <li>
+            You share the drafts with your recommenders for review and
+            signature.
+          </li>
+          <li>
+            Before submission, we review finalized letters and suggest updates
+            if needed.
+          </li>
+        </ol>
+        <br />
+        Answer provided by North America Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title: "What happens if I change jobs while my EB1-A case is pending?",
+    content: (
+      <>
+        If you are self-petitioning, changing employers does not affect your
+        case. However, if your employer filed the petition, a new filing may be
+        required. Answer provided by North America Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title: "Can Ph.D. students apply for EB1-A? What is the approval rate?",
+    content: (
+      <>
+        Yes, Ph.D. students can qualify under EB1-A. While some assume students
+        are not yet at the “top of their field,” careful definition of the field
+        can strengthen the case. Our firm has successfully represented Ph.D.
+        students with approval rates similar to other applicants. For tips, see
+        our article:{" "}
+        <a
+          href="https://www.wegreened.com/Victoria-Immigration-Blog-We-Greened-Dot-Com-20110120"
+          class="link_underline"
+        >
+          “Qualifications of Aliens of Extraordinary Ability - Have you Risen to
+          the Very Top of your Endeavor?”
+        </a>
+        <br />
+        Answer provided by North America Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title:
+      "Can F-1 students apply for EB1-A, or must I wait until after graduation or H-1B?",
+    content: (
+      <>
+        F-1 visas are non-immigrant visas, but holders may still file for a
+        Green Card if they meet the requirements. While dual intent is not
+        allowed at the time of F-1 visa issuance, applicants may change intent
+        afterward. You do not need to switch to H-1B or another dual intent visa
+        before filing. However, if your F-1 duration is too short to complete
+        your studies, it is advisable to extend it before applying. <br />
+        Answer provided by North America Immigration Law Group.
+      </>
+    ),
+  },
+  {
+    title:
+      "What is the main distinction between NIW and EB-1A petitions? Can I file both petitions, such as NIW and EB-1A, at the same time?",
+    content: (
+      <>
+        {" "}
+        <p>
+          The eligibility criteria and preparation process for National Interest
+          Waiver (NIW) petitions and EB-1A (Alien of Extraordinary Ability)
+          petitions are quite different. NIW petitions do not require the
+          applicant to prove that they are at the absolute top of their field,
+          but rather that their work carries substantial merit and national
+          importance to the United States. On the other hand, EB-1A petitions
+          focus more heavily on demonstrating that the foreign national has
+          achieved sustained national or international acclaim and belongs to
+          the very small percentage who have risen to the very top of their
+          field. In both cases, presenting strong documentation that frames the
+          beneficiary’s achievements in the most favorable light is essential.
+          For example, carefully defining and narrowing the petitioner’s field
+          of expertise allows USCIS to compare the beneficiary against a
+          smaller, more relevant group of peers in the U.S., while still
+          maintaining credibility. The field, however, should not be so narrowly
+          defined that it appears artificial or lacks documentary support. Once
+          an I-140 is approved, both NIW and EB-1A classifications are treated
+          similarly at the adjustment of status (I-485) stage. Importantly, it
+          is legally permissible to file both petitions simultaneously, and many
+          applicants do so in order to increase their chances of success. Filing
+          multiple I-140 petitions under different categories is allowed, and in
+          fact, it often improves the likelihood of at least one approval.{" "}
+          <br />
+          Answer provided by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "If I do not have published journal articles in my field, can I still qualify for EB-1A? Do I need an employer to sponsor me for this petition?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Yes. There is no strict requirement that applicants must have
+          published journal articles to qualify for or obtain approval of an
+          EB-1A petition. While publications are valuable because they help
+          demonstrate original contributions and authorship, you can still
+          establish eligibility by meeting other criteria set forth under EB-1A
+          regulations. For instance, evidence such as awards, patents,
+          significant citations, original scientific or business contributions,
+          memberships in professional associations, or judging the work of
+          others can support your case. Furthermore, EB-1A is a self-petition
+          category, meaning you do not need sponsorship from your current
+          employer to file. You may independently petition on your own behalf.{" "}
+          <br />
+          Answer provided by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "If I do not have any awards in my field, can I still apply under EB-1A?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Yes. While awards can strengthen an EB-1A petition by helping to
+          satisfy one of the recognized regulatory criteria, they are not an
+          absolute requirement. Many successful EB-1A cases have been approved
+          without awards. Instead, you may rely on other evidence that
+          demonstrates your extraordinary ability and sustained recognition.
+          Examples include original contributions of major significance,
+          authorship of scholarly articles, service as a judge of others’ work,
+          holding critical roles in distinguished organizations, or comparable
+          evidence showing that you are among the small percentage who has risen
+          to the top of your field. As long as sufficient documentation is
+          presented to satisfy the EB-1A criteria, the lack of awards will not
+          automatically disqualify your petition. <br />
+          Answer provided by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Am I eligible to apply for EB-1A from outside the United States?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Yes. You do not need to be physically present in the United States to
+          file an EB-1A petition. Applicants residing abroad may still pursue
+          this category. Please{" "}
+          <a
+            class="link_underline"
+            href="https://www.wegreened.com/How-Can-I-get-a-Green-Card-Outside-the-US?"
+          >
+            click here
+          </a>{" "}
+          for more detailed information regarding the process of applying for
+          Alien of Extraordinary Ability (EB-1A) classification from outside the
+          U.S., including consular processing options. <br />
+          Answer provided by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "I am a J-1 visa holder subject to the two-year home residency requirement. Can I still apply for EB-1A now and pursue my J-1 waiver later?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Yes. You may apply for EB-1A now even if you are subject to the J-1
+          two-year foreign residency requirement. However, even with an approved
+          I-140 petition, you cannot adjust your status to permanent residency
+          until you either obtain a J-1 waiver or fulfill the two-year home
+          residency requirement. Importantly, you do not need to have a J-1
+          waiver in place before submitting an I-140 petition. The law only
+          prevents you from adjusting status directly from J-1 to permanent
+          residency without first resolving the two-year requirement. Many
+          applicants prepare and file the I-140 petition and J-1 waiver
+          concurrently. If your I-140 is approved before the waiver, you must
+          wait until the waiver is granted to proceed with the I-485 adjustment
+          of status application. <br />
+          Answer provided by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What is your firm’s attorney fee structure for EB-1A petitions?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Our firm charges a flat attorney fee for EB-1A I-140 petitions that
+          qualify for our “Approval or Refund” service. This means that if your
+          case is not approved, you are entitled to a refund of the attorney fee
+          under the terms of the service agreement. Despite offering
+          comprehensive and highly detailed legal services, we maintain fees
+          that are affordable and reasonable compared to industry standards. Our
+          mission is to make it possible for every qualified foreign national to
+          pursue their American dream without being discouraged by prohibitively
+          high legal costs. <br />
+          Answer provided by North America Immigration Law Group.
+        </p>
+      </>
+    ),
+  },
+];
+
+// **************************************************************************************************
+// ************************ EB 1 B   **********************************************
+// **************************************************************************************************
+
+export const Eb1BOverview = [
+  <>
+    <strong>Introduction</strong>
+    <br />
+    <br />
+    The EB1-B category, a sub-classification of priority workers , is designed
+    for professors and researchers who can demonstrate that they are recognized
+    internationally for exceptional achievements within their academic
+    discipline. To qualify, the petition must provide strong evidence of such
+    recognition and confirm that the applicant has accumulated at least three
+    years of verifiable teaching or research experience in the field. While a
+    labor certification is not required, the applicant must secure an ongoing
+    job offer from a sponsoring U.S. employer. In the case of universities and
+    colleges, the role should generally be a tenured or tenure-track position.
+    <br />
+    <br />
+    <strong>Self-Petition Not Permitted</strong>
+    <br />
+    <br />
+    Unlike the EB1-A category, individuals cannot self-petition for EB1-B. A
+    U.S. employer must submit the petition to USCIS as the official petitioner,
+    while the foreign national serves as the beneficiary.
+    <br />
+    <br />
+    <strong>EB1-B Eligibility Requirements</strong>
+    <br />
+    <br />
+    To be classified as an outstanding professor or researcher, the applicant
+    must satisfy all of the following:
+    <br />
+    <br />
+    <ol>
+      <li>
+        Be recognized internationally as an outstanding contributor in a
+        specific academic field,
+      </li>
+      <br />
+      <li>
+        Have a minimum of three years of teaching or research experience in that
+        field, and
+      </li>
+      <br />
+      <li>
+        Possess a qualifying job offer, such as:
+        <br />
+        <br />
+        <ul>
+          <li>(a) A tenured or tenure-track teaching position, OR</li>
+          <li>
+            (b) A research position with no fixed term and an expectation of
+            long-term employment, OR
+          </li>
+          <li>
+            (c) A comparable research role with a private employer that employs
+            at least three full-time researchers and has documented achievements
+            in the relevant field.
+          </li>
+        </ul>
+      </li>
+    </ol>
+    <br />
+    <strong>Demonstrating International Recognition</strong>
+    <br />
+    <br />
+    The petition must prove that the foreign national is regarded
+    internationally as outstanding in their area of expertise. USCIS allows
+    expert recommendation letters as supporting evidence, provided they
+    specifically discuss the applicant’s original, significant, and influential
+    contributions to the field. Click here to read &nbsp;
+    <a
+      href="https://www.wegreened.com/EB1B_experttestimonials"
+      class="link_underline"
+    >
+      (What Expert Testimonials Will Help an EB1-B Case?{" "}
+      <i class="fa fa-external-link"></i>)
+    </a>
+    .
+    <br />
+    <br />
+    <strong>Calculating “Three Years” of Experience</strong>
+    <br />
+    <br />
+    Applicants must document at least three years of teaching or research
+    experience in the relevant academic field. Experience gained during advanced
+    degree studies may only be counted if the degree has been awarded, and the
+    teaching involved full responsibility for a class or if the research has
+    been recognized within the academic community as noteworthy.
+    <br />
+    <br />
+    Proof must come in the form of letters from past or current employers,
+    specifying the name, title, and contact information of the author, along
+    with a detailed description of the applicant’s responsibilities and
+    contributions.
+    <br />
+    <br />
+    <strong>Tenure, Tenure-Track, or Comparable Positions</strong>
+    <br />
+    <br />
+    An EB1-B petition requires that the applicant be offered a qualifying
+    academic or research position. For universities, this means a tenured or
+    tenure-track appointment. In private organizations, the role must be
+    comparable in scope and responsibility, provided the employer has the
+    required number of full-time researchers and an established record of
+    research accomplishments.
+    <br />
+    <br />
+    <strong>Permanent Research Positions</strong>
+    <br />
+    <br />
+    Since not all university research positions are tenure-track, USCIS accepts
+    offers for “permanent research positions.” A permanent position refers to
+    one with an indefinite duration and an expectation of continued employment,
+    subject only to valid grounds for termination.
+    <br />
+    <br />
+    <strong>Comparable Roles with Private Employers</strong>
+    <br />
+    <br />
+    Because private employers rarely use tenure systems, USCIS considers a
+    position “comparable” if the duties align with those of a researcher in an
+    academic institution and if the role is permanent in nature as defined by
+    USCIS rules.
+    <br />
+    <br />
+    <strong>Definition of a Qualified Employer</strong>
+    <br />
+    <br />
+    For EB1-B purposes, not all employers are eligible. Government agencies at
+    the federal, state, or local level generally do not qualify, unless the
+    agency is also a U.S. university or institution of higher education.
+    <br />
+    <br />
+    <strong>The Standard of Being “Outstanding”</strong>
+    <br />
+    <br />
+    To establish eligibility as an outstanding professor or researcher, the
+    petitioner must provide evidence meeting at least two of the following six
+    criteria:
+    <br />
+    <br />
+    <ol>
+      <li>
+        Proof of receiving major prizes or awards for achievements in the
+        academic field,
+      </li>
+      <li>
+        Membership in associations that require outstanding achievements as a
+        condition of entry,
+      </li>
+      <li>
+        Published material in professional publications about the applicant’s
+        work, including translated sources, with author, title, and publication
+        details,
+      </li>
+      <li>
+        Participation as a judge, individually or on a panel, evaluating the
+        work of others in the same or related academic field,
+      </li>
+      <li>
+        Evidence of original scientific or scholarly contributions of major
+        significance,
+      </li>
+      <li>
+        Authorship of scholarly books or peer-reviewed journal articles with
+        international circulation.
+      </li>
+    </ol>
+    <br />
+    <strong>USCIS Review Standard</strong>
+    <br />
+    <br />
+    Similar to EB1-A petitions, EB1-B petitions are reviewed under the
+    <a href="https://www.wegreened.com/EB1A_twopart" class="link_underline">
+      two-part analysis
+    </a>
+    framework. USCIS evaluates the evidence as a whole, weighing the quality,
+    significance, and relevance of the documentation. Simply meeting two
+    criteria does not guarantee approval; adjudicators assess whether the
+    overall record demonstrates that the applicant is truly recognized as
+    outstanding in their field. If USCIS finds the evidence insufficient, they
+    may request additional documentation.
+    <br />
+    <br />
+    According to a June 1992 INS memorandum, the following evidence tends to
+    strengthen a case significantly:
+    <br />
+    <br />
+    <ol>
+      <li>Peer-reviewed conference or symposium presentations,</li>
+      <li>Peer-reviewed articles in established scholarly journals,</li>
+      <li>
+        Testimonies from other scholars highlighting the applicant’s
+        contributions,
+      </li>
+      <li>
+        Frequent citations of the applicant’s work in academic citation indexes,
+      </li>
+      <li>Service as a reviewer for peer-reviewed scholarly journals.</li>
+    </ol>
+    <br />
+    <br />
+  </>,
+];
+
+// **************************************************************************************************
+// ************************ LEGAL FEE EB 1 B  **********************************************
+// **************************************************************************************************
+
+export const LeagalFeeEB1B = [
+  <>
+    <strong> Approval or Refund</strong>
+    <br /> <br />
+    We proudly stand by a unique promise: either your EB1-B petition is
+    approved, or you receive a full refund. No other law firm makes such a bold
+    guarantee. Our team has developed proven strategies for EB1-B applications,
+    giving us complete confidence in every petition we submit.
+    <br /> <br />
+    <strong> Winning Strategies — From Start to Approval</strong>
+    <br /> <br />
+    From the moment you retain our services, we are fully dedicated to achieving
+    the approval of your case. With years of experience analyzing thousands of
+    petitions and court rulings, we have refined approaches that highlight your
+    qualifications in the strongest possible manner. We present your case with
+    clarity and precision, ensuring adjudicating officers find it difficult to
+    deny. While decisions ultimately rest with USCIS officers, as an agency they
+    must remain consistent in their determinations.
+    <br /> <br />
+    <strong> Attorneys from Top Law Schools</strong>
+    <br /> <br />
+    What sets us apart is our commitment to excellence — all our attorneys hold
+    Juris Doctor degrees from highly respected law schools. This ensures that
+    you are represented by lawyers with a deep understanding of immigration law,
+    USCIS regulations, and relevant case precedents. Our team keeps a close
+    watch on changing policies and emerging trends, providing you with the most
+    accurate and effective legal guidance. In an ever-evolving immigration
+    landscape, you need dedicated professionals who know how to adapt and
+    advocate on your behalf.
+    <br />
+    <br />
+    <strong> Legal Fee</strong>
+    <br /> <br />
+    We work on a flat-fee basis for both EB-1 and NIW petitions. Even with our
+    approval guarantee, our fees remain fair and accessible. Our mission is to
+    help every qualified applicant pursue the American dream without unnecessary
+    financial barriers.
+    <br /> <br />
+    We have complete confidence in our ability to represent clients
+    successfully. That’s why we are the only immigration law firm to back our
+    I-140 petitions with a refund policy — not as a vague promise, but as a
+    binding commitment clearly outlined in our attorney-client contract .
+    <br /> <br />
+    Additionally, we offer flexible payment options, allowing eligible clients
+    to pay their legal fees in multiple installments for added convenience.
+    <br /> <br />
+    <strong> Accepted Payment Methods</strong>
+    <br /> <br />
+    We accept various payment methods including cash, personal checks, money
+    orders, traveler’s checks, cashier’s checks, wire transfers, and major
+    credit cards (MasterCard and Visa) through secure online payment.
+    <br /> <br />
+    <strong> What Does the Legal Fee Cover?</strong>
+    <ol>
+      {" "}
+      <br />
+      <li>
+        Unlimited consultations during representation: From the time we receive
+        your signed Retainer Agreement and initial payment until your case is
+        closed, you will receive full attorney support. Our responsibilities
+        include: <br /> <br />
+        <ol>
+          <li>Keeping you updated on all case progress.</li>
+          <li>Answering your questions promptly.</li>
+          <li>Returning your calls in a timely manner.</li>
+          <li>
+            Providing clear discussions on the benefits and risks of every major
+            decision.
+          </li>
+        </ol>{" "}
+        <br />
+      </li>
+      <li>
+        Guidance in selecting recommenders: We work closely with you to identify
+        the most suitable candidates for recommendation letters. While
+        regulations do not specify an exact number, typically 3 to 7 letters are
+        considered ideal.
+      </li>{" "}
+      <br />
+      <li>
+        Drafting recommendation letters: Unlike many firms that only provide
+        templates or charge extra, we draft personalized recommendation letters
+        for you. Our legal expertise and experience with USCIS preferences
+        ensure the letters are compelling and effective. However, you will need
+        to provide details about each recommender, their authority in the field,
+        and how your work connects to theirs.
+      </li>{" "}
+      <br />
+      <li>
+        Drafting the petition letter: Once recommendations are finalized, we
+        analyze your profile and prepare a persuasive petition letter that
+        frames your accomplishments within a winning strategy. You will have the
+        opportunity to review, suggest edits, and request revisions until you
+        are fully satisfied.
+      </li>{" "}
+      <br />
+      <li>
+        Preparing and filing Form I-140: We handle the preparation of Form
+        I-140, assemble your evidence, and organize documents as per USCIS
+        standards. You will review the final form and evidence before
+        submission. Once approved by you, we submit the petition package via
+        FedEx.
+      </li>{" "}
+      <br />
+      <li>
+        Responding to RFEs (Requests for Evidence): If USCIS issues an RFE, we
+        immediately notify you and provide clear instructions on the required
+        documents. We draft the response, including legal arguments and
+        reference letters, at no additional charge.
+      </li>{" "}
+      <br />
+      <li>
+        Denial contingency — refund or appeal: In the rare event of denial, you
+        can choose between a full refund of attorney fees or a free appeal at no
+        extra cost.
+      </li>
+    </ol>{" "}
+    <br />
+  </>,
+];
+
+// **************************************************************************************************
+// ************************ NIW MAIN PAGE ALL CONTENT **********************************************
+// **************************************************************************************************
+
+export const Eb1B_FAQs = [
+  {
+    title: "Who qualifies as an outstanding professor or researcher?",
+    content: (
+      <>
+        <p>
+          To qualify as an outstanding professor or researcher under EB1-B,
+          three main conditions must be met:
+        </p>
+        <ol>
+          <li>
+            The applicant must be a foreign national with international
+            recognition for excellence in a specific academic discipline.
+          </li>
+          <li>
+            The applicant must demonstrate at least three years of experience in
+            teaching or conducting research within the chosen academic field.
+          </li>
+          <li>
+            The applicant must receive a formal job offer for a tenured or
+            tenure-track teaching or research role at a university, or a
+            comparable research position with a private institution that employs
+            at least three full-time researchers and has notable achievements in
+            the field of research.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "Who can file a petition under EB1-B?",
+    content: (
+      <>
+        {" "}
+        <p>
+          The EB1-B petition must be filed by the employer on behalf of the
+          applicant. In this case, the employer is the petitioner, and the
+          foreign professor or researcher is the beneficiary of the petition.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What form is used to file an EB1-B petition?",
+    content: (
+      <>
+        {" "}
+        <p>
+          All EB-1 category petitions, including EB1-B, are submitted using{" "}
+          <strong>Form I-140 (Immigrant Petition for Alien Worker)</strong>.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Is labor certification required before filing Form I-140?",
+    content: (
+      <>
+        {" "}
+        <p>
+          No. For all EB-1 categories, including EB1-B, labor certification is
+          not required prior to filing the I-140 petition.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Is a job offer required for EB1-B?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Yes. Unlike EB1-A, a job offer is mandatory for EB1-B petitions. The
+          foreign professor or researcher must have a sponsoring employer to
+          file the petition on their behalf.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What are the main advantages of applying under EB1-B for Outstanding Professors or Researchers?",
+    content: (
+      <>
+        <ol>
+          <li>
+            No labor certification is required, which makes the process faster.
+          </li>
+          <li>
+            Visa numbers in this category are generally current, allowing for a
+            quicker path to obtaining a Green Card compared to other categories.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "How difficult is it to get an EB1-B petition approved?",
+    content: (
+      <>
+        {" "}
+        <p>
+          The responsibility to prove eligibility lies entirely with the
+          petitioner. Substantial evidence must be provided to meet at least two
+          out of the six regulatory criteria. If the foreign professor or
+          researcher is qualified, success depends heavily on how the case is
+          documented and presented. Well-prepared evidence and persuasive
+          arguments usually result in approval. Historically, EB1-B cases have
+          had a high approval rate—over 90% in the past five years. See{" "}
+          <a
+            href="https://www.wegreened.com/Victoria-Immigration-Blog-We-Greened-Dot-Com-20110405"
+            class="link_underline"
+          >
+            approval statistics from 2005–2010
+          </a>
+          .
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      " What eligibility criteria should be identified in an Outstanding Professor or Researcher petition (Form I-140)?",
+    content: (
+      <>
+        <p>
+          The I-140 petition must clearly outline and provide supporting
+          documents for the following:
+        </p>
+        <ol>
+          <li>
+            Specify which of the six regulatory criteria the applicant intends
+            to satisfy, with relevant evidence for each.
+          </li>
+          <li>
+            Provide proof of at least three years of teaching or research
+            experience in the academic field.
+          </li>
+          <li>
+            Include a copy of the official job offer letter or contract
+            detailing the position title, conditions, and responsibilities.
+          </li>
+          <li>
+            If the applicant has changed positions since the initial hire,
+            documentation for each role must also be included.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "What evidence should be included in an EB1-B petition?",
+    content: (
+      <>
+        <p>
+          An EB1-B petition must contain extensive supporting documentation to
+          prove eligibility. Evidence should demonstrate satisfaction of at
+          least two of the six regulatory criteria, such as:
+        </p>
+        <ol>
+          <li>
+            Proof of receiving significant prizes or awards for outstanding
+            academic achievements.
+          </li>
+          <li>
+            Evidence of membership in professional associations that require
+            notable accomplishments in the academic field.
+          </li>
+          <li>
+            Published material about the applicant’s work in professional
+            journals, books, or media (translations must be provided if not in
+            English).
+          </li>
+          <li>
+            Evidence of participation as a judge or reviewer of the work of
+            others in the academic discipline.
+          </li>
+          <li>
+            Documentation of original scientific or scholarly contributions that
+            significantly advanced the field.
+          </li>
+          <li>
+            Proof of authorship of scholarly books or articles published in
+            internationally circulated academic journals.
+          </li>
+        </ol>
+        <p>
+          Additionally, the petition must include proof of at least three years
+          of teaching or research experience and confirmation of a tenured or
+          tenure-track position.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Can teaching and research experience be combined to meet the three-year requirement?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Yes. According to USCIS regulations, the required three years of
+          experience can be fulfilled through a combination of both teaching and
+          research activities, as long as they are in the relevant academic
+          field.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Does teaching or research experience obtained while pursuing an advanced degree count?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Generally, teaching or research experience acquired during the course
+          of an advanced degree program is not acceptable. However, it may be
+          considered if the degree has already been awarded and: (1) the
+          applicant held full responsibility for teaching the class, or (2) the
+          research conducted toward the degree has been recognized in the
+          academic field as outstanding.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "How should evidence of at least three years of teaching or research experience be presented?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Proof of teaching and/or research experience must be provided in the
+          form of official letters from current or former employers. These
+          letters should clearly include the writer’s name, title, and address,
+          along with a detailed description of the duties performed by the
+          beneficiary.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What qualifies as tenure, tenure-track, or comparable positions?",
+    content: (
+      <>
+        {" "}
+        <p>
+          A tenured or tenure-track position refers to a role without a fixed
+          end date. This may include a teaching or research position at a
+          university, or a comparable research role at a private employer,
+          provided the employer has at least three full-time researchers and
+          demonstrates recognized accomplishments in the relevant field of
+          research.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Is a permanent research position acceptable?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Yes. Since many research positions at universities are not formally
+          classified as tenured or tenure-track, USCIS allows a “permanent
+          research position” to qualify. A permanent position is one that is of
+          indefinite or unlimited duration, where continued employment is
+          expected unless there is valid cause for termination.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What if the employer is a private company that does not offer tenure?",
+    content: (
+      <>
+        {" "}
+        <p>
+          Because private employers generally do not grant tenure, USCIS
+          considers a “comparable” position acceptable if the duties and
+          responsibilities closely align with those of an academic researcher.
+          Specifically, the position must be permanent, as defined by USCIS
+          regulations.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Can a government agency qualify as an employer?",
+    content: (
+      <>
+        {" "}
+        <p>
+          In general, federal, state, and local government agencies are not
+          considered qualifying employers for EB1-B petitions. The exception
+          applies only if the agency is a U.S. university or another recognized
+          institution of higher education. In such cases, the burden of proof
+          lies with the employer (the petitioner), not the beneficiary.
+        </p>
+      </>
+    ),
+  },
+
+  {
+    title:
+      "How should a petition demonstrate an employment offer from a U.S. employer?",
+    content: (
+      <>
+        <p>
+          Since labor certification is not required for EB1-B petitions, the job
+          offer must be documented through an official employment letter issued
+          by:
+        </p>
+        <ol>
+          <li>
+            A U.S. university or institution of higher education offering a
+            tenured or tenure-track teaching position in the beneficiary’s
+            field;
+          </li>
+          <li>
+            A U.S. university or institution of higher education offering a
+            permanent research position in the beneficiary’s field; OR
+          </li>
+          <li>
+            A department, division, or institute of a private employer offering
+            a permanent research position, provided the entity employs at least
+            three full-time researchers and has documented research
+            achievements.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "What type of evidence strengthens a case for being recognized as an outstanding professor or researcher?",
+    content: (
+      <>
+        <p>
+          According to a 1992 INS memorandum, the following types of evidence
+          strongly support a petition for recognition as an outstanding
+          professor or researcher:
+        </p>
+        <ol>
+          <li>Peer-reviewed presentations at academic symposia;</li>
+          <li>Publication of peer-reviewed articles in scholarly journals;</li>
+          <li>
+            Expert testimony from other scholars acknowledging the beneficiary’s
+            contributions to the field;
+          </li>
+          <li>
+            Frequent citations of the beneficiary’s work in citation indexes;
+          </li>
+          <li>Service as a reviewer for scholarly, peer-reviewed journals.</li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "Is a Ph.D. required for EB1-B petitions?",
+    content: (
+      <>
+        <p>
+          While it is common for outstanding professors and researchers to hold
+          a Ph.D., neither the law nor USCIS regulations specifically require a
+          doctoral degree. Moreover, a qualified foreign national may be
+          considered outstanding as a professor and still be eligible for a
+          research position, and vice versa.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Does the two-part approach used in EB1-A also apply to EB1-B cases?",
+    content: (
+      <>
+        <p>
+          Yes. The types of evidence listed in the regulations serve as
+          guidelines, but USCIS adjudicators evaluate the totality of the
+          evidence. Meeting two regulatory criteria does not guarantee approval;
+          the adjudicator must still assess whether the applicant is truly
+          recognized internationally as outstanding. If the evidence is
+          insufficient, USCIS may issue a request for additional documentation.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How many publications are required for EB1-B approval?",
+    content: (
+      <>
+        <p>
+          There is no specific minimum number of publications required. Each
+          petition is evaluated individually, and the significance, quality, and
+          impact of the publications often weigh more heavily than quantity.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What is the current two-part approach applied by USCIS?",
+    content: (
+      <>
+        <p>
+          Following the <em>Kazarian v. USCIS</em> decision in 2010, USCIS uses
+          a two-step analysis for EB1-A, EB1-B, and EB-2 Exceptional Ability
+          petitions:
+        </p>
+        <ol>
+          <li>
+            <b>Step One – Evidentiary Criteria:</b> Determine whether the
+            petitioner has provided sufficient evidence to meet at least two of
+            the regulatory criteria for the category.
+          </li>
+          <li>
+            <b>Step Two – Final Merits Determination:</b> Evaluate the totality
+            of the evidence to decide whether the petitioner has demonstrated,
+            by a preponderance of the evidence, that the beneficiary is
+            internationally recognized as outstanding in the field.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "Can an employer file EB1-B while I file EB1-A or NIW simultaneously?",
+    content: (
+      <>
+        <p>
+          Yes. Multiple petitions may be filed at the same time, but each
+          requires its own Form I-140 with the appropriate filing fee and
+          supporting documentation. You cannot request multiple categories on a
+          single petition form.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How can an EB1-B petition be filed?",
+    content: (
+      <>
+        <p>
+          An I-140 petition may be filed electronically or by mail. However, all
+          supporting evidence must be submitted to the designated USCIS service
+          center as required.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Do priority dates matter in EB1-B cases?",
+    content: (
+      <>
+        <p>
+          No. Since all EB-1 visa numbers are current, priority dates are not an
+          issue in EB1-B cases.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Can a petition be withdrawn?",
+    content: (
+      <>
+        <p>
+          Yes. The petitioner, or their authorized representative listed on Form
+          G-28, may request the withdrawal of an I-140 petition by sending a
+          signed letter to USCIS.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "How should a withdrawal request for a Form I-140 petition be submitted?",
+    content: (
+      <>
+        <p>
+          A withdrawal request should be in writing and include the following
+          information:
+        </p>
+        <ol>
+          <li>
+            A statement clearly requesting withdrawal of the Form I-140
+            petition;
+          </li>
+          <li>The petition receipt number;</li>
+          <li>The petitioner’s full name, address, and phone number;</li>
+          <li>The name of the beneficiary;</li>
+          <li>The beneficiary’s Alien Registration Number (if known);</li>
+          <li>The petitioner’s or authorized representative’s signature.</li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "If an EB1-B petition is denied, how long must I wait before reapplying?",
+    content: (
+      <>
+        <p>
+          There is no mandatory waiting period. A previously denied EB1-B
+          petition does not prevent you from filing a new one or applying under
+          a different category. However, unless your qualifications or
+          supporting evidence have improved significantly, it is not advisable
+          to simply resubmit a similar petition, as it is unlikely to succeed.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How should evidence be organized when submitting a petition?",
+    content: (
+      <>
+        <p>
+          To improve efficiency and avoid unnecessary delays, follow these
+          organizational tips when submitting evidence:
+        </p>
+        <ol>
+          <li>
+            Submit all required documentation and evidence upfront; USCIS may
+            deny petitions lacking essential evidence without issuing a Request
+            for Evidence (RFE).
+          </li>
+          <li>If submitting photocopies, ensure they are clear and legible.</li>
+          <li>
+            Provide English translations for all foreign-language documents.
+            Translations must be certified as accurate by a competent
+            translator.
+          </li>
+          <li>
+            When documenting publications or citations, highlight the
+            beneficiary’s name in the relevant portions rather than submitting
+            full dissertations or lengthy works. Include the title page, cited
+            portions, and bibliography.
+          </li>
+          <li>
+            Label and tab exhibits, and prepare an exhibit list identifying
+            which eligibility criteria each exhibit supports. If an exhibit is
+            used to meet multiple criteria, indicate this clearly in the list.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "What is a letter of recommendation in EB1-B cases?",
+    content: (
+      <>
+        <p>
+          A letter of recommendation, also called a reference letter, is written
+          by an expert in the applicant’s field or by an authoritative figure in
+          a related discipline. These letters are crucial because USCIS officers
+          are rarely subject-matter experts. Recommendation letters help
+          demonstrate that the applicant meets the “outstanding” standard
+          required by law, serving as strong objective evidence to support the
+          petition.
+        </p>
+      </>
+    ),
+  },
+
+  {
+    title: "Whom should I contact to obtain letters of recommendation?",
+    content: (
+      <>
+        <p>
+          USCIS expects that a person with genuine international recognition
+          should be able to provide sufficient independent evidence reflecting
+          that recognition. Therefore, recommendation letters from independent
+          experts and individuals outside of your immediate circle carry greater
+          credibility, as they demonstrate acknowledgment of your work from the
+          broader community. If your contributions are not widely recognized
+          beyond your current or former colleagues, it will be difficult to
+          establish that you have attained sustained international recognition.
+          For this reason, recommendation letters from only close colleagues are
+          less persuasive in proving your case.
+        </p>
+        <p>
+          Ideally, the recommender should be both an expert in your field and
+          sufficiently familiar with your work to describe your research and
+          contributions in detail. While letters from highly reputed experts are
+          valuable, the strongest letters come from experts who can specifically
+          discuss your accomplishments. A letter from your current or
+          prospective employer can also serve as an appropriate recommendation.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What information should be included in the recommendation letters?",
+    content: (
+      <>
+        <p>
+          Strong recommendation letters should contain the following elements:
+        </p>
+        <ol>
+          <li>
+            <b>Qualifications of the recommender:</b> The letter should include
+            details about the recommender’s background and authority to evaluate
+            the applicant’s work. If the recommender comments on the applicant’s
+            achievements, their own qualifications should be clearly
+            established.
+          </li>
+          <li>
+            <b>Expert testimonials:</b> Endorsements from experts are essential
+            to demonstrate that the applicant meets the legal standard of
+            international recognition. However, letters that only show basic
+            competence or fail to distinguish the applicant from others in the
+            field hold little value and may even weaken the case.
+          </li>
+          <li>
+            <b>Detailed, substantive information:</b> The letter should
+            highlight the applicant’s unique expertise and specific
+            contributions. Employer or professor letters should clearly outline
+            the applicant’s responsibilities and the significance of their work.
+            General statements that the applicant is “knowledgeable” without
+            concrete examples of impact are insufficient.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "How many recommendation letters are needed?",
+    content: (
+      <>
+        <p>
+          USCIS does not mandate a specific number of recommendation letters.
+          However, in practice, submitting between three and seven strong
+          letters is common in EB1-B cases.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What assistance does your firm provide concerning drafting recommendation letters?",
+    content: (
+      <>
+        <p>
+          Crafting persuasive recommendation letters is challenging, but
+          high-quality letters can greatly strengthen your case. Once you retain
+          our firm, we will guide you through the process step by step:
+        </p>
+        <ol>
+          <li>
+            We explain the purpose, format, and required content of
+            recommendation letters in detail.
+          </li>
+          <li>
+            We help you identify potential recommenders best suited to support
+            your petition.
+          </li>
+          <li>
+            You provide us with details about the recommenders’ expertise, your
+            relationship with them, and how your work connects with theirs.
+          </li>
+          <li>
+            Our attorneys and legal team draft tailored recommendation letters
+            based on the information you provide.
+          </li>
+          <li>
+            You send the draft letters to the recommenders for review and
+            signature.
+          </li>
+          <li>
+            Before final submission, we review any significantly modified
+            letters to ensure accuracy and may suggest updated versions if
+            needed.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "What if I change jobs while my EB1-B petition is pending?",
+    content: (
+      <>
+        <p>
+          If the foreign national changes employers while the I-140 is still
+          pending, a new petition must be filed by the new employer.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What is the real difference between EB1-B and NIW applications? Is it possible to file both at the same time?",
+    content: (
+      <>
+        <p>
+          EB1-B and NIW petitions are distinct categories with different
+          requirements. For example, EB1-B applicants require an employer
+          sponsor, while NIW applicants can self-petition. However, once the
+          I-140 petition is approved, there is little difference between these
+          categories when it comes to filing the I-485 for adjustment of status.
+        </p>
+        <p>
+          It is permissible to file multiple petitions simultaneously—for
+          example, both EB1-B and NIW. Some applicants do this to maximize their
+          chances, as the law does not prohibit filing under multiple categories
+          at the same time.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What is the real difference between EB1-A and EB1-B applications? Can both petitions be filed simultaneously?",
+    content: (
+      <>
+        <p>
+          EB1-A (Extraordinary Ability) allows self-petition, while EB1-B
+          (Outstanding Professors and Researchers) requires a job offer from a
+          U.S. employer. Thus, EB1-B applicants cannot self-sponsor.
+        </p>
+        <p>
+          While EB1-A has a higher evidentiary standard—requiring proof of a
+          major international award or qualifying evidence under at least three
+          of the ten criteria—EB1-B applicants only need to meet at least two of
+          the six criteria for international recognition. In this sense, EB1-B
+          can be somewhat easier to qualify for.
+        </p>
+        <p>
+          Furthermore, EB1-B applicants may count qualifying teaching or
+          research experience gained during a Ph.D. program, provided they had
+          full responsibility for courses taught or produced research considered
+          outstanding in the field.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "If I do not have published articles in journals, can my employer still petition for me under EB1-B?",
+    content: (
+      <>
+        <p>
+          Yes. While publications often strengthen a petition by demonstrating
+          scholarly contributions, they are not strictly required. A petition
+          can still succeed if supported by other qualifying evidence of
+          significant contributions to the field.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "If I do not have any awards in my field, may my employer still petition for me under EB1-B?",
+    content: (
+      <>
+        <p>
+          Yes. Awards are not a mandatory requirement. Although they may help
+          strengthen a petition by showing recognition, an applicant without
+          awards can still succeed if the petition provides strong evidence of
+          meeting other eligibility criteria.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "I am a J-1 holder subject to the two-year foreign residency requirement. Can I apply under EB1-B now and get my waiver later?",
+    content: (
+      <>
+        <p>
+          Yes, you can submit an EB1-B petition while still subject to the J-1
+          two-year foreign residency requirement. However, even with an approved
+          I-140, you cannot adjust your status until you obtain a J-1 waiver.
+        </p>
+        <p>
+          You do not need the waiver to file the I-140 petition itself. You can
+          prepare both the I-140 petition and the J-1 waiver concurrently. If
+          your I-140 is approved before the waiver, you must wait until the
+          waiver is granted before filing the I-485 for adjustment of status.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What is the filing fee for Form I-140?",
+    content: (
+      <>
+        <p>
+          The filing fee for Form I-140 is currently <b>$715</b>. Additionally,
+          there is an asylum program fee of <b>$600</b>. This fee is reduced to{" "}
+          <b>$300</b> for small employers with 25 or fewer full-time employees
+          and waived entirely for nonprofit petitioning employers.
+        </p>
+      </>
+    ),
+  },
+];
+
+// **************************************************************************************************
+// ************************ Labor certification   **********************************************
+// **************************************************************************************************
+
+export const LaborCertification = [
+  <>
+    <strong>
+       Introduction
+    </strong>
+    <p>
+      Foreign nationals who receive an offer of permanent employment in the
+      United States must demonstrate eligibility to file an employment-based
+      preference petition. This can be established in one of three ways:
+    </p>
+    <ol>
+      <li>
+        By obtaining labor certification (required for employment-based second
+        and third preference categories),
+      </li>
+      <li>
+        By qualifying for an exemption from labor certification (available under
+        the first, fourth, and fifth employment-based preference categories), or
+      </li>
+      <li>By qualifying under a Schedule A category.</li>
+    </ol>
+    <strong>Labor Certification</strong>
+    <p>
+      Foreign individuals who have been offered permanent employment in the
+      U.S., but who do not qualify for an exemption from labor certification,
+      must secure an Alien Employment Certification—commonly known as labor
+      certification—from the U.S. Department of Labor (DOL). The DOL must be
+      convinced that there are no available, qualified U.S. workers to fill the
+      offered position and that the wages and working conditions will not
+      negatively affect the domestic labor market. Once granted, the labor
+      certification becomes the foundation for filing an employment-based second
+      or third preference petition with USCIS.
+    </p>
+    <strong>
+       Standards DOL (Department of Labor)
+      Applies to Exclude Foreign Workers
+    </strong>
+    <p>
+      When issuing certifications, the DOL applies two central standards to
+      limit the hiring of foreign workers:
+    </p>
+    <ol>
+      <li>
+        If qualified, available, and willing U.S. workers exist for the role,
+        and/or
+      </li>
+      <li>
+        If employing a foreign national would negatively affect the wages or
+        working conditions of similarly employed U.S. workers.
+      </li>
+    </ol>
+    <p>
+      “Lawful U.S. workers” include U.S. citizens, lawful permanent residents,
+      asylees, and refugees.
+    </p>
+    <strong>
+       Requirements to Obtain Labor
+      Certification
+    </strong>
+    <p>
+      To secure labor certification, the employer must prove that a structured
+      recruitment program was conducted to test the local labor market for
+      qualified and available U.S. workers in the geographic location where the
+      position will be based. The employer must demonstrate to the DOL that:
+    </p>
+    <ol>
+      <li>
+        The job being offered to the foreign national is open and available to
+        U.S. workers,
+      </li>
+      <li>
+        The job does not impose unreasonable or unnecessary requirements, and
+      </li>
+      <li>
+        The wage being offered meets or exceeds the prevailing wage within the
+        community.
+      </li>
+    </ol>
+    <strong>
+       Reduction in Recruitment
+    </strong>
+    <p>
+      In specific situations, employers may be able to bypass the labor
+      certification process by showing the DOL that, over at least six months,
+      they have made genuine, customary efforts to fill the position but have
+      been unable to identify qualified U.S. candidates.
+    </p>
+    <p>
+      <a class="fancybox link_underline" href="#Reduction_in_Recruitment">
+        <i class="fa fa-external-link"></i> What is the Effect of Reduction in
+        Recruitment during the PERM Process?
+      </a>
+    </p>
+    <div
+      id="Reduction_in_Recruitment"
+      style="display: none;line-height: 1.5;font-size: 0.875em;"
+    >
+      <strong >
+        What is the Effect of Reduction in Recruitment during PERM Process?
+      </strong>
+      <p>
+        If an employer has attempted, for a period of at least six months, to
+        fill a position through normal and customary recruitment methods without
+        success, they may qualify to bypass the standard labor certification
+        procedure. In such cases, the DOL may agree that further labor
+        certification is unnecessary because the employer has already made
+        consistent, good-faith efforts to hire. When these recruitment efforts
+        are thoroughly documented, the employer may request permission for a
+        Reduction in Recruitment certification. This approach effectively
+        acknowledges the employer’s efforts as conclusive proof of the labor
+        market test, thereby shortening processing time. Given efficiency and
+        budget considerations, this streamlined method is becoming increasingly
+        significant for the future.
+      </p>
+    </div>
+    <strong>
+       Measures to Protect U.S Workers
+    </strong>
+    <p>
+      To safeguard the interests of U.S. workers, the DOL has introduced several
+      protective measures: (1) Prohibition on tailoring job requirements; (2) No
+      unreasonable conditions; (3) Prevailing wage enforcement; (4) Employers
+      cannot favor foreign nationals solely for being more qualified; and (5)
+      Additional documentation requirements in the case of recent layoffs.
+    </p>
+    <p>
+      <a class="fancybox link_underline" href="#Measures_to_Protect_Workers">
+        <i class="fa fa-external-link"></i> DOL Measures to Protect U.S. Workers
+      </a>
+    </p>
+    <div
+      id="Measures_to_Protect_Workers"
+      style="display: none;line-height: 1.5;font-size: 0.875em;"
+    >
+      <strong style="color: #347BB5;">
+        DOL Measures to Protect U.S. Workers
+      </strong>
+      <p>
+        The Department of Labor enforces several safeguards to ensure that the
+        labor certification process does not disadvantage U.S. workers.
+      </p>
+      <p style="font-weight: 600;margin-bottom: -10px;">
+        A. No Tailoring the Job:
+      </p>
+      <p>
+        The DOL ensures that employers cannot create job requirements
+        specifically tailored to match a foreign applicant’s background. Any
+        unusual qualifications must be justified as a legitimate business
+        necessity, not as a preference for a particular candidate.
+      </p>
+
+      <p style="font-weight: 600;margin-bottom: -10px;">
+        B. No Unreasonable Conditions:
+      </p>
+      <p>
+        The DOL will deny certification if an employer imposes unreasonable
+        conditions that only a foreign national can meet, unless such conditions
+        are proven essential to the business. For instance, requiring fluency in
+        a specific foreign language is generally considered unreasonable unless
+        it is clearly necessary for the job.
+      </p>
+
+      <p style="font-weight: 600;margin-bottom: -10px;">
+        C. Prevailing Wage Requirement:
+      </p>
+      <p>
+        The employer must offer the position at the prevailing wage determined
+        for the job type and location. The DOL assesses the prevailing wage
+        through state-level offices. If an employer disputes the determination,
+        they may submit alternative evidence, such as an independent wage
+        survey, to challenge the DOL’s decision.
+      </p>
+
+      <p style="font-weight: 600;margin-bottom: -10px;">
+        D. Cannot Prefer Foreign Nationals Simply for Being More Qualified:
+      </p>
+      <p>
+        Employers are not permitted to bypass U.S. workers in favor of foreign
+        nationals solely because the latter may appear more qualified. A U.S.
+        worker who meets the basic requirements cannot be rejected if they can
+        reasonably perform the job duties, even with additional training.
+        Employers may only hire foreign nationals when U.S. candidates fail to
+        meet the established minimum qualifications, which are determined by the
+        DOL and published in the Dictionary of Occupational Titles (DOT).
+      </p>
+
+      <p style="font-weight: 600;margin-bottom: -10px;">
+        E. Extra Documentation for Recent Layoffs:
+      </p>
+      <p>
+        If the employer has conducted layoffs within six months before filing
+        for labor certification, they must provide evidence showing that
+        laid-off U.S. workers in similar or related occupations were notified
+        and considered for the position.
+      </p>
+    </div>
+    <strong>
+      <i class="fa fa-question-circle"></i> What is PERM (Program Electronic
+      Review Management)?
+    </strong>
+    <p>
+      In 2004, the DOL introduced final regulations establishing the Program
+      Electronic Review Management (PERM) system. Implemented on March 28, 2005,
+      PERM was designed to accelerate the labor certification process while
+      integrating stronger protections for U.S. workers.
+    </p>
+    <strong>
+      <i class="fa fa-calendar"></i> PERM Process
+    </strong>
+    <p>
+      The PERM process requires employers to complete all recruitment activities
+      before filing the application, and recruitment must be conducted within
+      six months of submission.
+    </p>
+    <p>
+      <a class="fancybox link_underline" href="#PERM_Process">
+        <i class="fa fa-external-link"></i> What are the Initial Steps of PERM
+        Filing?
+      </a>
+    </p>
+    <div
+      id="PERM_Process"
+      style="display: none;line-height: 1.5;font-size: 0.875em;"
+    >
+      <strong style="color: #347BB5;">
+        What are the Initial Steps of PERM Filing?
+      </strong>
+      <p>
+        Before submitting a labor certification application under the PERM
+        system, employers (or their legal representatives) must complete several
+        preliminary steps:
+      </p>
+
+      <p style="font-weight: 600;margin-bottom: -10px;">
+        A. Online Registration:
+      </p>
+      <p>
+        Employers must register through the PERM online portal. Filing can begin
+        only after the registration is successfully approved.
+      </p>
+
+      <p style="font-weight: 600;margin-bottom: -10px;">
+        B. Filing ETA Form 9089:
+      </p>
+      <p>
+        The official labor certification application is filed using ETA Form
+        9089, also known as the Application for Permanent Employment
+        Certification. Electronic filing is encouraged. The form requires
+        detailed descriptions of the job, including minimum education,
+        experience, and any special requirements. The application must be filed
+        within 180 days of the earliest recruitment step.
+      </p>
+
+      <p style="font-weight: 600;margin-bottom: -10px;">
+        C. Supporting Documentation Not Submitted Initially:
+      </p>
+      <p>
+        Employers are not required to submit supporting documentation with the
+        application. However, they must retain it in case of a DOL audit.
+      </p>
+    </div>
+    <strong>
+      <i class="fa fa-puzzle-piece"></i> Advertisement: 30-day Job Order and
+      Newspaper Publication
+    </strong>
+    <p>
+      Once the employer submits the labor certification application, the
+      Employment Service verifies that the job was offered at the prevailing
+      wage. The job is then posted on the State Workforce Agency (SWA) system
+      serving the area of intended employment for 30 days. Concurrently, the
+      employer must also advertise the job opening in a newspaper of general
+      circulation or an appropriate trade journal.
+    </p>
+    <p>
+      <a class="fancybox link_underline" href="#Advertisement">
+        <i class="fa fa-external-link"></i> Description and Period Requirements
+        of PERM Filing Advertisement
+      </a>
+    </p>
+    <div
+      id="Advertisement"
+      style="display: none;line-height: 1.5;font-size: 0.875em;"
+    >
+      <strong style="color: #347BB5;">
+        Description and Period Requirements of PERM Filing Advertisement
+      </strong>
+      <p>
+        The DOL has established specific requirements for job advertisements
+        under the PERM system.
+      </p>
+
+      <p style="font-weight: 600;margin-bottom: -10px;">
+        A. Advertisement Content:
+      </p>
+      <p>
+        The job posting must clearly state the employer’s name, job location, a
+        description sufficient to inform potential applicants of the position,
+        and instructions for submitting applications or resumes directly to the
+        employer.
+      </p>
+
+      <p style="font-weight: 600;margin-bottom: -10px;">
+        B. Timing Requirements:
+      </p>
+      <p>
+        At least 30 days must pass between the final day of the job posting or
+        advertisement and the submission of the application.
+      </p>
+    </div>
+    <strong>
+      <i class="fa fa-puzzle-piece"></i> DOL Initial Processing and Audit
+    </strong>
+    <p>
+      Once submitted, the application is reviewed through the DOL’s automated
+      system, which checks key fields against established rules. If the
+      application fails to comply, an immediate denial is issued. Applications
+      that pass this initial screening may then be flagged for audit based on
+      program-specific criteria or random selection. The audit process is
+      intended to ensure compliance and detect problematic filings.
+    </p>
+    <strong>
+      <i class="fa fa-puzzle-piece"></i> Common Examples of System-Programmed
+      Denials
+    </strong>
+    <p>
+      Some frequent errors that trigger automated denials or lead to rejection
+      during final review include:
+    </p>
+    <ol>
+      <li>
+        Submitting an application with an expired prevailing wage determination
+        from the SWA,
+      </li>
+      <li>
+        Failing to keep the job order active with the SWA for the required 30
+        days,
+      </li>
+      <li>
+        Submitting the application less than 30 days after completing the
+        required job posting or recruitment steps, or
+      </li>
+      <li>
+        Listing recruitment activities on Form 9089 that occurred outside the
+        180-/30-day timeframe allowed for recruitment.
+      </li>
+    </ol>
+  </>,
+];
