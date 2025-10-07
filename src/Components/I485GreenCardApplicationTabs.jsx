@@ -1,12 +1,12 @@
 import { Link, useLocation } from "react-router-dom";
 
-export default function LaborCertificationServiceTabs() {
+export default function I485GreenCardApplicationTabs() {
   const location = useLocation();
   const active = location.pathname;
 
   const tabs = [
-    { path: "/perm-labor-certification", label: "EB1-B Overview" },
-    { path: "/perm-labor-certification/perm-labor-certification-faqs", label: "Legal Fees fo EB1-B" },
+    { path: "/I-485-green-card-application", label: "I-485-adjustment-of-status" },
+    { path: "/I-485-green-card-application/I-140-and-I-485-concurrent-filing", label: "I-140-and-I-485-concurrent-filing" },
   ];
 
   return (

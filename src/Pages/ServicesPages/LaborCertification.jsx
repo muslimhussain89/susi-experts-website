@@ -1,5 +1,6 @@
 import ServicesBread from "../../Components/ServicesBread";
 import LaborCertificationServiceTabs from "../../Components/LaborCertificationServiceTabs";
+import { LaborCertificationOverview } from "../../Components/AllServicesContent";
 export default function LaborCertification() {
   return (
     <>
@@ -14,7 +15,7 @@ export default function LaborCertification() {
           <LaborCertificationServiceTabs />
 
           <p className="ServiceContent">
-            {LaborCertification.map((item, index) => (
+            {LaborCertificationOverview.map((item, index) => (
               <div key={index}>{item}</div>
             ))}
           </p>

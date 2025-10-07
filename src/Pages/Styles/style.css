@@ -3,17 +3,18 @@
 
       z-index: 3;
       position: relative;
-      /* background: #ffffffa1; */
-      border-bottom: 1px solid #222f635c;
-      padding: 15px 0px;
+      background: #ffffffa1;
+      border-bottom: 1px solid white;
+      padding: 0px 0px;
 }
 
 .NavbarInner {
       display: flex;
       justify-content: space-between;
-      max-width: 1450px;
+      max-width: 1650px;
       margin: 0 auto;
       align-items: center;
+      padding: 0px 50px;
 }
 
 .NavbarLinks {
@@ -37,28 +38,105 @@
 .Container {
       max-width: 1650px;
       margin: 0 auto;
+      padding: 0px 50px;
 }
 
+.ContactInfo {
+      background-color: #222F63;
+      z-index: 3;
+      position: relative;
+      padding: 10px 0px;
 
-
-.move {
-      animation: slideIn 1s ease forwards;
 }
 
-.move2 {
-      animation: slideIn 1.5s ease forwards;
+.email-info,
+.phone-info,
+.social-info {
+      display: flex;
+      align-items: center;
 }
 
-@keyframes slideIn {
-      from {
-            transform: translateX(-100%);
-            opacity: 0;
+.ContactInfo a {
+      text-decoration: none;
+      color: white;
+      font-size: 1.4rem;
+}
+
+.social-info a {
+      margin-left: 15px;
+      margin-right: 0px;
+}
+
+.ContactInfo .Container,
+.vision-mission-goal .Container {
+      display: flex;
+      justify-content: space-between;
+}
+
+.ContactInfo svg {
+      margin-right: 8px;
+}
+
+.HeroSection {
+      height: 100vh;
+}
+
+.HeroSection a {
+      margin-top: 50px;
+}
+
+.overlay,
+.hero-bg-images {
+      height: 100vh;
+      overflow: hidden;
+}
+
+.hero-bg-images {
+      position: absolute;
+      top: 0;
+      width: 100%;
+}
+
+.hero-bg-images img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: auto;
+      width: 100%;
+      object-fit: cover;
+      height: 100%;
+      opacity: 0;
+      transition: opacity 1s ease-in-out;
+      transform: translate(0px, -50px);
+      animation: FadInOut 18s ease-in-out infinite;
+      /* Apply animation to all images */
+}
+
+.hero-bg-images img.active {
+      opacity: 1;
+}
+
+@keyframes FadInOut {
+      0% {
+            transform: scale(1);
       }
 
-      to {
-            transform: translateX(0);
-            opacity: 1;
+      50% {
+            transform: scale(1.2);
       }
+
+      100% {
+            transform: scale(1);
+      }
+}
+
+.HeroContentInner {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      justify-content: center;
+      height: 85vh;
 }
 
 .HeroSection h1:hover,
@@ -69,15 +147,13 @@
 }
 
 .HeroSection h1,
-.PageHead {
+.PageHead,
+.about-us-hero h1 {
       font-size: 6rem;
-      /* color: rgb(206, 206, 206); */
-      color: black;
       z-index: 3;
       position: relative;
       font-family: 'InterMedium';
       transition: all 0.2s ease;
-      /* font-weight: 500; */
 }
 
 .PageHead {
@@ -85,7 +161,6 @@
 }
 
 .HeroSection p,
-.HeroSection button,
 .ServicesWrapper .Container p {
       font-size: 2.5rem;
       /* color: rgb(206, 206, 206); */
@@ -97,7 +172,12 @@
       transition: all 0.2s ease;
 }
 
-.HeroSection button,
+.HeroSection h1,
+.HeroSection p {
+      color: white;
+}
+
+.HeroSection a,
 .AboutContent button,
 form button,
 .SisuButton1 {
@@ -113,32 +193,19 @@ form button,
       z-index: 3;
 }
 
-.HeroContent,
-.AboutImage img {
+.HeroContent {
       width: 100%;
 }
 
-.HeroSection {
-      background-position: center;
-      background-size: cover;
-      height: 90vh;
-      width: 100%;
-      display: flex;
-      align-items: center;
-      transition: opacity 0.9s ease-in-out;
-      /* Smooth fade */
-}
 
 
 .overlay {
       position: absolute;
       top: 0;
       width: 100%;
-      background: #ffffffcc;
+      background: #00000099;
       z-index: 2;
-      height: 100%;
 }
-
 
 
 
@@ -157,11 +224,14 @@ form button,
 }
 
 .AboutUs {
-      margin-bottom: 150px;
-      margin-top: 100px;
+      position: relative;
+      height: 100vh;
+      margin-top: -158px;
 }
 
-.AboutUs .Container {
+.AboutUs .Container,
+.who-we-are .Container,
+.why-choose-us .Container {
       display: flex;
       justify-content: space-between;
 }
@@ -189,8 +259,14 @@ form button,
 }
 
 .AboutContent,
-.AboutImage {
+.who-we-are .Container div:nth-child(1),
+.why-choose-us .Container div:nth-child(2) {
       width: 45%;
+}
+
+.AboutContent p {
+      font-size: 2.2rem;
+      margin-top: 25px;
 }
 
 .AboutContent {
@@ -201,30 +277,24 @@ form button,
       margin-top: 50px;
 }
 
-
+.AboutContent button a {
+      color: white;
+}
 
 .AboutImage {
-      position: relative;
-      width: 45%;
-      height: 86vh;
+      position: absolute;
+      right: 0px;
+      height: 100vh;
+      width: 50%;
 }
 
 .AboutImage img {
-      position: absolute;
-      top: 0;
-      left: 0;
-      border-radius: 12px;
-      height: auto;
       width: 100%;
+      height: 100vh;
       object-fit: cover;
-      opacity: 0;
-      transition: opacity 1s ease-in-out;
-
+      object-position: 35%;
 }
 
-.AboutImage img.active {
-      opacity: 1;
-}
 
 .OurServices {
       background-color: #f5f5f7;
@@ -257,6 +327,7 @@ form button,
 
 .ServiceDetials {
       font-size: 2.2rem;
+      margin-bottom: 45px;
 }
 
 .ServicesContainer {
@@ -264,6 +335,7 @@ form button,
       flex-wrap: wrap;
       gap: 100px 35px;
       margin-top: 120px;
+      justify-content: center;
 
 }
 
@@ -272,7 +344,7 @@ form button,
       text-align: center;
       background-color: white;
       border-radius: 8px;
-      padding: 50px;
+      padding: 40px 33px;
       box-sizing: border-box;
       position: relative;
       transition: all 0.5s ease;
@@ -288,7 +360,7 @@ form button,
       font-size: 2rem;
       position: absolute;
       bottom: 0px;
-      width: 100%;
+      width: 0%;
       left: 0;
       background-color: white;
       color: #222F63;
@@ -354,7 +426,7 @@ form button,
 }
 
 .LandingServices .EachService {
-      width: 48%;
+      width: 75%;
 }
 
 
@@ -366,7 +438,8 @@ form button,
 
 .Faqs,
 .ContactUs {
-      padding: 100px 0px;
+      padding-top: 100px;
+      padding-bottom: 100px;
 }
 
 .FaqsContent,
@@ -492,7 +565,7 @@ form button,
       box-sizing: border-box;
       /* margin-left: 5px; */
       border: 2px solid white;
-      height: 322px;
+      height: 280px;
 }
 
 .TestiName {
@@ -744,6 +817,10 @@ form button {
       background-repeat: no-repeat;
 }
 
+.ServicesWrapper .overlay {
+      background: #fffc;
+}
+
 .UsImmigrationMainPage .OurServices {
       padding-top: 0px;
 }
@@ -785,7 +862,7 @@ form button {
 .BreadCrumb .Container a {
       font-size: 2.2rem;
       color: white;
-      margin-right: 15px;
+      margin-right: 12px;
 }
 
 .BreadCrumb .Container a::after {
@@ -823,10 +900,18 @@ form button {
       margin-bottom: 15px;
 }
 
-.ServiceAccordion button:hover {
+.ServiceAccordion button:hover,
+.Steps {
       background-color: #222F63;
       color: white;
       border-left: 5px solid red !important;
+}
+
+.Steps {
+      width: 100%;
+      padding: 25px;
+      margin-bottom: 15px;
+      display: block;
 }
 
 .ServiceAccordion strong,
@@ -837,10 +922,6 @@ b {
 .ServiceAccordion ul,
 .ServiceAccordion ol {
       margin-left: 20px;
-}
-
-.Service-Accordion-body {
-      padding: 8px 0px;
 }
 
 .accordion-header {
@@ -912,27 +993,127 @@ tr:hover td {
 
 .sidebar {
       width: 22%;
-      height:min-content;
+      height: min-content;
       border: 1px solid black;
-    border-bottom-left-radius: 12px;
-    border-bottom-right-radius: 12px;
+      border-bottom-left-radius: 12px;
+      border-bottom-right-radius: 12px;
 }
-.sidebar a
-{
+
+.sidebar a {
       font-size: 1.4rem;
 }
+
 .sidebar p {
       font-size: 2.2rem;
       color: white;
       background-color: #222F63;
       padding: 25px;
 }
+
 .Outlet,
-.ServiceDetailSection
-{
+.ServiceDetailSection {
       width: 74%;
 }
-.sidebar ul li
-{
+
+.Outlet .ServiceDetailSection {
+      width: 100%;
+}
+
+.Outlet .ServiceDetailSection .Container {
+      padding: 0px;
+}
+
+.sidebar ul li {
       margin-bottom: 8px;
+}
+
+
+/* About us page  */
+.about-us-hero {
+      background-image: url(/public/Images/about-us-hero-bg.webp);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      height: 100vh;
+      position: relative;
+      margin-top: -150px;
+}
+
+.about-us-hero .Container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      color: white;
+}
+
+.about-us-hero .overlay {
+      background-color: #000000b5;
+}
+
+.who-we-are,
+.why-choose-us {
+      position: relative;
+}
+
+.who-we-are-text {
+      font-size: 2.2rem;
+      margin-top: 35px;
+      width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+}
+
+.who-we-are .Container,
+.why-choose-us .Container {
+      align-items: center;
+}
+
+.who-we-are .Container div:nth-child(2),
+.why-choose-us .Container div:nth-child(1) {
+      right: 0px;
+      height: 85vh;
+}
+
+.who-we-are .Container div:nth-child(2) img,
+.why-choose-us .Container div:nth-child(1) img {
+      height: 85vh;
+      position: absolute;
+      right: 0;
+      object-fit: cover;
+      object-position: 35%;
+      width: 50%;
+}
+
+.why-choose-us .Container div:nth-child(1) img {
+      left: 0;
+}
+
+.vision-mission-goal {
+      background-image: url(/public/Images/our-goal.webp);
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+      padding: 150px 0px;
+      background-position: 100% 36%;
+
+}
+
+.vision-mission-goal .Container div {
+      width: 30%;
+      color: white !important;
+      z-index: 3;
+}
+
+.vision-mission-goal .Container div .SmallHead {
+      color: white;
+}
+
+.vision-mission-goal .overlay {
+      height: 100%;
+      background: #000000b8;
+}
+.vision-mission-goal .Container .who-we-are-text
+{
+margin-top: 50px;
 }

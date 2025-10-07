@@ -22,7 +22,7 @@ export const NiwPageContent = [
         available for the role. This requirement often creates a heavy burden
         for employers and restricts opportunities for foreign nationals without
         sponsorship. Consequently, many employers hesitate to sponsor EB-2
-        candidates due to the cost and time involved in labor certification.{" "}
+        candidates due to the cost and time involved in labor certification.
         <br />
         <br />
         Under the National Interest Waiver (NIW), individuals can ask USCIS to
@@ -31,16 +31,16 @@ export const NiwPageContent = [
         States. This allows for self-petitioning, meaning applicants can
         independently file Form I-140 and provide evidence of both EB-2
         eligibility and qualification for the waiver. <br />
-        <br /> To qualify, petitioners must meet the EB-2 criteria{" "}
+        <br /> To qualify, petitioners must meet the EB-2 criteria
         <ul>
           <li>
             either as professionals with an advanced degree (or its equivalent)
-          </li>{" "}
+          </li>
           <li>
             or as individuals with exceptional ability in the sciences, arts, or
             business.
           </li>
-        </ul>{" "}
+        </ul>
         After that, they must satisfy the three-prong test from the AAO’s
         landmark Matter of Dhanasar decision (2016), which evaluates the
         national importance of their work, their qualifications, and whether
@@ -276,9 +276,7 @@ export const NiwPageContent = [
           </li>
         </ul>
         <br />
-        <strong>
-          2. Well Positioned to Advance the Proposed Endeavor
-        </strong>{" "}
+        <strong>2. Well Positioned to Advance the Proposed Endeavor</strong>
         <br />
         <br />
         The second prong of the Dhanasar framework requires petitioners to show
@@ -305,7 +303,6 @@ export const NiwPageContent = [
             results, collaborations, product development).
           </li>
           <li>
-            {" "}
             Recognition, support, or investment from third parties like
             institutions, investors, or government agencies.
           </li>
@@ -388,7 +385,7 @@ export const NiwPageContent = [
         </strong>
         <br />
         <br />
-        The third prong of the <b>Matter of Dhanasar</b> framework involves a{" "}
+        The third prong of the <b>Matter of Dhanasar</b> framework involves a
         <b>balancing analysis</b>—assessing whether, overall, it would benefit
         the United States to
         <b>waive the job offer and labor certification requirements</b>. This
@@ -453,7 +450,7 @@ export const NiwPageContent = [
           </li>
         </ul>
         <br />
-        The petitioner’s argument should focus on showing that{" "}
+        The petitioner’s argument should focus on showing that
         <b>
           the advantages of permitting their contributions to move forward
           without delay or restriction outweigh the benefits of traditional
@@ -473,7 +470,7 @@ export const NiwPageContent = [
         <p>
           At North America Immigration Law Group (WeGreened.com), we closely
           track adjudication trends to guide our clients through the dynamic NIW
-          petition process. Following the{" "}
+          petition process. Following the
           <b>USCIS policy update on January 15, 2025</b>, several noteworthy
           developments have influenced how NIW cases are reviewed—especially
           regarding evidentiary requirements, petition organization, and how the
@@ -508,7 +505,7 @@ export const NiwPageContent = [
         <b>
           The 2025 policy guidance emphasizes the need for a clear, detailed,
           and well-structured description of the proposed endeavor.
-        </b>{" "}
+        </b>
         A comprehensive narrative is crucial for USCIS to evaluate both its
         substantial merit and national importance.
         <br />
@@ -534,7 +531,7 @@ export const NiwPageContent = [
             science and technology.
           </li>
         </ol>
-        USCIS evaluates the endeavor’s impact based on its{" "}
+        USCIS evaluates the endeavor’s impact based on its
         <b>
           expected influence within the field and its alignment with national
           objectives
@@ -608,7 +605,7 @@ export const NiwPageContent = [
             petition (e.g., published research, funding records, citations);
           </li>
           <li>
-            Clear explanations of how the petitioner’s efforts{" "}
+            Clear explanations of how the petitioner’s efforts
             <b>
               advance broader societal, institutional, or governmental goals
             </b>
@@ -639,11 +636,11 @@ export const NiwPageContent = [
         </p>
         <br />
         <p>
-          The <b>2025 USCIS guidance</b> confirms that{" "}
+          The <b>2025 USCIS guidance</b> confirms that
           <b>
             letters of support from U.S. government agencies or
             quasi-governmental entities hold substantial evidentiary value
-          </b>{" "}
+          </b>
           in NIW petitions—particularly when they verify that the petitioner’s
           work aligns with national initiatives or addresses urgent public
           needs.
@@ -704,7 +701,7 @@ export const NiwPageContent = [
         <br />
         <p>
           Our team advises clients to seek such endorsements when appropriate
-          and provides guidance in identifying and securing them.{" "}
+          and provides guidance in identifying and securing them.
           <b>
             When integrated effectively into the petition, these letters
             demonstrate strong external recognition and reinforce the case for
@@ -782,7 +779,7 @@ export const nivRequirements = [
     and labor certification requirements, or to self-petition.
     <br />
     <br />
-    Previously, USCIS applied the three-part test from{" "}
+    Previously, USCIS applied the three-part test from
     <i>New York State Dept. of Transportation</i>, 22 I&amp;N Dec. 215 (Comm.
     1998) (“NYSDOT”), which required showing:
     <br />
@@ -886,7 +883,7 @@ export const nivRequirements = [
         safety.
       </li>
       <li>A web developer producing content and platforms used nationwide.</li>
-    </ul>{" "}
+    </ul>
     <br />
     <strong>2. Advancing the Proposed Endeavor </strong>
     <br /> <br />
@@ -911,7 +908,7 @@ export const nivRequirements = [
     field.
     <br /> <br />
     <strong>
-      3. Balancing Test: National Interest vs. Job Offer Requirement{" "}
+      3. Balancing Test: National Interest vs. Job Offer Requirement
     </strong>
     <br /> <br />
     The third prong requires showing that, on balance, it benefits the United
@@ -1062,75 +1059,82 @@ export const nivRequirements = [
     <br /> <br />
     <ul>
       <li>
-        <a href="#">National Interest Waiver (NIW)</a>
+        &nbsp;<a href="#">National Interest Waiver (NIW)</a>
       </li>
       <li>
+        &nbsp;
         <a href="#">
           Requirements for Petitioning for the National Interest Waiver (NIW)
         </a>
       </li>
       <li>
-        <a href="#">Legal Fees for National Interest Waiver (NIW)</a>
+        &nbsp;<a href="#">Legal Fees for National Interest Waiver (NIW)</a>
       </li>
       <li>
-        <a href="#">Processing Flow for National Interest Waiver (NIW)</a>
+        &nbsp;<a href="#">Processing Flow for National Interest Waiver (NIW)</a>
       </li>
       <li>
+        &nbsp;
         <a href="#">
           Benefits of Petitioning Under the EB-2 National Interest Waiver (NIW)
           Standard
         </a>
       </li>
       <li>
+        &nbsp;
         <a href="#">
           Occupation-Specific Benefits of Petitioning Under the NIW Standard
         </a>
       </li>
       <li>
+        &nbsp;
         <a href="#">
           Frequently Asked Questions for EB2-NIW (National Interest Waiver)
         </a>
       </li>
       <li>
-        <a href="#">Physicians Seeking NIW</a>
+        &nbsp;<a href="#">Physicians Seeking NIW</a>
       </li>
       <li>
+        &nbsp;
         <a href="#">
           NIW for Applicants without a Ph.D./Ph.D. Candidates/Students/Master’s
           Degree Holders
         </a>
       </li>
       <li>
-        <a href="#">EB-2 NIW for Artists/Musicians</a>
+        &nbsp;<a href="#">EB-2 NIW for Artists/Musicians</a>
       </li>
       <li>
-        <a href="#">NIW Document Checklist</a>
+        &nbsp;<a href="#">NIW Document Checklist</a>
       </li>
       <li>
-        <a href="#">How We Prepare Your NIW Case</a>
+        &nbsp;<a href="#">How We Prepare Your NIW Case</a>
       </li>
       <li>
-        <a href="#">How to File an EB-2 NIW Case</a>
+        &nbsp;<a href="#">How to File an EB-2 NIW Case</a>
       </li>
       <li>
-        <a href="#">Qualities of Effective NIW Recommendation Letters</a>
+        &nbsp;<a href="#">Qualities of Effective NIW Recommendation Letters</a>
       </li>
       <li>
+        &nbsp;
         <a href="#">
           What Should Be Included in an EB1-A, EB1-B, or NIW Recommendation
           Letter?
         </a>
       </li>
       <li>
+        &nbsp;
         <a href="#">
           Step-by-Step Guide for a Strong NIW Recommendation Letter
         </a>
       </li>
       <li>
-        <a href="#">Importance of NIW Recommendation Letters</a>
+        &nbsp;<a href="#">Importance of NIW Recommendation Letters</a>
       </li>
       <li>
-        <a href="#">NIW Supporting Evidence and Materials</a>
+        &nbsp;<a href="#">NIW Supporting Evidence and Materials</a>
       </li>
     </ul>
     <br /> <br />
@@ -1174,7 +1178,7 @@ export const LeagalFeeNIW = [
     remain competitive and reasonable.
     <br /> <br />
     We were the first immigration firm to offer a refund policy on I-140
-    petitions, set out explicitly in the
+    petitions, set out explicitly in the &nbsp;
     <a href="#">attorney–client agreement</a>
     and binding on our firm. Qualified clients may also opt for flexible,
     multi-installment payment plans.
@@ -1273,8 +1277,7 @@ export const ProcessingNiw = [
         <br />
         <br />
         Begin by sending us your resume and basic details through our online
-        evaluation form. Click
-        <a> here </a>
+        evaluation form. Click &nbsp;<a> here </a>
         to get started.
         <br />
         <br />
@@ -1285,7 +1288,7 @@ export const ProcessingNiw = [
         <br />
         Our attorneys will personally review your credentials, analyze your
         background, and provide an honest assessment of your chances for
-        approval. Using our carefully designed{" "}
+        approval. Using our carefully designed &nbsp;
         <a
           href="https://www.wegreened.com/EB1-NIW-CREDENTIAL-TEST"
           title="EB1/NIW Credential Test™"
@@ -1767,6 +1770,7 @@ export const BenefitNiw = [
     expertise enabled us to secure approvals even without a U.S. job offer.
     <br />
     <br />
+    &nbsp;
     <a href="https://www.wegreened.com/niw/Occupation-Specific-Benefits-of-Petitioning-Under-the-National-Interest-Waiver-Standard">
       <i class="fa fa-external-link"></i> Occupation-Specific Benefits of
       Petitioning Under the National Interest Waiver (NIW) Standard
@@ -1775,75 +1779,82 @@ export const BenefitNiw = [
     <br />
     <ul>
       <li>
-        <a href="#">National Interest Waiver (NIW)</a>
+        &nbsp;<a href="#">National Interest Waiver (NIW)</a>
       </li>
       <li>
+        &nbsp;
         <a href="#">
           Requirements for Petitioning for the National Interest Waiver (NIW)
         </a>
       </li>
       <li>
-        <a href="#">Legal Fees for National Interest Waiver (NIW)</a>
+        &nbsp;<a href="#">Legal Fees for National Interest Waiver (NIW)</a>
       </li>
       <li>
-        <a href="#">Processing Flow for National Interest Waiver (NIW)</a>
+        &nbsp;<a href="#">Processing Flow for National Interest Waiver (NIW)</a>
       </li>
       <li>
+        &nbsp;
         <a href="#">
           Benefits of Petitioning Under the EB-2 National Interest Waiver (NIW)
           Standard
         </a>
       </li>
       <li>
+        &nbsp;
         <a href="#">
           Occupation-Specific Benefits of Petitioning Under the NIW Standard
         </a>
       </li>
       <li>
+        &nbsp;
         <a href="#">
           Frequently Asked Questions for EB2-NIW (National Interest Waiver)
         </a>
       </li>
       <li>
-        <a href="#">Physicians Seeking NIW</a>
+        &nbsp;<a href="#">Physicians Seeking NIW</a>
       </li>
       <li>
+        &nbsp;
         <a href="#">
           NIW for Applicants without a Ph.D./Ph.D. Candidates/Students/Master’s
           Degree Holders
         </a>
       </li>
       <li>
-        <a href="#">EB-2 NIW for Artists/Musicians</a>
+        &nbsp;<a href="#">EB-2 NIW for Artists/Musicians</a>
       </li>
       <li>
-        <a href="#">NIW Document Checklist</a>
+        &nbsp;<a href="#">NIW Document Checklist</a>
       </li>
       <li>
-        <a href="#">How We Prepare Your NIW Case</a>
+        &nbsp;<a href="#">How We Prepare Your NIW Case</a>
       </li>
       <li>
-        <a href="#">How to File an EB-2 NIW Case</a>
+        &nbsp;<a href="#">How to File an EB-2 NIW Case</a>
       </li>
       <li>
-        <a href="#">Qualities of Effective NIW Recommendation Letters</a>
+        &nbsp;<a href="#">Qualities of Effective NIW Recommendation Letters</a>
       </li>
       <li>
+        &nbsp;
         <a href="#">
           What Should Be Included in an EB1-A, EB1-B, or NIW Recommendation
           Letter?
         </a>
       </li>
       <li>
+        &nbsp;
         <a href="#">
           Step-by-Step Guide for a Strong NIW Recommendation Letter
         </a>
       </li>
       <li>
-        <a href="#">Importance of NIW Recommendation Letters</a>
+        &nbsp;<a href="#">Importance of NIW Recommendation Letters</a>
       </li>
       <li>
-        <a href="#">NIW Supporting Evidence and Materials</a>
+        &nbsp;<a href="#">NIW Supporting Evidence and Materials</a>
       </li>
     </ul>
   </>,
@@ -1859,7 +1870,7 @@ export const NiwFaqs = [
     content: (
       <>
         <p>
-          <strong>NIW</strong> stands for{" "}
+          <strong>NIW</strong> stands for
           <strong>National Interest Waiver</strong>, which is a subcategory of
           the
           <strong> EB-2 employment-based green card</strong> process. Normally,
@@ -1872,7 +1883,7 @@ export const NiwFaqs = [
           With the <strong>National Interest Waiver (NIW)</strong>, however,
           applicants can request that the job offer and labor certification
           requirement be <strong>waived</strong>. To qualify, they must
-          demonstrate that granting them permanent residency would serve the{" "}
+          demonstrate that granting them permanent residency would serve the
           <strong>national interest</strong> of the United States. This makes it
           possible for individuals to self-petition without employer
           sponsorship.
@@ -1896,11 +1907,11 @@ export const NiwFaqs = [
           The <strong>EB-2 NIW (National Interest Waiver)</strong> is not a
           green card by itself, but rather a<strong> pathway</strong> within the
           U.S. green card process. It allows individuals to
-          <strong>self-petition</strong> under the{" "}
+          <strong>self-petition</strong> under the
           <strong>EB-2 employment-based second preference</strong> category.
           When your <strong>Form I-140</strong> for NIW is approved, it
           establishes your <strong>eligibility </strong>
-          for a green card under the EB-2 category. However, I-140 approval is{" "}
+          for a green card under the EB-2 category. However, I-140 approval is
           <strong>only the first step</strong>.
         </p>
         <p>
@@ -1923,7 +1934,7 @@ export const NiwFaqs = [
           <strong> Visa Bulletin</strong> published by the U.S. Department of
           State. As of 2025, the EB-2 category is retrogressed across all
           countries. For applicants born outside India and China, the typical
-          wait is around <strong>1–2 years</strong>. For applicants from{" "}
+          wait is around <strong>1–2 years</strong>. For applicants from
           <strong>China</strong>, the wait is generally
           <strong> 4–5 years</strong>, while for <strong>India</strong>, the
           backlog is considerably longer. These timelines may change based on
@@ -1939,9 +1950,9 @@ export const NiwFaqs = [
     content: (
       <>
         <p>
-          In a traditional <strong>EB2 petition</strong>, a{" "}
-          <strong>U.S. employer</strong> serves as the{" "}
-          <strong>petitioner</strong>. The employer must complete the{" "}
+          In a traditional <strong>EB2 petition</strong>, a
+          <strong>U.S. employer</strong> serves as the
+          <strong>petitioner</strong>. The employer must complete the
           <strong>labor certification (PERM)</strong> process with the U.S.
           Department of Labor to prove that no minimally qualified U.S. worker
           is available for the position. Once PERM is approved, the employer
@@ -1954,28 +1965,28 @@ export const NiwFaqs = [
         </p>
         <ul>
           <li>
-            No <strong>job offer</strong> or{" "}
+            No <strong>job offer</strong> or
             <strong>labor certification</strong> is required.
           </li>
           <li>
-            The petitioner must first meet standard{" "}
+            The petitioner must first meet standard
             <strong>EB2 eligibility criteria</strong> (advanced degree or
             exceptional ability), and also demonstrate that waiving the job
-            offer and labor certification is in the{" "}
+            offer and labor certification is in the
             <strong>national interest</strong> of the United States.
           </li>
         </ul>
         <p>
-          USCIS evaluates NIW petitions using the{" "}
-          <strong>three-prong test</strong> from the{" "}
+          USCIS evaluates NIW petitions using the
+          <strong>three-prong test</strong> from the
           <strong>
             <em>Matter of Dhanasar</em> (2016)
-          </strong>{" "}
+          </strong>
           precedent:
         </p>
         <ol>
           <li>
-            The proposed endeavor has <strong>substantial merit</strong> and{" "}
+            The proposed endeavor has <strong>substantial merit</strong> and
             <strong>national importance</strong>.
           </li>
           <li>
@@ -1988,9 +1999,9 @@ export const NiwFaqs = [
           </li>
         </ol>
         <p>
-          Because of this additional standard,{" "}
+          Because of this additional standard,
           <strong>EB2 NIW petitions</strong> are generally more challenging than
-          regular EB2 filings. However, at{" "}
+          regular EB2 filings. However, at
           <strong>North America Immigration Law Group</strong>, we have
           successfully guided over
           <strong>40,000 clients</strong> to EB2 NIW approval. For cases covered
@@ -2012,18 +2023,18 @@ export const NiwFaqs = [
     content: (
       <>
         <p>
-          Any foreign national who satisfies the{" "}
+          Any foreign national who satisfies the
           <strong>EB2 visa threshold criteria</strong>—either as an
-          <strong>advanced degree professional</strong> or as an{" "}
+          <strong>advanced degree professional</strong> or as an
           <strong>individual of exceptional ability</strong>—may file their own
-          <strong>NIW petition</strong> through{" "}
+          <strong>NIW petition</strong> through
           <strong>self-petitioning</strong>.
         </p>
         <p>
           Less commonly, a <strong>U.S. employer</strong> may also file an NIW
           petition on behalf of a foreign national. In both cases, the petition
           must be supported by <strong>substantial evidence</strong> that the
-          individual’s proposed work meets the NIW requirements under{" "}
+          individual’s proposed work meets the NIW requirements under
           <em>Matter of Dhanasar</em>.
         </p>
       </>
@@ -2041,14 +2052,14 @@ export const NiwFaqs = [
           <li>
             <strong>Labor Certification (PERM)</strong>: Normally, an employer
             must test the U.S. labor market to confirm no qualified U.S. worker
-            is available. This step is{" "}
+            is available. This step is
             <strong>time-consuming and uncertain</strong>. NIW waives it
             entirely.
           </li>
           <li>
             <strong>Job Offer Requirement</strong>: Regular EB2 petitions
             require a full-time, permanent job offer from a U.S. employer. NIW
-            allows applicants to qualify based on their own{" "}
+            allows applicants to qualify based on their own
             <strong>credentials</strong> and <strong>proposed endeavor</strong>,
             even if self-employed, engaged in independent research, or launching
             a startup.
@@ -2057,12 +2068,12 @@ export const NiwFaqs = [
         <p>
           This waiver is granted only if the petitioner convincingly
           demonstrates that granting it serves the
-          <strong>national interest</strong>. This standard is defined by{" "}
+          <strong>national interest</strong>. This standard is defined by
           <strong>
             <em>Matter of Dhanasar</em>
           </strong>
           and reinforced by the <strong>2025 USCIS policy manual update</strong>
-          , which provides additional guidance on proving{" "}
+          , which provides additional guidance on proving
           <strong>“national importance.”</strong>
         </p>
       </>
@@ -2077,7 +2088,7 @@ export const NiwFaqs = [
           meet the requirements of the
           <strong>
             EB2 category (Second Preference Employment-Based Immigration)
-          </strong>{" "}
+          </strong>
           in one of two ways:
         </p>
         <p>
@@ -2091,15 +2102,15 @@ export const NiwFaqs = [
               Ph.D., MD/MBBS, or equivalent); or
             </li>
             <li>
-              A{" "}
+              A
               <strong>
                 baccalaureate degree plus at least five years of progressive,
                 post-degree work experience
-              </strong>{" "}
+              </strong>
               in your field.
             </li>
           </ul>
-          While a Ph.D. often strengthens the case, it is{" "}
+          While a Ph.D. often strengthens the case, it is
           <strong>not strictly required</strong>.
         </p>
         <p>
@@ -2134,12 +2145,12 @@ export const NiwFaqs = [
         <p>
           Once <strong>EB2 eligibility</strong> is established, the applicant
           must then demonstrate their entitlement to a
-          <strong>National Interest Waiver</strong> under{" "}
+          <strong>National Interest Waiver</strong> under
           <strong>
             <em>Matter of Dhanasar</em>
           </strong>
-          : showing that their proposed work has{" "}
-          <strong>substantial merit</strong>, is of{" "}
+          : showing that their proposed work has
+          <strong>substantial merit</strong>, is of
           <strong>national importance</strong>, and that waiving the job offer
           and labor certification benefits the United States.
         </p>
@@ -2152,7 +2163,7 @@ export const NiwFaqs = [
       <>
         <p>
           An <strong>advanced degree</strong> under the EB-2 category refers to
-          a U.S. academic or professional degree earned{" "}
+          a U.S. academic or professional degree earned
           <strong>above the bachelor’s level</strong> (e.g., Master’s, Ph.D.,
           M.D., J.D.), or its <strong>foreign equivalent</strong>. Under USCIS’s
           2025 policy guidance, adjudicators must assess whether a foreign
@@ -2170,13 +2181,13 @@ export const NiwFaqs = [
     content: (
       <>
         <p>
-          A foreign national holding only a <strong>bachelor’s degree</strong>{" "}
+          A foreign national holding only a <strong>bachelor’s degree</strong>
           (or foreign equivalent) may still qualify for EB-2 if they also have
-          at least{" "}
+          at least
           <strong>
             five years of progressive, post-baccalaureate work experience
-          </strong>{" "}
-          in their specialty. USCIS evaluates whether the experience involved{" "}
+          </strong>
+          in their specialty. USCIS evaluates whether the experience involved
           <strong>increasing responsibility, complexity, and skill</strong> over
           time. Applicants who cannot meet this requirement must instead qualify
           under the <strong>“exceptional ability”</strong> category.
@@ -2207,7 +2218,7 @@ export const NiwFaqs = [
       <>
         <p>
           To establish <strong>exceptional ability</strong> under EB-2,
-          applicants must provide documentation that meets at least{" "}
+          applicants must provide documentation that meets at least
           <strong>three of the following six criteria</strong>. Each item must
           be <strong>specific, verifiable, and directly related</strong> to the
           applicant’s field.
@@ -2313,9 +2324,9 @@ export const NiwFaqs = [
         <p>
           <strong>Final Merits Determination:</strong> Meeting three criteria is
           necessary but not sufficient. USCIS will conduct a holistic review to
-          determine whether the applicant’s expertise is{" "}
+          determine whether the applicant’s expertise is
           <strong>significantly above ordinary</strong>. As of the 2025 update,
-          evidence must be{" "}
+          evidence must be
           <strong>specific, verifiable, and linked directly</strong>
           to the applicant’s proposed endeavor.
         </p>
@@ -2327,7 +2338,7 @@ export const NiwFaqs = [
     content: (
       <>
         <p>
-          Yes. USCIS allows submission of <strong>comparable evidence</strong>{" "}
+          Yes. USCIS allows submission of <strong>comparable evidence</strong>
           when the standard six criteria do not clearly apply to the applicant’s
           occupation. The petitioner must explain why the traditional criteria
           are not relevant and how the alternative evidence effectively
@@ -2367,10 +2378,10 @@ export const NiwFaqs = [
           USCIS evaluates each case individually. Supporting documentation may
           include <strong>credential evaluations</strong>,
           <strong>exam score reports</strong>, and evidence of the medical
-          school’s structure and rigor. Applicants seeking{" "}
+          school’s structure and rigor. Applicants seeking
           <strong>clinical practice</strong> in the U.S. should also provide
           relevant
-          <strong>licensure or eligibility</strong>. For those in{" "}
+          <strong>licensure or eligibility</strong>. For those in
           <strong>research, teaching, or policy</strong>, academic credentials
           and recognition may suffice.
         </p>
@@ -2394,19 +2405,19 @@ export const NiwFaqs = [
         </p>
         <ol>
           <li>
-            They fulfill the basic criteria for{" "}
-            <strong>EB-2 classification</strong>—meaning they hold an{" "}
-            <strong>advanced degree</strong> or can demonstrate{" "}
+            They fulfill the basic criteria for
+            <strong>EB-2 classification</strong>—meaning they hold an
+            <strong>advanced degree</strong> or can demonstrate
             <strong>exceptional ability</strong> in science, arts, or business,
             and
           </li>
           <li>
-            They satisfy the <strong>three-part test</strong> from the{" "}
+            They satisfy the <strong>three-part test</strong> from the
             <strong>Matter of Dhanasar</strong> decision:
           </li>
           <ul>
             <li>
-              The proposed work has <strong>significant merit</strong> and{" "}
+              The proposed work has <strong>significant merit</strong> and
               <strong>national importance</strong>;
             </li>
             <li>
@@ -2415,18 +2426,18 @@ export const NiwFaqs = [
             </li>
             <li>
               <strong>Overall</strong>, waiving the job offer and labor
-              certification requirements would{" "}
+              certification requirements would
               <strong>benefit the United States</strong>.
             </li>
           </ul>
         </ol>
         <p>
-          These factors are assessed <strong>together</strong> and require{" "}
+          These factors are assessed <strong>together</strong> and require
           <strong>strong supporting documentation</strong>. Relevant areas of
-          work include, but are not limited to, <strong>science</strong>,{" "}
-          <strong>technology</strong>, <strong>healthcare</strong>,{" "}
-          <strong>public policy</strong>, <strong>education</strong>,{" "}
-          <strong>climate initiatives</strong>, <strong>energy</strong>, and{" "}
+          work include, but are not limited to, <strong>science</strong>,
+          <strong>technology</strong>, <strong>healthcare</strong>,
+          <strong>public policy</strong>, <strong>education</strong>,
+          <strong>climate initiatives</strong>, <strong>energy</strong>, and
           <strong>economic development</strong>.
         </p>
       </>
@@ -2438,10 +2449,10 @@ export const NiwFaqs = [
       <>
         <p>
           The EB2 NIW petition is filed using <strong>Form I-140</strong>. The
-          submission must include evidence proving{" "}
-          <strong>EB-2 eligibility</strong> and compliance with the{" "}
-          <strong>Dhanasar three-prong test</strong>. This often includes a{" "}
-          <strong>statement of proposed endeavor</strong>,{" "}
+          submission must include evidence proving
+          <strong>EB-2 eligibility</strong> and compliance with the
+          <strong>Dhanasar three-prong test</strong>. This often includes a
+          <strong>statement of proposed endeavor</strong>,
           <strong>expert recommendation letters</strong>, and records of the
           applicant’s <strong>qualifications and achievements</strong>.
         </p>
@@ -2453,12 +2464,12 @@ export const NiwFaqs = [
     content: (
       <>
         <p>
-          <strong>No.</strong> A key benefit of the{" "}
-          <strong>National Interest Waiver</strong> is that it{" "}
+          <strong>No.</strong> A key benefit of the
+          <strong>National Interest Waiver</strong> is that it
           <strong>
             removes the requirement for labor certification (PERM)
           </strong>
-          . If the applicant’s work is determined to serve the{" "}
+          . If the applicant’s work is determined to serve the
           <strong>national interest</strong>, USCIS allows the petition to move
           forward without the traditional <strong>labor market test</strong>.
         </p>
@@ -2470,8 +2481,8 @@ export const NiwFaqs = [
     content: (
       <>
         <p>
-          <strong>No.</strong> A permanent job offer is{" "}
-          <strong>not required</strong>. The EB2 NIW category supports{" "}
+          <strong>No.</strong> A permanent job offer is
+          <strong>not required</strong>. The EB2 NIW category supports
           <strong>self-petitioning</strong>, meaning applicants can file
           independently without an employer. This is especially beneficial for
           researchers, entrepreneurs, and professionals pursuing
@@ -2498,8 +2509,8 @@ export const NiwFaqs = [
             independence.
           </li>
           <li>
-            Ideal for individuals in <strong>research</strong>,{" "}
-            <strong>entrepreneurship</strong>, <strong>policy work</strong>, or{" "}
+            Ideal for individuals in <strong>research</strong>,
+            <strong>entrepreneurship</strong>, <strong>policy work</strong>, or
             <strong>non-traditional career settings</strong>.
           </li>
         </ul>
@@ -2511,25 +2522,23 @@ export const NiwFaqs = [
     content: (
       <>
         <p>
-          Applicants must show that their{" "}
-          <strong>credentials and proposed work</strong> bring a clear{" "}
-          <strong>benefit of national significance</strong>. The{" "}
+          Applicants must show that their
+          <strong>credentials and proposed work</strong> bring a clear
+          <strong>benefit of national significance</strong>. The
           <strong>burden of proof</strong> rests with the petitioner to
-          establish that bypassing the{" "}
+          establish that bypassing the
           <strong>job offer and labor certification</strong> process aligns with
           the <strong>U.S. national interest</strong>. Meeting EB2
           qualifications is only the first step—
-          <strong>
-            the strength of the petition and supporting evidence
-          </strong>{" "}
+          <strong>the strength of the petition and supporting evidence</strong>
           is what ultimately determines approval.
         </p>
         <p>
           Although the standard is demanding, many achieve approval with a
           carefully prepared and well-documented case. A compelling petition
           with <strong>specific and persuasive evidence</strong> significantly
-          increases the chances of success. For instance, the{" "}
-          <strong>North America Immigration Law Group</strong> has maintained an{" "}
+          increases the chances of success. For instance, the
+          <strong>North America Immigration Law Group</strong> has maintained an
           <strong>approval rate of over 99%</strong> under its "Approval or
           Refund<sup class="registered_tm">®</sup>" service, underscoring the
           value of a strategically crafted presentation.
@@ -2545,8 +2554,8 @@ export const NiwFaqs = [
           <strong>
             In the first quarter of FY2025, USCIS approved 4,722 EB-2 NIW cases
             and denied 2,799.
-          </strong>{" "}
-          This means that approximately <strong>63% were approved</strong> while{" "}
+          </strong>
+          This means that approximately <strong>63% were approved</strong> while
           <strong>37% were denied</strong>.
         </p>
       </>
@@ -2558,13 +2567,13 @@ export const NiwFaqs = [
     content: (
       <>
         <p>
-          The governing framework is the <strong>Matter of Dhanasar</strong>{" "}
+          The governing framework is the <strong>Matter of Dhanasar</strong>
           (issued on <strong>December 27, 2016</strong>), which requires the
           petitioner to show that:
         </p>
         <ol>
           <li>
-            The proposed endeavor has <strong>significant merit</strong> and{" "}
+            The proposed endeavor has <strong>significant merit</strong> and
             <strong>national importance</strong>;
           </li>
           <li>
@@ -2572,13 +2581,13 @@ export const NiwFaqs = [
             endeavor;
           </li>
           <li>
-            On balance, granting a waiver of the{" "}
-            <strong>job offer and labor certification</strong> is in the{" "}
+            On balance, granting a waiver of the
+            <strong>job offer and labor certification</strong> is in the
             <strong>national interest</strong>.
           </li>
         </ol>
         <p>
-          Each requirement must be supported with{" "}
+          Each requirement must be supported with
           <strong>credible and well-structured evidence</strong>, and USCIS
           applies a <strong>totality-of-the-evidence analysis</strong>.
         </p>
@@ -2594,11 +2603,11 @@ export const NiwFaqs = [
           <strong>A. Substantial Merit</strong>
         </p>
         <p>
-          The petitioner must show that the proposed endeavor carries{" "}
+          The petitioner must show that the proposed endeavor carries
           <strong>substantial merit</strong>. As clarified in the January 2025
-          USCIS policy update, this means the endeavor should aim to{" "}
-          <strong>solve a meaningful problem</strong>,{" "}
-          <strong>advance knowledge</strong>, or{" "}
+          USCIS policy update, this means the endeavor should aim to
+          <strong>solve a meaningful problem</strong>,
+          <strong>advance knowledge</strong>, or
           <strong>improve societal well-being</strong>.
         </p>
         <p>Fields where substantial merit may apply include:</p>
@@ -2620,7 +2629,7 @@ export const NiwFaqs = [
           </li>
         </ul>
         <p>
-          The work does not need to create{" "}
+          The work does not need to create
           <strong>immediate economic benefits</strong>, but it must demonstrate
           a <strong>clear contribution</strong> to its field or society.
         </p>
@@ -2661,8 +2670,8 @@ export const NiwFaqs = [
             recognized public challenges;
           </li>
           <li>
-            Promotes <strong>economic growth</strong>,{" "}
-            <strong>public health</strong>, <strong>climate resilience</strong>,{" "}
+            Promotes <strong>economic growth</strong>,
+            <strong>public health</strong>, <strong>climate resilience</strong>,
             <strong>technological progress</strong>, or other major goals.
           </li>
         </ul>
@@ -2671,7 +2680,7 @@ export const NiwFaqs = [
         </p>
         <ul>
           <li>
-            A comprehensive <strong>proposed endeavor statement</strong>{" "}
+            A comprehensive <strong>proposed endeavor statement</strong>
             explaining how the work aligns with national priorities;
           </li>
           <li>
@@ -2688,10 +2697,10 @@ export const NiwFaqs = [
           </li>
         </ul>
         <p>
-          Together, the evidence should show that the endeavor is both{" "}
-          <strong>valuable in its field</strong> and has{" "}
+          Together, the evidence should show that the endeavor is both
+          <strong>valuable in its field</strong> and has
           <strong>broad national significance</strong>. USCIS places emphasis on
-          measurable{" "}
+          measurable
           <strong>impact and alignment with strategic priorities</strong>.
         </p>
       </>
@@ -2703,8 +2712,8 @@ export const NiwFaqs = [
     content: (
       <>
         <p>
-          Under the third prong of Dhanasar, USCIS applies a{" "}
-          <strong>balancing test</strong> to determine whether the{" "}
+          Under the third prong of Dhanasar, USCIS applies a
+          <strong>balancing test</strong> to determine whether the
           <strong>
             foreign national’s contributions outweigh the benefits of labor
             market protections
@@ -2725,8 +2734,8 @@ export const NiwFaqs = [
             flexibility beyond standard employment structures;
           </li>
           <li>
-            If the work <strong>generates jobs</strong>,{" "}
-            <strong>drives innovation</strong>, or{" "}
+            If the work <strong>generates jobs</strong>,
+            <strong>drives innovation</strong>, or
             <strong>strengthens U.S. competitiveness</strong>;
           </li>
           <li>
@@ -2737,7 +2746,7 @@ export const NiwFaqs = [
         <p>
           The case must be presented as a <strong>cohesive package</strong>,
           where all documentation and support letters collectively demonstrate
-          that labor certification would <strong>delay or hinder</strong>{" "}
+          that labor certification would <strong>delay or hinder</strong>
           important contributions.
         </p>
       </>
@@ -2749,7 +2758,7 @@ export const NiwFaqs = [
     content: (
       <>
         <p>
-          USCIS considers a range of evidence types, now assessed with{" "}
+          USCIS considers a range of evidence types, now assessed with
           <strong>greater detail and consistency under 2025 guidance</strong>:
         </p>
         <p>
@@ -2760,7 +2769,7 @@ export const NiwFaqs = [
         </p>
         <p>
           <strong>Support Letters:</strong> Still a key component. Letters are
-          strongest when written by{" "}
+          strongest when written by
           <strong>
             collaborators or experts familiar with the applicant’s work
           </strong>
@@ -2783,11 +2792,11 @@ export const NiwFaqs = [
           the applicant’s specific role.
         </p>
         <p>
-          <strong>Memberships:</strong> Selective memberships that require{" "}
+          <strong>Memberships:</strong> Selective memberships that require
           <strong>documented achievement</strong> and peer recognition.
         </p>
         <p>
-          <strong>Awards:</strong> Competitive, widely recognized{" "}
+          <strong>Awards:</strong> Competitive, widely recognized
           <strong>national or international awards</strong> are highly
           persuasive.
         </p>
@@ -2801,7 +2810,7 @@ export const NiwFaqs = [
         </p>
         <p>
           <strong>External Reliance:</strong> Evidence of other institutions or
-          professionals relying on the applicant’s work, such as{" "}
+          professionals relying on the applicant’s work, such as
           <strong>collaborations, citations, or acknowledgments</strong>.
         </p>
       </>
@@ -2813,12 +2822,12 @@ export const NiwFaqs = [
       <>
         <p>
           There is <strong>no fixed minimum</strong>. USCIS reviews cases
-          individually, focusing on the{" "}
+          individually, focusing on the
           <strong>quality, influence, and relevance</strong> of publications. A
           small number of <strong>highly impactful works</strong>—especially if
           cited in <strong>government reports, key studies, or patents</strong>
-          —can be more persuasive than a larger volume of low-impact articles.{" "}
-          <strong>2025 USCIS guidance</strong> emphasizes{" "}
+          —can be more persuasive than a larger volume of low-impact articles.
+          <strong>2025 USCIS guidance</strong> emphasizes
           <strong>context over raw numbers</strong>.
         </p>
       </>
@@ -2831,9 +2840,9 @@ export const NiwFaqs = [
       <>
         <p>
           <strong>Yes.</strong> Applicants may submit petitions under multiple
-          categories (e.g., EB2 NIW and EB1-A). Each requires a{" "}
-          <strong>separate Form I-140</strong>, the appropriate{" "}
-          <strong>filing fee</strong>, and{" "}
+          categories (e.g., EB2 NIW and EB1-A). Each requires a
+          <strong>separate Form I-140</strong>, the appropriate
+          <strong>filing fee</strong>, and
           <strong>unique supporting evidence</strong>. Multiple categories
           cannot be selected on a single form.
         </p>
@@ -2845,12 +2854,12 @@ export const NiwFaqs = [
     content: (
       <>
         <p>
-          Filing requires submitting <strong>Form I-140</strong> along with all{" "}
+          Filing requires submitting <strong>Form I-140</strong> along with all
           <strong>supporting documentation</strong> to the correct USCIS service
           center. While <strong>Form ETA-9089</strong> is normally part of the
           labor certification process, NIW petitions bypass that requirement.
-          Applicants should ensure all documentation is{" "}
-          <strong>complete and well-organized</strong>, as under{" "}
+          Applicants should ensure all documentation is
+          <strong>complete and well-organized</strong>, as under
           <strong>2025 guidance</strong> USCIS may deny cases outright without
           issuing an RFE if essential evidence is missing.
         </p>
@@ -2868,7 +2877,7 @@ export const NiwFaqs = [
           adjustment of status application (I-485) or proceed with consular
           processing until your <strong>priority date</strong> is current. For
           individuals born in China and India, the backlog is significantly
-          longer. For other countries, the wait is generally{" "}
+          longer. For other countries, the wait is generally
           <strong>1–2 years</strong>, though it can vary based on annual visa
           availability. The <strong>U.S. Department of State</strong> updates
           cutoff dates monthly in the <strong>Visa Bulletin</strong>.
@@ -2881,13 +2890,14 @@ export const NiwFaqs = [
     content: (
       <>
         <p>
-          The most reliable way is through a{" "}
+          The most reliable way is through a
           <strong>professional case evaluation</strong>. Our attorneys assess
           qualifications based on the <strong>2025 USCIS criteria</strong>. To
           request a <strong>free evaluation</strong>, submit your resume and
           background information here:
           <br />
           <strong>
+            &nbsp;
             <a
               href="https://wenzo.wegreened.com/case_evaluation"
               target="_blank"
@@ -2905,7 +2915,7 @@ export const NiwFaqs = [
     content: (
       <>
         <p>
-          Yes. The <strong>petitioner</strong> or their{" "}
+          Yes. The <strong>petitioner</strong> or their
           <strong>legal representative (via Form G-28)</strong> may send a
           written withdrawal request directly to USCIS.
         </p>
@@ -2917,8 +2927,8 @@ export const NiwFaqs = [
     content: (
       <>
         <p>
-          There is <strong>no waiting period</strong>. You may refile{" "}
-          <strong>immediately</strong>, though it is strongly advised to include{" "}
+          There is <strong>no waiting period</strong>. You may refile
+          <strong>immediately</strong>, though it is strongly advised to include
           <strong>new evidence or a revised strategy</strong> to address the
           reasons for denial.
         </p>
@@ -2955,12 +2965,12 @@ export const NiwFaqs = [
       <>
         <p>
           A <strong>recommendation letter</strong> is a written endorsement from
-          a recognized expert in the petitioner’s field. It highlights the{" "}
+          a recognized expert in the petitioner’s field. It highlights the
           <strong>importance of the petitioner’s contributions</strong>, their
-          ability to <strong>advance their endeavor</strong>, and the{" "}
-          <strong>national significance</strong> of their work. Under the{" "}
+          ability to <strong>advance their endeavor</strong>, and the
+          <strong>national significance</strong> of their work. Under the
           <strong>2025 guidelines</strong>, such letters remain highly valuable,
-          particularly when authored by individuals with{" "}
+          particularly when authored by individuals with
           <strong>direct knowledge</strong> of the petitioner’s achievements.
         </p>
       </>
@@ -2982,14 +2992,14 @@ export const NiwFaqs = [
             impact.
           </li>
           <li>
-            An explanation of how your work{" "}
+            An explanation of how your work
             <strong>benefits the United States</strong>.
           </li>
           <li>
             <strong>Well-supported claims</strong> rather than vague statements.
           </li>
           <li>
-            When applicable, employer letters may emphasize your role as{" "}
+            When applicable, employer letters may emphasize your role as
             <strong>irreplaceable due to unique expertise</strong>.
           </li>
         </ul>
@@ -3004,7 +3014,7 @@ export const NiwFaqs = [
         <p>
           There is <strong>no USCIS minimum</strong>. While petitions can be
           filed without letters, well-prepared recommendations help strengthen
-          the case. Each letter should provide a{" "}
+          the case. Each letter should provide a
           <strong>unique perspective</strong> and emphasize different aspects of
           the petitioner’s qualifications and national impact.
         </p>
@@ -3033,8 +3043,8 @@ export const NiwFaqs = [
           </li>
         </ul>
         <p>
-          We never use templates. Each letter is{" "}
-          <strong>individually prepared</strong> to meet{" "}
+          We never use templates. Each letter is
+          <strong>individually prepared</strong> to meet
           <strong>USCIS standards</strong> under the 2025 policy.
         </p>
       </>
@@ -3045,7 +3055,6 @@ export const NiwFaqs = [
       "What happens if I change jobs while my EB2 NIW petition is pending?",
     content: (
       <>
-        {" "}
         <p>
           Because EB2 NIW allows for <strong>self-petitioning</strong>, a job
           change <strong>does not automatically affect</strong> your case.
@@ -3069,6 +3078,7 @@ export const NiwFaqs = [
           <strong>still Ph.D. candidates</strong>. Explore our success stories
           here:
           <br />
+          &nbsp;
           <a
             href="https://www.wegreened.com/blog/advanced-search/"
             target="_blank"
@@ -3085,12 +3095,13 @@ export const NiwFaqs = [
     content: (
       <>
         <p>
-          Yes. Many of our approved EB2 NIW cases were filed by applicants{" "}
+          Yes. Many of our approved EB2 NIW cases were filed by applicants
           <strong>residing outside the U.S.</strong>. The critical factor is
-          demonstrating that your{" "}
-          <strong>credentials, proposed endeavor, and contributions</strong>{" "}
+          demonstrating that your
+          <strong>credentials, proposed endeavor, and contributions</strong>
           serve the national interest. Learn more here:
           <br />
+          &nbsp;
           <a
             href="https://www.wegreened.com/How-Can-I-get-a-Green-Card-Outside-the-US"
             target="_blank"
@@ -3108,11 +3119,10 @@ export const NiwFaqs = [
       "Can F-1 or J-1 visa holders file for EB2 NIW? Do I need to wait until I graduate or switch to H-1B?",
     content: (
       <>
-        {" "}
         <p>
           <strong>No.</strong> You do not need to switch to H-1B before
-          applying. Although{" "}
-          <strong>F-1 and J-1 are non-immigrant visas</strong>, you may still{" "}
+          applying. Although
+          <strong>F-1 and J-1 are non-immigrant visas</strong>, you may still
           <strong>file for a green card</strong> under EB2 NIW. While immigrant
           intent must not be shown during your initial visa application, it is
           acceptable to <strong>adjust your intent</strong> later when filing
@@ -3126,13 +3136,12 @@ export const NiwFaqs = [
       "What is the difference between EB2 NIW and EB1-A? Can both be filed together?",
     content: (
       <>
-        {" "}
         <p>
-          <strong>EB1-A</strong> requires proof of extraordinary ability with{" "}
+          <strong>EB1-A</strong> requires proof of extraordinary ability with
           <strong>sustained national or international recognition</strong>. In
           contrast, <strong>EB2 NIW</strong> focuses on whether the applicant’s
           work benefits the national interest , and its threshold is generally
-          more accessible. You may file{" "}
+          more accessible. You may file
           <strong>both petitions at the same time</strong>, and USCIS reviews
           them independently. Many applicants pursue both to increase approval
           chances.
@@ -3144,13 +3153,12 @@ export const NiwFaqs = [
     title: "Can I apply for EB2 NIW if I don’t have publications?",
     content: (
       <>
-        {" "}
         <p>
-          Yes. While publications strengthen a case, they are{" "}
-          <strong>not mandatory</strong>. USCIS reviews all evidence under the{" "}
+          Yes. While publications strengthen a case, they are
+          <strong>not mandatory</strong>. USCIS reviews all evidence under the
           <strong>Dhanasar framework</strong>. Applicants without
           publications—such as entrepreneurs or applied researchers—may qualify
-          by showing{" "}
+          by showing
           <strong>
             innovation, business impact, job creation, or contributions to
             public welfare
@@ -3165,7 +3173,6 @@ export const NiwFaqs = [
       "I hold a J-1 visa with the two-year home residency requirement. Can I apply for EB2 NIW now?",
     content: (
       <>
-        {" "}
         <p>
           Yes. You may file your <strong>I-140 petition</strong> while still
           subject to the <strong>212(e) two-year requirement</strong>. The rule
@@ -3274,7 +3281,7 @@ export const NiwEntrepreneur = [
       </li>
       <li>
         <b>National Importance:</b> The business must extend beyond local
-        benefits, addressing broader U.S. or global priorities such as{" "}
+        benefits, addressing broader U.S. or global priorities such as
         <b>job creation, competitiveness, and public welfare</b>.
       </li>
       <li>
@@ -3432,7 +3439,7 @@ export const Eb1AOverview = [
     content: (
       <>
         <p>
-          EB1-A offers significant advantages. Most importantly, applicants can{" "}
+          EB1-A offers significant advantages. Most importantly, applicants can
           self-petition without a U.S. employer, provided they will continue
           working in their area of extraordinary ability. While self-petition is
           possible, we strongly recommend professional legal assistance due to
@@ -3464,7 +3471,7 @@ export const Eb1AOverview = [
           </li>
         </ul>
         <p>
-          For detailed criteria, see &nbsp;
+          For detailed criteria, see &nbsp; &nbsp;
           <a
             href="https://www.wegreened.com/EB1A_qualification"
             class="link_underline"
@@ -3504,7 +3511,7 @@ export const Eb1AOverview = [
         <p>
           Since not all criteria apply equally across fields, it is crucial to
           identify the most relevant evidence. Our attorneys are skilled at
-          tailoring evidence strategies. See more in
+          tailoring evidence strategies. See more in &nbsp;
           <a href="#" class="link_underline">
             EB1-A Documentation Guide <i class="fa fa-external-link"></i>
           </a>
@@ -3523,9 +3530,9 @@ export const Eb1AOverview = [
           broad makes it difficult to stand out, while too narrow may appear
           artificial. Our attorneys help clients strategically define their
           field based on education and professional experience. For more
-          insights, see Victoria Chen’s article:
+          insights, see Victoria Chen’s article: &nbsp;
           <a href="#" class="link_underline">
-            Have You Risen to the Top of the Endeavor?{" "}
+            Have You Risen to the Top of the Endeavor?
             <i class="fa fa-external-link"></i>
           </a>
           .
@@ -3570,7 +3577,7 @@ export const Eb1AOverview = [
           <b>Step 1:</b> Verify if at least three types of evidence are met.
           <b>Step 2:</b> Final merits determination, assessing whether the
           applicant truly belongs to the top of their field. Learn more in our
-          detailed summary:
+          detailed summary: &nbsp;
           <a
             href="https://www.wegreened.com/EB1A_twopart"
             class="link_underline"
@@ -3587,7 +3594,7 @@ export const Eb1AOverview = [
     content: (
       <>
         <p>
-          Applicants abroad can also pursue EB1-A. For details, see:
+          Applicants abroad can also pursue EB1-A. For details, see: &nbsp;
           <a
             href="https://www.wegreened.com/How-Can-I-get-a-Green-Card-Outside-the-US"
             class="link_underline"
@@ -3599,24 +3606,29 @@ export const Eb1AOverview = [
 
         <ul>
           <li>
+            &nbsp;
             <a href="https://www.wegreened.com/EB1A">
               EB1-A (Alien of Extraordinary Ability)
             </a>
           </li>
           <li>
+            &nbsp;
             <a href="https://www.wegreened.com/EB1B-Outstanding-Professors-and-Researchers">
               EB1-B: Outstanding Professors and Researchers
             </a>
           </li>
           <li>
+            &nbsp;
             <a href="https://www.wegreened.com/EB1C-Multinational-Executives-or-Managers">
               EB1-C: Multinational Executives or Managers
             </a>
           </li>
           <li>
+            &nbsp;
             <a href="https://www.wegreened.com/eb1">EB1 Visa Requirements</a>
           </li>
           <li>
+            &nbsp;
             <a href="https://www.wegreened.com/EB1A_twopart">
               Two-Part Approach for EB1-A
             </a>
@@ -3682,7 +3694,7 @@ export const LeagalFeeEB1A = [
     <br />
     <br />
     <p>
-      We charge a{" "}
+      We charge a &nbsp;
       <a href="https://www.wegreened.com/Legal-Fees" class="link_underline">
         flat fee for EB-1 and NIW petitions
       </a>
@@ -3692,7 +3704,7 @@ export const LeagalFeeEB1A = [
     </p>
     <p>
       We are the only immigration firm that backs its I-140 services with a
-      binding refund policy, clearly stated in the{" "}
+      binding refund policy, clearly stated in the &nbsp;
       <a href="https://www.wegreened.com/Legal-Fees" class="link_underline">
         attorney-client agreement
       </a>
@@ -3789,14 +3801,14 @@ export const Eb1A_Processing = [
         <strong>1. Submit a Free Evaluation Request</strong>
         <p>
           Start by sending us your resume along with basic details by submitting
-          a free evaluation request online. Simply click{" "}
+          a free evaluation request online. Simply click &nbsp;
           <a
             href="https://wenzo.wegreened.com/case_evaluation"
             class="link_underline"
             target="_blank"
           >
             here
-          </a>{" "}
+          </a>
           to begin.
         </p>
         <br />
@@ -3807,14 +3819,14 @@ export const Eb1A_Processing = [
         <p>
           Our principal attorney will personally review your information, assess
           your qualifications, and provide an honest evaluation of your chances
-          of success. At North America Immigration Law Group, we use a{" "}
+          of success. At North America Immigration Law Group, we use a &nbsp;
           <a
             href="https://www.wegreened.com/EB1-NIW-CREDENTIAL-TEST"
             class="link_underline"
             title="EB1/NIW Credential Test™"
           >
             custom-designed credential test
-          </a>{" "}
+          </a>
           based on immigration law, USCIS guidelines, AAO opinions, judicial
           reviews, and our extensive experience. Your profile will be analyzed
           for the EB1-A (Alien of Extraordinary Ability) category using this
@@ -3840,7 +3852,7 @@ export const Eb1A_Processing = [
         </p>
         <p>
           Other possible categories include EB1-B for Outstanding Professors and
-          Researchers (if you have a qualifying sponsor), or EB-2 NIW{" "}
+          Researchers (if you have a qualifying sponsor), or EB-2 NIW &nbsp;
           <a
             href="https://www.wegreened.com/niw/Frequently-Asked-Questions"
             class="link_underline"
@@ -4138,7 +4150,7 @@ export const Eb1A_Processing = [
         <p>
           If USCIS issues an RFE, we will notify you right away and guide you in
           gathering the additional documents required. We will prepare response
-          letters, including legal arguments and supporting evidence, at{" "}
+          letters, including legal arguments and supporting evidence, at
           <strong>no additional charge</strong>. If your case is approved
           following the RFE response, the process will proceed as described in
           the approval section above.
@@ -4175,7 +4187,7 @@ export const Eb1A_Processing = [
         <p>
           We take pride in our proven track record and are confident in our
           ability to represent clients successfully. That is why we are the only
-          U.S. immigration law firm offering a{" "}
+          U.S. immigration law firm offering a
           <strong>binding refund policy on I-140 petitions</strong>, clearly
           detailed in our attorney-client contract .
         </p>
@@ -4291,7 +4303,7 @@ export const Eb1A_FAQs = [
           <li>Visas are current</li>
         </ol>
         <p>
-          This makes EB-1A one of the fastest routes to a Green Card. <br />{" "}
+          This makes EB-1A one of the fastest routes to a Green Card. <br />
           Answer provided by North America Immigration Law Group.
         </p>
       </>
@@ -4316,7 +4328,6 @@ export const Eb1A_FAQs = [
       "What eligibility criteria should be identified for EB-1A petitions?",
     content: (
       <>
-        {" "}
         <p>
           The petitioner must show which of the ten criteria are being met with
           evidence, and prove the beneficiary intends to continue working in
@@ -4354,7 +4365,6 @@ export const Eb1A_FAQs = [
       "What evidence shows the foreign national will continue working in their field?",
     content: (
       <>
-        {" "}
         <p>
           Letters from employers, contracts, prearranged commitments, or a
           personal statement of plans in the U.S. are accepted forms of
@@ -4369,7 +4379,6 @@ export const Eb1A_FAQs = [
       "What evidence shows the foreign person’s work will benefit the U.S.?",
     content: (
       <>
-        {" "}
         <p>
           No separate documentation is required. This requirement is generally
           met once other EB-1A criteria are satisfied. <br /> Answer provided by
@@ -4401,12 +4410,12 @@ export const Eb1A_FAQs = [
           <li>Local awards generally do not qualify.</li>
         </ol>
         <p>
-          See more about{" "}
+          See more about &nbsp;
           <a
             href="https://www.wegreened.com/Victoria-Immigration-Blog-We-Greened-Dot-Com-20110511"
             class="link_underline"
           >
-            the difference between major and lesser awards{" "}
+            the difference between major and lesser awards
             <i class="fa fa-external-link"></i>
           </a>
           . <br /> Answer provided by North America Immigration Law Group.
@@ -4419,7 +4428,6 @@ export const Eb1A_FAQs = [
       "What documentation is needed for membership in professional associations?",
     content: (
       <>
-        {" "}
         <p>
           Evidence must show that membership is based on outstanding
           achievements and that applications are reviewed by recognized national
@@ -4437,7 +4445,6 @@ export const Eb1A_FAQs = [
     title: "What counts as published material about the foreign person?",
     content: (
       <>
-        {" "}
         <p>
           Articles or coverage must appear in major media, professional
           publications, or national broadcasts. They must include publication
@@ -4452,7 +4459,6 @@ export const Eb1A_FAQs = [
     title: "How can participation as a judge of others’ work be proven?",
     content: (
       <>
-        {" "}
         <p>
           Evidence must clearly show that the applicant evaluated the work of
           others in their field, either individually or on a panel. Claims of
@@ -4468,7 +4474,6 @@ export const Eb1A_FAQs = [
       "What is the standard for proving original contributions of major significance?",
     content: (
       <>
-        {" "}
         <p>
           The evidence must show that the applicant’s contributions set them
           significantly above peers in their field, not just that they were
@@ -4482,7 +4487,6 @@ export const Eb1A_FAQs = [
     title: "What is the standard for proving authorship of scholarly articles?",
     content: (
       <>
-        {" "}
         <p>
           Articles must appear in prestigious, nationally or internationally
           circulated journals with strict selection standards. In fields where
@@ -4498,7 +4502,6 @@ export const Eb1A_FAQs = [
       "What evidence is needed for performing a leading or critical role in an organization?",
     content: (
       <>
-        {" "}
         <p>
           Affidavits or documentation should show both the applicant’s
           importance to the organization and the organization’s distinguished
@@ -4513,7 +4516,6 @@ export const Eb1A_FAQs = [
     title: "How can high salary or remuneration be proven?",
     content: (
       <>
-        {" "}
         <p>
           The applicant’s pay must be compared with others in similar roles in
           the field. Factors beyond ability are considered. Evidence from one
@@ -4527,7 +4529,6 @@ export const Eb1A_FAQs = [
     title: "Can USCIS consider evidence beyond the listed categories?",
     content: (
       <>
-        {" "}
         <p>
           Yes. USCIS allows “comparable evidence” if the listed criteria don’t
           apply to the applicant’s field. In some cases, more than three types
@@ -4541,12 +4542,11 @@ export const Eb1A_FAQs = [
     title: "How should I argue an EB-1A case for better chances of approval?",
     content: (
       <>
-        {" "}
         <p>
           Define the field narrowly to make it easier to show the applicant is
           among the top. Applicants should highlight their unique mix of
           education and work experience to stand out. A narrowly defined field
-          strengthens the argument of being one of the few experts at the top.{" "}
+          strengthens the argument of being one of the few experts at the top.
           <br /> Answer provided by North America Immigration Law Group.
         </p>
       </>
@@ -4577,7 +4577,6 @@ export const Eb1A_FAQs = [
     title: "What is the two-part approach taken by the USCIS adjudicators?",
     content: (
       <>
-        {" "}
         <p>
           In 2010, the Ninth Circuit Court of Appeals (Kazarian case) outlined a
           two-part analysis for EB-1A petitions:
@@ -4683,7 +4682,7 @@ export const Eb1A_FAQs = [
           must be submitted to the appropriate service center. If filed
           electronically, the system will automatically route your petition and
           provide a receipt indicating the service center. All future
-          correspondence and evidence must be sent to that location. <br />{" "}
+          correspondence and evidence must be sent to that location. <br />
           Answer provided by North America Immigration Law Group.
         </p>
       </>
@@ -4896,7 +4895,7 @@ export const Eb1A_FAQs = [
         are not yet at the “top of their field,” careful definition of the field
         can strengthen the case. Our firm has successfully represented Ph.D.
         students with approval rates similar to other applicants. For tips, see
-        our article:{" "}
+        our article: &nbsp;
         <a
           href="https://www.wegreened.com/Victoria-Immigration-Blog-We-Greened-Dot-Com-20110120"
           class="link_underline"
@@ -4929,7 +4928,6 @@ export const Eb1A_FAQs = [
       "What is the main distinction between NIW and EB-1A petitions? Can I file both petitions, such as NIW and EB-1A, at the same time?",
     content: (
       <>
-        {" "}
         <p>
           The eligibility criteria and preparation process for National Interest
           Waiver (NIW) petitions and EB-1A (Alien of Extraordinary Ability)
@@ -4952,7 +4950,7 @@ export const Eb1A_FAQs = [
           is legally permissible to file both petitions simultaneously, and many
           applicants do so in order to increase their chances of success. Filing
           multiple I-140 petitions under different categories is allowed, and in
-          fact, it often improves the likelihood of at least one approval.{" "}
+          fact, it often improves the likelihood of at least one approval.
           <br />
           Answer provided by North America Immigration Law Group.
         </p>
@@ -4964,7 +4962,6 @@ export const Eb1A_FAQs = [
       "If I do not have published journal articles in my field, can I still qualify for EB-1A? Do I need an employer to sponsor me for this petition?",
     content: (
       <>
-        {" "}
         <p>
           Yes. There is no strict requirement that applicants must have
           published journal articles to qualify for or obtain approval of an
@@ -4976,7 +4973,7 @@ export const Eb1A_FAQs = [
           memberships in professional associations, or judging the work of
           others can support your case. Furthermore, EB-1A is a self-petition
           category, meaning you do not need sponsorship from your current
-          employer to file. You may independently petition on your own behalf.{" "}
+          employer to file. You may independently petition on your own behalf.
           <br />
           Answer provided by North America Immigration Law Group.
         </p>
@@ -4988,7 +4985,6 @@ export const Eb1A_FAQs = [
       "If I do not have any awards in my field, can I still apply under EB-1A?",
     content: (
       <>
-        {" "}
         <p>
           Yes. While awards can strengthen an EB-1A petition by helping to
           satisfy one of the recognized regulatory criteria, they are not an
@@ -5011,17 +5007,16 @@ export const Eb1A_FAQs = [
     title: "Am I eligible to apply for EB-1A from outside the United States?",
     content: (
       <>
-        {" "}
         <p>
           Yes. You do not need to be physically present in the United States to
           file an EB-1A petition. Applicants residing abroad may still pursue
-          this category. Please{" "}
+          this category. Please &nbsp;
           <a
             class="link_underline"
             href="https://www.wegreened.com/How-Can-I-get-a-Green-Card-Outside-the-US?"
           >
             click here
-          </a>{" "}
+          </a>
           for more detailed information regarding the process of applying for
           Alien of Extraordinary Ability (EB-1A) classification from outside the
           U.S., including consular processing options. <br />
@@ -5035,7 +5030,6 @@ export const Eb1A_FAQs = [
       "I am a J-1 visa holder subject to the two-year home residency requirement. Can I still apply for EB-1A now and pursue my J-1 waiver later?",
     content: (
       <>
-        {" "}
         <p>
           Yes. You may apply for EB-1A now even if you are subject to the J-1
           two-year foreign residency requirement. However, even with an approved
@@ -5058,7 +5052,6 @@ export const Eb1A_FAQs = [
     title: "What is your firm’s attorney fee structure for EB-1A petitions?",
     content: (
       <>
-        {" "}
         <p>
           Our firm charges a flat attorney fee for EB-1A I-140 petitions that
           qualify for our “Approval or Refund” service. This means that if your
@@ -5148,12 +5141,12 @@ export const Eb1BOverview = [
     internationally as outstanding in their area of expertise. USCIS allows
     expert recommendation letters as supporting evidence, provided they
     specifically discuss the applicant’s original, significant, and influential
-    contributions to the field. Click here to read &nbsp;
+    contributions to the field. Click here to read &nbsp; &nbsp;
     <a
       href="https://www.wegreened.com/EB1B_experttestimonials"
       class="link_underline"
     >
-      (What Expert Testimonials Will Help an EB1-B Case?{" "}
+      (What Expert Testimonials Will Help an EB1-B Case?
       <i class="fa fa-external-link"></i>)
     </a>
     .
@@ -5251,7 +5244,7 @@ export const Eb1BOverview = [
     <strong>USCIS Review Standard</strong>
     <br />
     <br />
-    Similar to EB1-A petitions, EB1-B petitions are reviewed under the
+    Similar to EB1-A petitions, EB1-B petitions are reviewed under the &nbsp;
     <a href="https://www.wegreened.com/EB1A_twopart" class="link_underline">
       two-part analysis
     </a>
@@ -5342,7 +5335,6 @@ export const LeagalFeeEB1B = [
     <br /> <br />
     <strong> What Does the Legal Fee Cover?</strong>
     <ol>
-      {" "}
       <br />
       <li>
         Unlimited consultations during representation: From the time we receive
@@ -5357,7 +5349,7 @@ export const LeagalFeeEB1B = [
             Providing clear discussions on the benefits and risks of every major
             decision.
           </li>
-        </ol>{" "}
+        </ol>
         <br />
       </li>
       <li>
@@ -5365,7 +5357,7 @@ export const LeagalFeeEB1B = [
         the most suitable candidates for recommendation letters. While
         regulations do not specify an exact number, typically 3 to 7 letters are
         considered ideal.
-      </li>{" "}
+      </li>
       <br />
       <li>
         Drafting recommendation letters: Unlike many firms that only provide
@@ -5374,7 +5366,7 @@ export const LeagalFeeEB1B = [
         ensure the letters are compelling and effective. However, you will need
         to provide details about each recommender, their authority in the field,
         and how your work connects to theirs.
-      </li>{" "}
+      </li>
       <br />
       <li>
         Drafting the petition letter: Once recommendations are finalized, we
@@ -5382,7 +5374,7 @@ export const LeagalFeeEB1B = [
         frames your accomplishments within a winning strategy. You will have the
         opportunity to review, suggest edits, and request revisions until you
         are fully satisfied.
-      </li>{" "}
+      </li>
       <br />
       <li>
         Preparing and filing Form I-140: We handle the preparation of Form
@@ -5390,21 +5382,21 @@ export const LeagalFeeEB1B = [
         standards. You will review the final form and evidence before
         submission. Once approved by you, we submit the petition package via
         FedEx.
-      </li>{" "}
+      </li>
       <br />
       <li>
         Responding to RFEs (Requests for Evidence): If USCIS issues an RFE, we
         immediately notify you and provide clear instructions on the required
         documents. We draft the response, including legal arguments and
         reference letters, at no additional charge.
-      </li>{" "}
+      </li>
       <br />
       <li>
         Denial contingency — refund or appeal: In the rare event of denial, you
         can choose between a full refund of attorney fees or a free appeal at no
         extra cost.
       </li>
-    </ol>{" "}
+    </ol>
     <br />
   </>,
 ];
@@ -5446,7 +5438,6 @@ export const Eb1B_FAQs = [
     title: "Who can file a petition under EB1-B?",
     content: (
       <>
-        {" "}
         <p>
           The EB1-B petition must be filed by the employer on behalf of the
           applicant. In this case, the employer is the petitioner, and the
@@ -5459,9 +5450,8 @@ export const Eb1B_FAQs = [
     title: "What form is used to file an EB1-B petition?",
     content: (
       <>
-        {" "}
         <p>
-          All EB-1 category petitions, including EB1-B, are submitted using{" "}
+          All EB-1 category petitions, including EB1-B, are submitted using
           <strong>Form I-140 (Immigrant Petition for Alien Worker)</strong>.
         </p>
       </>
@@ -5471,7 +5461,6 @@ export const Eb1B_FAQs = [
     title: "Is labor certification required before filing Form I-140?",
     content: (
       <>
-        {" "}
         <p>
           No. For all EB-1 categories, including EB1-B, labor certification is
           not required prior to filing the I-140 petition.
@@ -5483,7 +5472,6 @@ export const Eb1B_FAQs = [
     title: "Is a job offer required for EB1-B?",
     content: (
       <>
-        {" "}
         <p>
           Yes. Unlike EB1-A, a job offer is mandatory for EB1-B petitions. The
           foreign professor or researcher must have a sponsoring employer to
@@ -5513,7 +5501,6 @@ export const Eb1B_FAQs = [
     title: "How difficult is it to get an EB1-B petition approved?",
     content: (
       <>
-        {" "}
         <p>
           The responsibility to prove eligibility lies entirely with the
           petitioner. Substantial evidence must be provided to meet at least two
@@ -5521,7 +5508,7 @@ export const Eb1B_FAQs = [
           researcher is qualified, success depends heavily on how the case is
           documented and presented. Well-prepared evidence and persuasive
           arguments usually result in approval. Historically, EB1-B cases have
-          had a high approval rate—over 90% in the past five years. See{" "}
+          had a high approval rate—over 90% in the past five years. See &nbsp;
           <a
             href="https://www.wegreened.com/Victoria-Immigration-Blog-We-Greened-Dot-Com-20110405"
             class="link_underline"
@@ -5612,7 +5599,6 @@ export const Eb1B_FAQs = [
       "Can teaching and research experience be combined to meet the three-year requirement?",
     content: (
       <>
-        {" "}
         <p>
           Yes. According to USCIS regulations, the required three years of
           experience can be fulfilled through a combination of both teaching and
@@ -5627,7 +5613,6 @@ export const Eb1B_FAQs = [
       "Does teaching or research experience obtained while pursuing an advanced degree count?",
     content: (
       <>
-        {" "}
         <p>
           Generally, teaching or research experience acquired during the course
           of an advanced degree program is not acceptable. However, it may be
@@ -5644,7 +5629,6 @@ export const Eb1B_FAQs = [
       "How should evidence of at least three years of teaching or research experience be presented?",
     content: (
       <>
-        {" "}
         <p>
           Proof of teaching and/or research experience must be provided in the
           form of official letters from current or former employers. These
@@ -5659,7 +5643,6 @@ export const Eb1B_FAQs = [
     title: "What qualifies as tenure, tenure-track, or comparable positions?",
     content: (
       <>
-        {" "}
         <p>
           A tenured or tenure-track position refers to a role without a fixed
           end date. This may include a teaching or research position at a
@@ -5675,7 +5658,6 @@ export const Eb1B_FAQs = [
     title: "Is a permanent research position acceptable?",
     content: (
       <>
-        {" "}
         <p>
           Yes. Since many research positions at universities are not formally
           classified as tenured or tenure-track, USCIS allows a “permanent
@@ -5691,7 +5673,6 @@ export const Eb1B_FAQs = [
       "What if the employer is a private company that does not offer tenure?",
     content: (
       <>
-        {" "}
         <p>
           Because private employers generally do not grant tenure, USCIS
           considers a “comparable” position acceptable if the duties and
@@ -5706,7 +5687,6 @@ export const Eb1B_FAQs = [
     title: "Can a government agency qualify as an employer?",
     content: (
       <>
-        {" "}
         <p>
           In general, federal, state, and local government agencies are not
           considered qualifying employers for EB1-B petitions. The exception
@@ -6203,7 +6183,7 @@ export const Eb1B_FAQs = [
       <>
         <p>
           The filing fee for Form I-140 is currently <b>$715</b>. Additionally,
-          there is an asylum program fee of <b>$600</b>. This fee is reduced to{" "}
+          there is an asylum program fee of <b>$600</b>. This fee is reduced to
           <b>$300</b> for small employers with 25 or fewer full-time employees
           and waived entirely for nonprofit petitioning employers.
         </p>
@@ -6216,11 +6196,11 @@ export const Eb1B_FAQs = [
 // ************************ Labor certification   **********************************************
 // **************************************************************************************************
 
-export const LaborCertification = [
+export const LaborCertificationOverview = [
   <>
-    <strong>
-       Introduction
-    </strong>
+    <strong>Introduction</strong>
+    <br />
+    <br />
     <p>
       Foreign nationals who receive an offer of permanent employment in the
       United States must demonstrate eligibility to file an employment-based
@@ -6231,50 +6211,58 @@ export const LaborCertification = [
         By obtaining labor certification (required for employment-based second
         and third preference categories),
       </li>
+      <br />
       <li>
         By qualifying for an exemption from labor certification (available under
         the first, fourth, and fifth employment-based preference categories), or
       </li>
+      <br />
       <li>By qualifying under a Schedule A category.</li>
     </ol>
+    <br />
     <strong>Labor Certification</strong>
-    <p>
-      Foreign individuals who have been offered permanent employment in the
-      U.S., but who do not qualify for an exemption from labor certification,
-      must secure an Alien Employment Certification—commonly known as labor
-      certification—from the U.S. Department of Labor (DOL). The DOL must be
-      convinced that there are no available, qualified U.S. workers to fill the
-      offered position and that the wages and working conditions will not
-      negatively affect the domestic labor market. Once granted, the labor
-      certification becomes the foundation for filing an employment-based second
-      or third preference petition with USCIS.
-    </p>
+    <br />
+    <br />
+    Foreign individuals who have been offered permanent employment in the U.S.,
+    but who do not qualify for an exemption from labor certification, must
+    secure an Alien Employment Certification—commonly known as labor
+    certification—from the U.S. Department of Labor (DOL). The DOL must be
+    convinced that there are no available, qualified U.S. workers to fill the
+    offered position and that the wages and working conditions will not
+    negatively affect the domestic labor market. Once granted, the labor
+    certification becomes the foundation for filing an employment-based second
+    or third preference petition with USCIS.
+    <br />
+    <br />
     <strong>
-       Standards DOL (Department of Labor)
-      Applies to Exclude Foreign Workers
+      Standards DOL (Department of Labor) Applies to Exclude Foreign Workers
     </strong>
-    <p>
-      When issuing certifications, the DOL applies two central standards to
-      limit the hiring of foreign workers:
-    </p>
+    <br />
+    <br />
+    When issuing certifications, the DOL applies two central standards to limit
+    the hiring of foreign workers:
+    <br />
+    <br />
     <ol>
       <li>
         If qualified, available, and willing U.S. workers exist for the role,
         and/or
       </li>
+      <br />
       <li>
         If employing a foreign national would negatively affect the wages or
         working conditions of similarly employed U.S. workers.
       </li>
+      <br />
     </ol>
     <p>
       “Lawful U.S. workers” include U.S. citizens, lawful permanent residents,
       asylees, and refugees.
     </p>
-    <strong>
-       Requirements to Obtain Labor
-      Certification
-    </strong>
+    <br />
+    <strong>Requirements to Obtain Labor Certification</strong>
+    <br />
+    <br />
     <p>
       To secure labor certification, the employer must prove that a structured
       recruitment program was conducted to test the local labor market for
@@ -6286,17 +6274,20 @@ export const LaborCertification = [
         The job being offered to the foreign national is open and available to
         U.S. workers,
       </li>
+      <br />
       <li>
         The job does not impose unreasonable or unnecessary requirements, and
       </li>
+      <br />
       <li>
         The wage being offered meets or exceeds the prevailing wage within the
         community.
       </li>
+      <br />
     </ol>
-    <strong>
-       Reduction in Recruitment
-    </strong>
+    <strong>Reduction in Recruitment</strong>
+    <br />
+    <br />
     <p>
       In specific situations, employers may be able to bypass the labor
       certification process by showing the DOL that, over at least six months,
@@ -6304,18 +6295,19 @@ export const LaborCertification = [
       been unable to identify qualified U.S. candidates.
     </p>
     <p>
-      <a class="fancybox link_underline" href="#Reduction_in_Recruitment">
-        <i class="fa fa-external-link"></i> What is the Effect of Reduction in
-        Recruitment during the PERM Process?
+      &nbsp;
+      <a href="#Reduction_in_Recruitment">
+        What is the Effect of Reduction in Recruitment during the PERM Process?
       </a>
+      <br />
+      <br />
     </p>
-    <div
-      id="Reduction_in_Recruitment"
-      style="display: none;line-height: 1.5;font-size: 0.875em;"
-    >
-      <strong >
+    <div>
+      <strong>
         What is the Effect of Reduction in Recruitment during PERM Process?
       </strong>
+      <br />
+      <br />
       <p>
         If an employer has attempted, for a period of at least six months, to
         fill a position through normal and customary recruitment methods without
@@ -6330,10 +6322,11 @@ export const LaborCertification = [
         budget considerations, this streamlined method is becoming increasingly
         significant for the future.
       </p>
+      <br />
     </div>
-    <strong>
-       Measures to Protect U.S Workers
-    </strong>
+    <strong>Measures to Protect U.S Workers</strong>
+    <br />
+    <br />
     <p>
       To safeguard the interests of U.S. workers, the DOL has introduced several
       protective measures: (1) Prohibition on tailoring job requirements; (2) No
@@ -6342,145 +6335,129 @@ export const LaborCertification = [
       Additional documentation requirements in the case of recent layoffs.
     </p>
     <p>
-      <a class="fancybox link_underline" href="#Measures_to_Protect_Workers">
-        <i class="fa fa-external-link"></i> DOL Measures to Protect U.S. Workers
+      &nbsp;
+      <a href="#Measures_to_Protect_Workers">
+        DOL Measures to Protect U.S. Workers
       </a>
     </p>
-    <div
-      id="Measures_to_Protect_Workers"
-      style="display: none;line-height: 1.5;font-size: 0.875em;"
-    >
-      <strong style="color: #347BB5;">
-        DOL Measures to Protect U.S. Workers
-      </strong>
-      <p>
-        The Department of Labor enforces several safeguards to ensure that the
-        labor certification process does not disadvantage U.S. workers.
-      </p>
-      <p style="font-weight: 600;margin-bottom: -10px;">
-        A. No Tailoring the Job:
-      </p>
-      <p>
-        The DOL ensures that employers cannot create job requirements
-        specifically tailored to match a foreign applicant’s background. Any
-        unusual qualifications must be justified as a legitimate business
-        necessity, not as a preference for a particular candidate.
-      </p>
-
-      <p style="font-weight: 600;margin-bottom: -10px;">
-        B. No Unreasonable Conditions:
-      </p>
-      <p>
-        The DOL will deny certification if an employer imposes unreasonable
-        conditions that only a foreign national can meet, unless such conditions
-        are proven essential to the business. For instance, requiring fluency in
-        a specific foreign language is generally considered unreasonable unless
-        it is clearly necessary for the job.
-      </p>
-
-      <p style="font-weight: 600;margin-bottom: -10px;">
-        C. Prevailing Wage Requirement:
-      </p>
-      <p>
-        The employer must offer the position at the prevailing wage determined
-        for the job type and location. The DOL assesses the prevailing wage
-        through state-level offices. If an employer disputes the determination,
-        they may submit alternative evidence, such as an independent wage
-        survey, to challenge the DOL’s decision.
-      </p>
-
-      <p style="font-weight: 600;margin-bottom: -10px;">
-        D. Cannot Prefer Foreign Nationals Simply for Being More Qualified:
-      </p>
-      <p>
-        Employers are not permitted to bypass U.S. workers in favor of foreign
-        nationals solely because the latter may appear more qualified. A U.S.
-        worker who meets the basic requirements cannot be rejected if they can
-        reasonably perform the job duties, even with additional training.
-        Employers may only hire foreign nationals when U.S. candidates fail to
-        meet the established minimum qualifications, which are determined by the
-        DOL and published in the Dictionary of Occupational Titles (DOT).
-      </p>
-
-      <p style="font-weight: 600;margin-bottom: -10px;">
-        E. Extra Documentation for Recent Layoffs:
-      </p>
-      <p>
-        If the employer has conducted layoffs within six months before filing
-        for labor certification, they must provide evidence showing that
-        laid-off U.S. workers in similar or related occupations were notified
-        and considered for the position.
-      </p>
-    </div>
-    <strong>
-      <i class="fa fa-question-circle"></i> What is PERM (Program Electronic
-      Review Management)?
-    </strong>
+    <br />
+    <strong>DOL Measures to Protect U.S. Workers</strong>
+    <br />
+    <br />
+    <p>
+      The Department of Labor enforces several safeguards to ensure that the
+      labor certification process does not disadvantage U.S. workers.
+    </p>
+    <p>
+      <strong>A.</strong> No Tailoring the Job:
+    </p>
+    <p>
+      The DOL ensures that employers cannot create job requirements specifically
+      tailored to match a foreign applicant’s background. Any unusual
+      qualifications must be justified as a legitimate business necessity, not
+      as a preference for a particular candidate.
+    </p>
+    <p>
+      <strong>B.</strong> No Unreasonable Conditions:
+    </p>
+    <p>
+      The DOL will deny certification if an employer imposes unreasonable
+      conditions that only a foreign national can meet, unless such conditions
+      are proven essential to the business. For instance, requiring fluency in a
+      specific foreign language is generally considered unreasonable unless it
+      is clearly necessary for the job.
+    </p>
+    <p>
+      <strong>C.</strong> Prevailing Wage Requirement:
+    </p>
+    <p>
+      The employer must offer the position at the prevailing wage determined for
+      the job type and location. The DOL assesses the prevailing wage through
+      state-level offices. If an employer disputes the determination, they may
+      submit alternative evidence, such as an independent wage survey, to
+      challenge the DOL’s decision.
+    </p>
+    <p>
+      <strong>D.</strong> Cannot Prefer Foreign Nationals Simply for Being More
+      Qualified:
+    </p>
+    <p>
+      Employers are not permitted to bypass U.S. workers in favor of foreign
+      nationals solely because the latter may appear more qualified. A U.S.
+      worker who meets the basic requirements cannot be rejected if they can
+      reasonably perform the job duties, even with additional training.
+      Employers may only hire foreign nationals when U.S. candidates fail to
+      meet the established minimum qualifications, which are determined by the
+      DOL and published in the Dictionary of Occupational Titles (DOT).
+    </p>
+    <p>
+      <strong>E.</strong> Extra Documentation for Recent Layoffs:
+    </p>
+    <p>
+      If the employer has conducted layoffs within six months before filing for
+      labor certification, they must provide evidence showing that laid-off U.S.
+      workers in similar or related occupations were notified and considered for
+      the position.
+    </p>
+    <strong>What is PERM (Program Electronic Review Management)?</strong>
     <p>
       In 2004, the DOL introduced final regulations establishing the Program
       Electronic Review Management (PERM) system. Implemented on March 28, 2005,
       PERM was designed to accelerate the labor certification process while
       integrating stronger protections for U.S. workers.
     </p>
-    <strong>
-      <i class="fa fa-calendar"></i> PERM Process
-    </strong>
+    <br />
+    <strong>PERM Process</strong>
     <p>
+      <br />
       The PERM process requires employers to complete all recruitment activities
       before filing the application, and recruitment must be conducted within
       six months of submission.
     </p>
     <p>
-      <a class="fancybox link_underline" href="#PERM_Process">
-        <i class="fa fa-external-link"></i> What are the Initial Steps of PERM
-        Filing?
-      </a>
+      &nbsp;
+      <a href="#PERM_Process">What are the Initial Steps of PERM Filing?</a>
     </p>
-    <div
-      id="PERM_Process"
-      style="display: none;line-height: 1.5;font-size: 0.875em;"
-    >
-      <strong style="color: #347BB5;">
-        What are the Initial Steps of PERM Filing?
-      </strong>
-      <p>
-        Before submitting a labor certification application under the PERM
-        system, employers (or their legal representatives) must complete several
-        preliminary steps:
-      </p>
-
-      <p style="font-weight: 600;margin-bottom: -10px;">
-        A. Online Registration:
-      </p>
-      <p>
-        Employers must register through the PERM online portal. Filing can begin
-        only after the registration is successfully approved.
-      </p>
-
-      <p style="font-weight: 600;margin-bottom: -10px;">
-        B. Filing ETA Form 9089:
-      </p>
-      <p>
-        The official labor certification application is filed using ETA Form
-        9089, also known as the Application for Permanent Employment
-        Certification. Electronic filing is encouraged. The form requires
-        detailed descriptions of the job, including minimum education,
-        experience, and any special requirements. The application must be filed
-        within 180 days of the earliest recruitment step.
-      </p>
-
-      <p style="font-weight: 600;margin-bottom: -10px;">
-        C. Supporting Documentation Not Submitted Initially:
-      </p>
-      <p>
-        Employers are not required to submit supporting documentation with the
-        application. However, they must retain it in case of a DOL audit.
-      </p>
-    </div>
+    <br />
+    <strong>What are the Initial Steps of PERM Filing?</strong>
+    <br />
+    <br />
+    <p>
+      Before submitting a labor certification application under the PERM system,
+      employers (or their legal representatives) must complete several
+      preliminary steps:
+    </p>
+    <p>
+      <strong>A.</strong> Online Registration:
+    </p>
+    <p>
+      Employers must register through the PERM online portal. Filing can begin
+      only after the registration is successfully approved.
+    </p>
+    <p>
+      <strong>B.</strong> Filing ETA Form 9089:
+    </p>
+    <p>
+      The official labor certification application is filed using ETA Form 9089,
+      also known as the Application for Permanent Employment Certification.
+      Electronic filing is encouraged. The form requires detailed descriptions
+      of the job, including minimum education, experience, and any special
+      requirements. The application must be filed within 180 days of the
+      earliest recruitment step.
+    </p>
+    <p>
+      <strong>C.</strong> Supporting Documentation Not Submitted Initially:
+    </p>
+    <p>
+      Employers are not required to submit supporting documentation with the
+      application. However, they must retain it in case of a DOL audit.
+    </p>
+    <br />
     <strong>
-      <i class="fa fa-puzzle-piece"></i> Advertisement: 30-day Job Order and
-      Newspaper Publication
+      <i></i> Advertisement: 30-day Job Order and Newspaper Publication
     </strong>
+    <br />
+    <br />
     <p>
       Once the employer submits the labor certification application, the
       Employment Service verifies that the job was offered at the prevailing
@@ -6490,44 +6467,41 @@ export const LaborCertification = [
       circulation or an appropriate trade journal.
     </p>
     <p>
-      <a class="fancybox link_underline" href="#Advertisement">
-        <i class="fa fa-external-link"></i> Description and Period Requirements
-        of PERM Filing Advertisement
+      &nbsp;
+      <a href="#Advertisement">
+        Description and Period Requirements of PERM Filing Advertisement
       </a>
     </p>
-    <div
-      id="Advertisement"
-      style="display: none;line-height: 1.5;font-size: 0.875em;"
-    >
-      <strong style="color: #347BB5;">
-        Description and Period Requirements of PERM Filing Advertisement
-      </strong>
-      <p>
-        The DOL has established specific requirements for job advertisements
-        under the PERM system.
-      </p>
-
-      <p style="font-weight: 600;margin-bottom: -10px;">
-        A. Advertisement Content:
-      </p>
-      <p>
-        The job posting must clearly state the employer’s name, job location, a
-        description sufficient to inform potential applicants of the position,
-        and instructions for submitting applications or resumes directly to the
-        employer.
-      </p>
-
-      <p style="font-weight: 600;margin-bottom: -10px;">
-        B. Timing Requirements:
-      </p>
-      <p>
-        At least 30 days must pass between the final day of the job posting or
-        advertisement and the submission of the application.
-      </p>
-    </div>
+    <br />
     <strong>
-      <i class="fa fa-puzzle-piece"></i> DOL Initial Processing and Audit
+      Description and Period Requirements of PERM Filing Advertisement
     </strong>
+    <br />
+    <br />
+    <p>
+      The DOL has established specific requirements for job advertisements under
+      the PERM system.
+    </p>
+    <p>
+      <strong>A.</strong> Advertisement Content:
+    </p>
+    <p>
+      The job posting must clearly state the employer’s name, job location, a
+      description sufficient to inform potential applicants of the position, and
+      instructions for submitting applications or resumes directly to the
+      employer.
+    </p>
+    <p>
+      <strong>B.</strong> Timing Requirements:
+    </p>
+    <p>
+      At least 30 days must pass between the final day of the job posting or
+      advertisement and the submission of the application.
+    </p>
+    <br />
+    <strong>DOL Initial Processing and Audit</strong>
+    <br />
+    <br />
     <p>
       Once submitted, the application is reviewed through the DOL’s automated
       system, which checks key fields against established rules. If the
@@ -6536,10 +6510,10 @@ export const LaborCertification = [
       program-specific criteria or random selection. The audit process is
       intended to ensure compliance and detect problematic filings.
     </p>
-    <strong>
-      <i class="fa fa-puzzle-piece"></i> Common Examples of System-Programmed
-      Denials
-    </strong>
+    <br />
+    <strong>Common Examples of System-Programmed Denials</strong>
+    <br />
+    <br />
     <p>
       Some frequent errors that trigger automated denials or lead to rejection
       during final review include:
@@ -6549,18 +6523,4923 @@ export const LaborCertification = [
         Submitting an application with an expired prevailing wage determination
         from the SWA,
       </li>
+      <br />
       <li>
         Failing to keep the job order active with the SWA for the required 30
         days,
       </li>
+      <br />
       <li>
         Submitting the application less than 30 days after completing the
         required job posting or recruitment steps, or
       </li>
+      <br />
       <li>
         Listing recruitment activities on Form 9089 that occurred outside the
         180-/30-day timeframe allowed for recruitment.
       </li>
     </ol>
+    <br />
+    <br />
   </>,
+];
+
+// **************************************************************************************************
+// ************************ NIW MAIN PAGE ALL CONTENT **********************************************
+// **************************************************************************************************
+
+export const LaborCertificationFaqsContent = [
+  {
+    title: "What is a labor certification?",
+    content: (
+      <>
+        A labor certification, formally referred to as Alien Employment
+        Certification, is an authorization issued by the U.S. Department of
+        Labor (DOL). It is required when a foreign national has been offered
+        permanent employment in the United States and does not qualify for an
+        exemption from this process. The certification verifies that there are
+        no sufficient U.S. workers who are able, willing, qualified, and
+        available to fill the offered position. Once approved, it grants the
+        employer permission to permanently hire a foreign worker for the
+        specified role in the U.S.
+      </>
+    ),
+  },
+  {
+    title: "Who needs a labor certification?",
+    content: (
+      <>
+        In most cases under the EB-2 and EB-3 employment-based immigration
+        categories, the sponsoring employer is required to obtain a labor
+        certification from the Department of Labor before proceeding with the
+        green card petition for the foreign national. This step ensures that the
+        employment of the foreign worker will not displace or negatively impact
+        qualified U.S. workers in similar occupations.
+      </>
+    ),
+  },
+  {
+    title: "When is the filing date and what does it mean?",
+    content: (
+      <>
+        The filing date refers to the exact date on which the labor
+        certification application is officially received by the Department of
+        Labor (DOL). This date is extremely important because it is recognized
+        by both USCIS and the Department of State as the applicant’s “priority
+        date.” The priority date establishes the applicant’s place in line for
+        green card processing and is used later to determine eligibility for
+        filing Form I-485, Adjustment of Status.
+      </>
+    ),
+  },
+  {
+    title:
+      "What standards are used in making labor certification determinations?",
+    content: (
+      <>
+        The Department of Labor makes its decision on a labor certification
+        application based on the following standards:
+        <ol>
+          <li>
+            Whether there are insufficient U.S. workers who are able, willing,
+            qualified, and available to accept the position at the prevailing
+            wage within the area of intended employment.
+          </li>
+          <li>
+            Whether hiring a foreign worker would adversely affect the wages or
+            working conditions of U.S. workers employed in similar occupations.
+          </li>
+          <li>
+            Whether the employer has complied with all procedural and regulatory
+            requirements in the recruitment and application process.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "Who are “lawful U.S. workers”?",
+    content: (
+      <>
+        The term “lawful U.S. workers” includes U.S. citizens, lawful permanent
+        residents (green card holders), asylees, and refugees. These individuals
+        are all entitled to be considered for employment opportunities before an
+        employer may seek to hire a foreign worker under the labor certification
+        process.
+      </>
+    ),
+  },
+  {
+    title: "What is PERM?",
+    content: (
+      <>
+        PERM, which stands for Program Electronic Review Management, is the
+        system introduced by the Department of Labor on March 28, 2005, to
+        modernize and streamline the labor certification process. It allows
+        employers to submit applications electronically, reducing paperwork and
+        improving processing times. The PERM process ensures that employers
+        comply with recruitment requirements before they can hire a foreign
+        worker permanently.
+      </>
+    ),
+  },
+  {
+    title: "What form should be filed under PERM?",
+    content: (
+      <>
+        For labor certification applications filed under the PERM system (after
+        March 28, 2005), employers are required to complete and submit ETA Form
+        9089. This form is designed to capture all necessary details about the
+        job being offered and the foreign worker’s qualifications in accordance
+        with the new PERM regulations.
+      </>
+    ),
+  },
+  {
+    title: "What should be included in ETA Form 9089?",
+    content: (
+      <>
+        A properly completed ETA Form 9089 must provide detailed information
+        regarding the position and the foreign worker’s eligibility. The form
+        should include a thorough description of job duties, required education,
+        training, work experience, and any specialized skills necessary to
+        perform the role. Additionally, the employer must include information
+        provided by the National Prevailing Wage Center (NPWC), such as the
+        prevailing wage amount, tracking number, SOC code, job title, skill
+        level, wage source, determination date, and the prevailing wage
+        expiration date.
+      </>
+    ),
+  },
+  {
+    title: "Are there any restrictions on the offered wage?",
+    content: (
+      <>
+        Yes. The wage offered to the foreign worker must be at least equal to
+        100% of the prevailing wage as determined by the Department of Labor. No
+        reductions or deviations from the prevailing wage standard are permitted
+        under the labor certification process. This requirement ensures that
+        foreign workers are not paid less than U.S. workers in similar
+        positions, thereby protecting fair labor standards.
+      </>
+    ),
+  },
+  {
+    title:
+      "Can the determination of prevailing wage by the State Workforce Agency be reviewed?",
+    content: (
+      <>
+        Yes. Employers who disagree with the prevailing wage determination
+        issued by the State Workforce Agency (SWA) or National Prevailing Wage
+        Center (NPWC) have the right to request a review. Such a request must be
+        filed within 30 days of the original determination. During the review,
+        employers can submit additional documentation or justification for why
+        they believe the wage level should be reconsidered.
+      </>
+    ),
+  },
+  {
+    title:
+      "How should an employer set requirements for a job position in ETA Form 9089 filing under PERM?",
+    content: (
+      <>
+        When setting minimum job requirements in ETA Form 9089, employers must
+        ensure that the requirements are consistent with what is customary for
+        the occupation in the United States. The requirements cannot exceed what
+        the foreign worker possessed when initially hired and cannot be tailored
+        to match only the foreign worker’s qualifications. Overly restrictive or
+        unnecessary requirements may be seen as discriminatory and could lead to
+        denial of the labor certification.
+      </>
+    ),
+  },
+  {
+    title:
+      "May an employer set job requirements that are not customarily required for the occupation in the U.S.?",
+    content: (
+      <>
+        Yes, an employer may establish job requirements that are not typically
+        associated with the occupation, but such requirements must be justified
+        by a documented business necessity. The employer must demonstrate that
+        these unusual requirements are essential to the effective performance of
+        the job and not designed to exclude U.S. applicants unfairly.
+      </>
+    ),
+  },
+  {
+    title: "How long should supporting documents be retained?",
+    content: (
+      <>
+        Employers are required to retain all supporting documentation related to
+        the labor certification process for a period of five years from the date
+        of filing the application. This includes recruitment records, resumes of
+        applicants, and evidence of compliance with all PERM requirements. These
+        records must be made available if requested during an audit or
+        investigation by the Department of Labor.
+      </>
+    ),
+  },
+  {
+    title: "When must the application be signed?",
+    content: (
+      <>
+        Applications submitted by mail must include original signatures from the
+        employer, the foreign worker, and the preparer (if applicable) at the
+        time the application is received by the National Processing Center
+        (NPC). For electronically filed applications, the employer, foreign
+        worker, and preparer must sign the certification immediately upon
+        receipt of the labor certification issued by ETA in order for it to be
+        considered valid.
+      </>
+    ),
+  },
+
+  {
+    title: "What is the procedure to file electronically under PERM system?",
+    content: (
+      <>
+        <ol>
+          <li>
+            The employer must first register with the PERM online filing system
+            to create an account.
+          </li>
+          <li>
+            Before filing ETA Form 9089, the employer is required to obtain a
+            prevailing wage determination from the National Prevailing Wage
+            Center (NPWC).
+          </li>
+          <li>
+            The employer must complete all mandatory recruitment steps
+            (explained later) before submitting the PERM application.
+          </li>
+          <li>
+            Once recruitment has been conducted, the employer may electronically
+            file Form 9089, certifying that all required recruitment activities
+            were properly carried out. The application must be filed within 180
+            days of the earliest recruitment effort.
+          </li>
+          <li>
+            After submission, the PERM system will initially review the
+            application and either accept or automatically deny it. A
+            sponsorship verification check is also performed, during which the
+            DOL may contact the employer by email or phone to confirm that a
+            legitimate job offer has been made to the foreign worker.
+          </li>
+          <li>
+            Even if the application passes the automated check, the Department
+            of Labor (DOL) may still select it for an audit or for supervised
+            recruitment. Such reviews may be triggered randomly or due to
+            potential issues identified in the application.
+          </li>
+          <li>
+            If the case is not selected for audit and the sponsorship
+            verification is complete, the application is assigned to an analyst
+            for final review. The analyst checks for accuracy, completeness, and
+            potential violations. If no problems are found, the application is
+            certified and returned to the employer, completing the labor
+            certification process.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "Where should an employer choose to file by mail send an application?",
+    content: (
+      <>
+        <p>
+          Employers who prefer to file a paper application rather than
+          electronically must submit it to the Atlanta National Processing
+          Center (NPC). The official address and contact details can be found on
+          the U.S. Department of Labor (DOL) Contact Information page.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What may cause an application be automatically denied by the PERM system?",
+    content: (
+      <>
+        <p>
+          The PERM system is programmed to automatically deny applications under
+          certain conditions, without the need for review by an adjudicator.
+          Common reasons for such denials include:
+        </p>
+        <ol>
+          <li>
+            The prevailing wage determination obtained from the State Workforce
+            Agency (SWA) has expired at the time of filing.
+          </li>
+          <li>
+            The job order placed with the SWA was not posted for the required
+            30-day period.
+          </li>
+          <li>
+            The application was filed less than 30 days after the end of the job
+            order, internal posting, or other recruitment activities.
+          </li>
+          <li>
+            The recruitment listed in ETA Form 9089 occurred outside the 180-day
+            recruitment window or earlier than the required 30-day minimum
+            before filing.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "Need supporting documentation be filed with the ETA Form 9089?",
+    content: (
+      <>
+        <p>
+          No, supporting documentation should not be filed with ETA Form 9089 at
+          the time of submission. However, employers must maintain all necessary
+          documentation and be prepared to provide it if the application is
+          selected for an audit or if requested by the Certifying Officer.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What triggers an audit?",
+    content: (
+      <>
+        <p>
+          The Department of Labor does not disclose the exact criteria that
+          trigger an audit. This allows the DOL flexibility to adjust and apply
+          different audit standards over time. Audits may be based on specific
+          concerns or may occur randomly.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How long does the PERM process take?",
+    content: (
+      <>
+        <p>
+          If the case is straightforward and not selected for an audit, approval
+          typically occurs within three months. However, if an application is
+          chosen for audit, the process may take significantly longer—sometimes
+          exceeding two years. Although PERM was originally designed to make
+          labor certification faster and more efficient, audits and case
+          backlogs often cause delays.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What are mandated recruitment steps?",
+    content: (
+      <>
+        <p>
+          Employers must complete several mandatory recruitment steps before
+          filing a PERM application. These include:
+        </p>
+        <ul>
+          <li>
+            Placing two Sunday newspaper advertisements for the job position.
+          </li>
+          <li>
+            For professional positions, conducting at least three additional
+            recruitment methods (such as online job postings, job fairs, or
+            university recruitment).
+          </li>
+          <li>
+            Posting a 30-day job order with the State Workforce Agency (SWA).
+          </li>
+          <li>Obtaining a prevailing wage determination from the SWA.</li>
+          <li>
+            Posting an internal job notice at the workplace for at least 10
+            consecutive business days.
+          </li>
+          <li>
+            Considering previously laid-off U.S. workers who were employed in
+            the same or a related occupation within six months of the filing, if
+            applicable.
+          </li>
+        </ul>
+      </>
+    ),
+  },
+  {
+    title: "When should mandated recruitment be conducted?",
+    content: (
+      <>
+        <p>
+          All required recruitment activities must be completed more than 30
+          days, but not more than 180 days, before filing the PERM application.
+          This ensures that the recruitment is recent and relevant at the time
+          of filing.
+        </p>
+      </>
+    ),
+  },
+
+  {
+    title: "When should mandated recruitment be conducted?",
+    content: (
+      <>
+        Mandated recruitment must be carried out within a specific timeframe. It
+        should take place no fewer than 30 days, but not more than 180 days,
+        prior to the filing of the labor certification application.
+      </>
+    ),
+  },
+  {
+    title: "What is a test of the labor market?",
+    content: (
+      <>
+        A labor market test is required as part of the labor certification
+        process. This involves advertising the job opening through newspapers,
+        online job postings, and other recruitment methods. Additionally, the
+        employer must post an internal job notice and place a job order on the
+        Department of Labor (DOL) website. Any applications received must be
+        reviewed in good faith, and candidates can only be lawfully rejected if
+        they fail to meet the job-related qualifications.
+      </>
+    ),
+  },
+  {
+    title:
+      "How does an employer determine whether to advertise under the recruitment regulations for professional occupations or unprofessional occupations?",
+    content: (
+      <>
+        If the job is listed in Appendix A of the PERM regulations, it is
+        classified as a professional occupation, which typically requires at
+        least a bachelor’s degree or higher. In such cases, the employer must
+        follow the recruitment standards for professional occupations. For all
+        other positions that do not usually require a bachelor’s degree,
+        employers may follow the less stringent nonprofessional recruitment
+        requirements. Employers, however, may choose to conduct additional
+        recruitment efforts beyond the minimum requirements if they wish.
+      </>
+    ),
+  },
+  {
+    title:
+      "Can a decision of denial or revocation of a labor certification be appealed?",
+    content: (
+      <>
+        Yes. If a labor certification is denied or revoked, the employer has the
+        right to appeal the decision by submitting a written request to the
+        Board of Alien Labor Certification Appeals (BALCA) for review.
+      </>
+    ),
+  },
+  {
+    title:
+      "What does getting a labor certification mean? Can a foreign national start to work after a labor certification is obtained?",
+    content: (
+      <>
+        Obtaining a labor certification is only the first step in the permanent
+        residency process. Once certified by the Department of Labor (DOL), the
+        employer must file Form I-140 (Immigrant Petition for Alien Worker) with
+        USCIS. Afterward, the foreign national must file Form I-485 to adjust
+        status. Only after approval of all these steps can the foreign national
+        receive a green card and begin lawful permanent employment in the U.S.
+      </>
+    ),
+  },
+  {
+    title: "How long is a labor certification valid?",
+    content: (
+      <>
+        A labor certification is valid for 180 days. If it is not filed with
+        USCIS as part of the I-140 petition within this period, it will
+        automatically expire.
+      </>
+    ),
+  },
+  {
+    title: "Can an approved labor certification be revoked?",
+    content: (
+      <>
+        Yes. A certifying officer has the authority to revoke an approved labor
+        certification in cases involving fraud, misrepresentation, clear errors,
+        or other issues directly related to the labor certification process.
+      </>
+    ),
+  },
+  {
+    title: "Are there any ways to expedite the labor certification process?",
+    content: (
+      <>
+        Yes. Certain occupations, such as physical therapists and professional
+        nurses, are exempt from most labor certification requirements under
+        Schedule A. Additionally, individuals with exceptional ability in
+        specific fields may also qualify for exemption from the standard labor
+        certification process.
+      </>
+    ),
+  },
+  {
+    title: "Can Labor Certification be Avoided Altogether?",
+    content: (
+      <>
+        Yes. Labor certification is only required for applicants under the EB-2
+        and EB-3 categories. Individuals applying under EB-1, EB-4, or EB-5
+        categories are exempt. Similarly, those requesting a National Interest
+        Waiver (NIW) under the EB-2 category do not need labor certification.
+      </>
+    ),
+  },
+  {
+    title: "What is the application fee of PERM?",
+    content: (
+      <>
+        There is no government filing fee associated with submitting a PERM
+        labor certification application.
+      </>
+    ),
+  },
+];
+
+// **************************************************************************************************
+// ************************ I 485 Adjustment Status **********************************************
+// **************************************************************************************************
+
+export const I485AdjustmentStatus = [
+  {
+    title: "What is Form I-485 for?",
+    content: (
+      <>
+        <p>
+          Form I-485, Application to Register Permanent Residence or Adjust
+          Status, is used by foreign nationals who are already in the United
+          States on a temporary visa and wish to apply for lawful permanent
+          resident status (a green card). By filing this form, applicants
+          request a change from nonimmigrant status to immigrant status,
+          provided they meet the eligibility requirements.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "When should I-485 be filed?",
+    content: (
+      <>
+        <p>
+          Form I-485 can be filed when an immigrant petition (Form I-140) is
+          filed at the same time (concurrently), is still pending, or has
+          already been approved. Applicants must also ensure that the I-485 is
+          submitted before the expiration date of their Form I-94, which shows
+          their authorized stay in the U.S.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What is the filing fee for I-485?",
+    content: (
+      <>
+        <p>
+          The current filing fee for Form I-485 is $1,440. However, for children
+          under the age of 14 who are filing along with a parent, the reduced
+          fee is $950.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What vaccination proof must be submitted at the time of medical examination?",
+    content: (
+      <>
+        <p>
+          During the immigration medical examination, applicants must show proof
+          of vaccination against a number of diseases, including: mumps,
+          measles, rubella, polio, tetanus and diphtheria, pertussis, influenza
+          type B, hepatitis A and B, varicella (chickenpox), hemophilic
+          influenza type B, rotavirus, meningococcal disease, and pneumococcal
+          disease. If the applicant has not completed the required vaccine
+          series and lacks evidence of immunity, the civil surgeon will
+          administer a single dose of each missing vaccine and, if necessary,
+          note eligibility for a “not medically appropriate” waiver if the
+          series cannot be completed during the exam.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How long is my medical examination result valid?",
+    content: (
+      <>
+        <p>
+          A completed Form I-693, Report of Medical Examination and Vaccination
+          Record, submitted on or after November 1, 2018, is valid under the
+          following conditions:
+        </p>
+        <ul>
+          <li>
+            The civil surgeon signs Form I-693 no more than 60 days before the
+            applicant files Form I-485, and USCIS makes a decision on the case
+            within two years of the civil surgeon’s signature.
+          </li>
+          <li>
+            The applicant submits Form I-693 after filing Form I-485, and USCIS
+            issues a decision on the application within two years of the civil
+            surgeon’s signature.
+          </li>
+        </ul>
+        <p>
+          If the form is signed more than 60 days before filing the adjustment
+          application, it will not be considered valid at the time of
+          submission. USCIS follows these rules strictly when determining
+          whether medical results can be accepted.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What will I need to do after filing I-485?",
+    content: (
+      <>
+        <p>
+          After filing Form I-485, applicants are required to complete
+          fingerprinting (biometrics). Under legislation passed in 1997, all
+          fingerprinting for adjustment of status purposes must be performed by
+          USCIS or by a designated state or local law enforcement agency.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Where is fingerprinting done? And what should I bring when I have my fingerprint taken?",
+    content: (
+      <>
+        <p>
+          Fingerprinting is typically conducted at USCIS Application Support
+          Centers (ASCs). Applicants must bring their appointment notice and a
+          valid form of identification, such as a green card (if applicable) or
+          a government-issued photo ID (e.g., driver’s license or passport).
+          Once fingerprints are collected, USCIS forwards them to the FBI for a
+          mandatory background check. USCIS cannot make a decision on the I-485
+          until the FBI’s response is received.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "How long does it take for the FBI clearance to reach USCIS after my fingerprints are taken?",
+    content: (
+      <>
+        <p>
+          Typically, once fingerprints are submitted, the FBI background
+          clearance is transmitted to USCIS within approximately 30 days.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "For how long is the clearance valid?",
+    content: (
+      <>
+        <p>
+          FBI fingerprint clearances remain valid for 15 months. If the
+          clearance expires before USCIS makes a final decision on your
+          application, you will be required to undergo fingerprinting again.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Can I file Employment Authorization Document (EAD) or Advance Parole (AP) simultaneously with I-485?",
+    content: (
+      <>
+        <p>
+          Yes. Applicants who need employment authorization or advance parole
+          can file Form I-765 (Application for Employment Authorization) and/or
+          Form I-131 (Application for Advance Parole) at the same time as Form
+          I-485. These forms may also be filed later, but applicants must
+          include proof of their pending I-485, such as a copy of Form I-797C,
+          Notice of Action.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Is there an additional fee if I file EAD and/or AP simultaneously with I-485?",
+    content: (
+      <>
+        <p>
+          No. If you are filing Form I-485 to adjust status, there is no extra
+          fee for also submitting Form I-765 and/or Form I-131. Both
+          applications are covered under the main I-485 filing fee.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What is the processing procedure for I-485?",
+    content: (
+      <>
+        <p>
+          Once filed, Form I-485 is first processed at a USCIS Lockbox Facility
+          or service center. Afterward, the applicant typically receives a
+          notice for biometrics (fingerprinting) at a local ASC. USCIS then
+          forwards the fingerprints to the FBI and other law enforcement
+          databases for background checks. If required documents are missing or
+          unclear, USCIS may issue a Request for Evidence (RFE), which must be
+          answered within 12 weeks. Note that USCIS does not issue RFEs for
+          medical exams if they are missing; instead, medical results may be
+          presented during the adjustment interview. After all checks and
+          documentation are complete, USCIS will make a decision on the
+          application.
+        </p>
+      </>
+    ),
+  },
+
+  {
+    title:
+      "What checks are conducted by USCIS concerning an I-485 application?",
+    content: (
+      <>
+        <p>
+          When reviewing an I-485 application, USCIS performs several types of
+          checks to confirm eligibility and prevent fraud:
+        </p>
+        <ol>
+          <li>
+            Each petition is reviewed against USCIS’s fraud detection index,
+            which tracks records of past petitions that involved fraud or
+            misrepresentation.
+          </li>
+          <li>
+            Background (name) checks are carried out through a multi-agency
+            database that contains information about individuals with prior
+            immigration violations, criminal history, or potential national
+            security risks.
+          </li>
+          <li>
+            If petitions are filed concurrently, USCIS compares the information
+            in the application with prior records for the petitioner and/or
+            beneficiary to ensure consistency with previously submitted
+            documents.
+          </li>
+          <li>
+            Supporting documents may be verified against the U.S. Department of
+            State’s Foreign Affairs Manual. If USCIS has concerns about
+            authenticity, the original documents may be requested.
+          </li>
+          <li>
+            For ancillary benefit applications (such as employment authorization
+            or advance parole), USCIS conducts a preliminary review of the I-140
+            petition before adjudicating Forms I-765 and I-131.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "Is an interview required for I-485 Adjustment of Status?",
+    content: (
+      <>
+        <p>
+          Since March 6, 2017, most applicants for adjustment of status are
+          required to attend an in-person interview with a USCIS officer.
+          However, USCIS may waive the interview in certain cases, depending on
+          the circumstances. The purpose of the interview is to verify key
+          details about the applicant and assess eligibility for adjustment of
+          status.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What should I bring to an interview?",
+    content: (
+      <>
+        <p>
+          After filing the application and completing fingerprinting, applicants
+          who are scheduled for an interview will receive an appointment notice
+          by mail. This notice provides the date, time, and location of the
+          interview and lists documents the applicant must bring.
+        </p>
+        <p>
+          Applicants should typically bring the following items to the
+          interview:
+        </p>
+        <ol>
+          <li>
+            Results of the required medical examination on Form I-693 (if not
+            previously submitted);
+          </li>
+          <li>Valid passport;</li>
+          <li>Form I-94 (Arrival/Departure Record);</li>
+          <li>
+            All original documents supporting the application (e.g., birth
+            certificates, marriage certificates);
+          </li>
+          <li>
+            A current employment verification letter from the sponsoring
+            employer, including details of position and salary;
+          </li>
+          <li>
+            All documents related to the underlying petition, if filed together
+            with Form I-485; and
+          </li>
+          <li>The official interview appointment notice.</li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "How is an interview performed? What questions are usually asked?",
+    content: (
+      <>
+        <p>
+          At the interview, the USCIS officer will place the applicant under
+          oath and carefully review the Form I-485 for accuracy, making
+          corrections if needed.
+        </p>
+        <p>Common questions during the interview may include:</p>
+        <ol>
+          <li>
+            Standard inadmissibility questions that appear on the form, such as
+            prior immigration violations or criminal history.
+          </li>
+          <li>
+            Questions about the basis of the application, such as the employment
+            offer in employment-based cases.
+          </li>
+          <li>
+            In cases where the applicant has not been employed in the U.S.,
+            questions about financial support to ensure there was no
+            unauthorized employment.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "What if my application is not approved at the interview?",
+    content: (
+      <>
+        <p>
+          If USCIS cannot approve the application during the interview due to
+          missing documents, pending background checks, or other unresolved
+          issues, the applicant will need to wait until those matters are
+          resolved before receiving an approval notice.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "When will I receive an approval notice? Can I travel abroad or start work after approval?",
+    content: (
+      <>
+        <p>
+          Once a visa number is available and the application is approved, USCIS
+          will issue Form I-797, Approval Notice, and begin processing Form
+          I-551 (Permanent Resident Card). However, Form I-797 alone is not
+          sufficient proof of permanent residence for international travel or
+          employment verification.
+        </p>
+        <p>
+          The applicant must return to USCIS to obtain temporary proof of
+          permanent residence, typically a stamp in their passport. With this
+          stamp, the applicant may travel internationally, re-enter the U.S. as
+          a permanent resident, and demonstrate work authorization until the
+          physical green card is received.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What if my spouse and children are still in my home country? Will their visas be approved?",
+    content: (
+      <>
+        <p>
+          Yes. Once your status is adjusted in the U.S., your spouse and
+          unmarried children under 21 may apply for immigrant visas through
+          consular processing in your home country. This process, called
+          “following to join,” requires notifying the U.S. consulate handling
+          visa processing that your adjustment of status has been approved.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What if my child turns 21 while my adjustment of status is pending?",
+    content: (
+      <>
+        <p>
+          Under the Child Status Protection Act (CSPA), certain children who
+          turn 21 during the immigration process may still be classified as
+          dependents and remain eligible for immigration benefits, preventing
+          them from “aging out.”
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Can I change employers while my I-485 is pending? Will it affect my I-140 approval?",
+    content: (
+      <>
+        <p>
+          Yes, under certain conditions. If your I-485 application has been
+          pending for at least 180 days, you may change employers or job
+          positions without invalidating your approved I-140 petition, provided
+          the new job is in the same or a similar occupational category. This
+          provision is known as “portability.”
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What if I decide to return to my home country while my I-485 is pending? Can I continue the process there?",
+    content: (
+      <>
+        <p>
+          Yes. If you wish to pursue immigrant visa processing abroad after
+          filing Form I-485, you must submit Form I-824 to USCIS, requesting
+          that the U.S. consulate in your home country be notified of your
+          petition approval. This allows your case to be transferred to consular
+          processing.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What if my I-485 application is denied? Can I appeal USCIS’s decision?",
+    content: (
+      <>
+        <p>
+          If your I-485 application is denied, USCIS will provide a written
+          explanation stating the reasons. If you still have valid nonimmigrant
+          status, you may remain in the U.S. until that status expires.
+          Otherwise, you may face removal proceedings after denial.
+        </p>
+        <p>
+          There is no direct right to appeal a denial of Form I-485. However,
+          applicants may file a Motion to Reopen or Motion to Reconsider with
+          the USCIS office that issued the decision, based on new evidence,
+          legal arguments, or facts not available at the time of the original
+          decision.
+        </p>
+      </>
+    ),
+  },
+];
+
+// **************************************************************************************************
+// ************************ I 485 Adjustment Status **********************************************
+// **************************************************************************************************
+
+export const I485ConcurrentFilingContent = [
+  {
+    title: "What is Form I-140?",
+    content: (
+      <>
+        <p>
+          The Form I-140, also known as the Immigrant Petition for Alien Worker,
+          is a petition submitted to U.S. Citizenship and Immigration Services
+          (USCIS). Its purpose is to classify a foreign national beneficiary as
+          being eligible for an immigrant visa based on employment.
+        </p>
+        <p>
+          In certain categories, such as the EB1-A Alien of Extraordinary
+          Ability and EB-2 National Interest Waiver ( &nbsp;
+          <a href="https://www.wegreened.com/niw/Frequently-Asked-Questions">
+            NIW
+          </a>
+          ), the foreign national has the option to file the petition
+          independently without an employer. However, in most other
+          employment-based categories, an employer must act as the petitioner
+          and file the I-140 on behalf of the foreign national.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How should I file I-140?",
+    content: (
+      <>
+        <p>
+          The I-140 petition may be filed either electronically through the
+          USCIS e-filing system or by mailing a physical application. However,
+          regardless of the method chosen, all supporting evidence and
+          documentation must be submitted to the designated USCIS service
+          centers.
+        </p>
+        <p>
+          When using the electronic filing option, the system will automatically
+          route your petition to the appropriate Service Center, and you will be
+          issued a filing receipt confirming where your case was assigned. It is
+          very important to carefully review this filing receipt and note the
+          receipt number as well as the service center location. All subsequent
+          communication, as well as submission of required supporting documents,
+          must be directed to the USCIS service center listed on your receipt.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Can a petitioner request premium processing for the I-140 petition?",
+    content: (
+      <>
+        <p>
+          Yes. A petitioner may request Premium Processing Service for Form
+          I-140. In order to do so, the petitioner must also complete and submit
+          Form I-907, Request for Premium Processing Service, along with the
+          I-140 petition. Both forms should be filed together and sent to the
+          specific address provided in the Form I-907 filing instructions. It is
+          important to note that requests for Premium Processing should not be
+          sent to a USCIS Lockbox facility, as those centers do not handle such
+          requests.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Can a petitioner request premium processing when the I-140 is already pending?",
+    content: (
+      <>
+        <p>
+          Yes. If an I-140 petition has already been filed and is currently
+          pending, the petitioner can still request Premium Processing Service.
+          To do this, the petitioner must submit Form I-907 directly to the
+          USCIS service center where the original I-140 petition is being
+          processed.
+        </p>
+        <p>
+          When filing Form I-907 for a pending petition, it is necessary to
+          include a copy of Form I-797C, Notice of Action, which confirms that
+          the I-140 was accepted, or a copy of the transfer notice if the case
+          was moved to another location. The petitioner must also ensure that
+          questions 1 through 5 in Part 2 of Form I-907 are fully and accurately
+          completed so that USCIS can correctly match the premium processing
+          request with the pending I-140 petition. Failure to provide this
+          information will result in the rejection of the request.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What steps can I take to ensure that my Form I-140 petition will not be rejected by USCIS?",
+    content: (
+      <>
+        <p>
+          It is essential to submit the I-140 petition accurately and with
+          complete documentation in order to avoid rejection or unnecessary
+          delays. Submitting incomplete or incorrect information can result in
+          rejection or cause significant processing delays.
+        </p>
+        <p>
+          Below are some detailed steps to help ensure your petition is accepted
+          for processing:
+        </p>
+        <ol>
+          <li>
+            Always use the most current edition of Form I-140, although USCIS
+            may accept certain prior editions in some cases.
+          </li>
+          <li>
+            Carefully review and follow the instructions regarding the correct
+            filing location for your petition, as different service centers
+            handle different types of filings.
+          </li>
+          <li>
+            Select only one visa preference category in Part 2 of the form.
+            USCIS will reject the petition if more than one category is selected
+            or if the section is left blank.
+          </li>
+          <li>
+            Complete all questions fully, including all “answer” and “check”
+            boxes. If a question does not apply, enter “none” or “N/A.”
+          </li>
+          <li>
+            Ensure that the information is typed or printed clearly in black
+            ink. Avoid highlighting or shading text.
+          </li>
+          <li>
+            The petitioner (employer or self-petitioner) must sign the form
+            before submission. Unsigned petitions will not be accepted.
+          </li>
+          <li>
+            Include the correct filing fee as specified in the instructions.
+          </li>
+          <li>
+            Use a separate check for each application to avoid mass rejection if
+            one petition is deficient.
+          </li>
+          <li>
+            If represented by an attorney, include Form G-28 with original
+            signatures from both representative and petitioner.
+          </li>
+          <li>
+            If filing electronically, send supporting evidence only to the
+            address designated for e-filing submissions.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "What if an incorrect visa category is selected in Part 2 of the Form I-140?",
+    content: (
+      <>
+        <p>
+          After USCIS receives the petition, it will issue Form I-797 Receipt
+          Notice, which will state the visa classification selected in Part 2 of
+          Form I-140. If the classification is incorrect, the petitioner must
+          immediately contact the USCIS National Customer Service Center at
+          1-800-375-5283 (TTY: 1-800-767-1833) to request a correction before
+          the petition is adjudicated.
+        </p>
+        <p>
+          USCIS will review the request and determine whether a change in
+          classification can be granted. It is important to act quickly, as once
+          the petition has been adjudicated, a correction cannot be made.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Can the petitioner request consideration of multiple visa categories?",
+    content: (
+      <>
+        <p>
+          Yes. A petitioner may request that a foreign national beneficiary be
+          considered under more than one visa preference category. However, the
+          petitioner must file a separate Form I-140 petition for each category.
+          Each petition must include its own filing fee and supporting
+          documentation. Simply indicating multiple categories on one petition
+          is not permitted and will result in rejection.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What special steps should be taken to file a Form I-140 petition that requires a DOL-approved labor certification?",
+    content: (
+      <>
+        <p>
+          If the petition requires a labor certification, the original
+          DOL-approved certification must be included with Form I-140 and
+          submitted within the 180-day validity period, as indicated at the
+          bottom of each page of the certification. USCIS will reject any
+          petitions that do not include a valid, unexpired labor certification.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "How can I ensure that my Form I-140 petition that requires a DOL-approved labor certification is accepted for processing?",
+    content: (
+      <>
+        <p>
+          To improve the likelihood of acceptance when filing a Form I-140
+          petition requiring a DOL-approved labor certification, carefully
+          follow these steps:
+        </p>
+        <ol>
+          <li>
+            Assemble the petition with Form G-28 (if applicable) on top,
+            followed by Form I-140 itself, then the original labor
+            certification, and finally other supporting documents.
+          </li>
+          <li>
+            If the last day of validity falls on a weekend or holiday, USCIS
+            will accept the petition on the next business day.
+          </li>
+          <li>
+            All electronically issued labor certifications must contain original
+            signatures from the employer, the attorney/agent (if applicable),
+            and the beneficiary.
+          </li>
+          <li>
+            If you need a duplicate labor certification, include a brightly
+            colored cover page beneath Form I-140 clearly requesting a duplicate
+            copy in bold, prominent text.
+          </li>
+          <li>
+            For amended petitions where the original labor certification has
+            already been submitted with another I-140, include a brightly
+            colored cover page noting the amendment and referencing the earlier
+            petition’s receipt number.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+
+  {
+    title:
+      "Is there any particular way to organize the evidence with the petition I-140?",
+    content: (
+      <>
+        <p>
+          Yes. When preparing and filing Form I-140, it is strongly recommended
+          that the supporting evidence be organized in a structured manner. The
+          documentation should be grouped according to the specific eligibility
+          criteria that each piece of evidence is intended to establish. A
+          well-organized petition helps USCIS officers clearly evaluate the case
+          without confusion or delay.
+        </p>
+        <p>
+          A petitioner may consider the following practical tips for organizing
+          evidence:
+        </p>
+        <ol>
+          <li>
+            Ensure that all required documentation and supporting evidence are
+            submitted at the time of filing the petition. USCIS has the
+            authority to deny a petition without issuing a Request for Evidence
+            (RFE) if the mandatory documents and evidence, as outlined in the
+            instructions and applicable regulations, are missing when initially
+            submitted.
+          </li>
+          <li>
+            If submitting photocopies of documents, make sure they are clear,
+            legible, and complete. <br />
+            (Note: In cases where an original Department of Labor (DOL) approved
+            labor certification is required, it must be submitted in original
+            form and signed by the petitioner, the beneficiary, and the
+            attorney/representative, if applicable.)
+          </li>
+          <li>
+            All documents that are not in English must be accompanied by a full
+            English translation. The translation must be certified by a
+            competent translator, who must confirm in writing that the
+            translation is accurate and complete to the best of their knowledge.
+            For convenience and clarity, it is advisable to staple the certified
+            translation directly to the corresponding foreign-language document.
+          </li>
+          <li>
+            If the alien beneficiary may qualify for an earlier priority date
+            based on a previously approved Form I-140 petition, the petitioner
+            should include a written statement explaining this along with a copy
+            of the Form I-797 approval notice of the earlier petition. (Refer to
+            8 C.F.R. 204.5(e) for details.)
+          </li>
+          <li>
+            When documenting the alien beneficiary’s publications or citations,
+            highlight the beneficiary’s name in the relevant articles or
+            citation lists. It is generally unnecessary to provide the full text
+            of dissertations, theses, or lengthy research papers authored or
+            cited by the beneficiary. Instead, include the title page, the
+            specific sections showing the beneficiary’s contribution or
+            citation, and the relevant “works cited” or bibliography pages.
+          </li>
+          <li>
+            For petitions with substantial amounts of documentation, clearly tab
+            and label each evidentiary exhibit on the first page. Additionally,
+            provide a detailed index or list of all exhibits, indicating which
+            eligibility criterion each exhibit is intended to support. If a
+            single exhibit is being used to support multiple eligibility
+            criteria, this should also be noted in the index.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "What eligibility criteria should be identified in the case of EB1-A Alien of Extraordinary Ability petitions in Form I-140?",
+    content: (
+      <>
+        <p>
+          For EB1-A petitions based on Alien of Extraordinary Ability, the
+          petitioner must clearly identify which of the ten regulatory criteria
+          the alien beneficiary is seeking to fulfill. Each criterion should be
+          supported with well-organized, credible evidence. Along with the
+          evidence, the petition must also include a statement and supporting
+          documentation that demonstrate the beneficiary intends to continue
+          working in the United States in the same area where they have achieved
+          national or international recognition. The goal is to show that the
+          beneficiary’s extraordinary ability is sustained and will continue to
+          be applied in a manner that benefits the United States.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What eligibility criteria should be identified in the case of EB1-B Outstanding Professor or Researcher petitions in Form I-140?",
+    content: (
+      <>
+        <p>
+          When preparing an EB1-B petition for Outstanding Professors or
+          Researchers, the submission should contain the following items:
+        </p>
+        <ol>
+          <li>
+            The petition must indicate which of the six regulatory criteria the
+            alien beneficiary is seeking to satisfy, along with the
+            corresponding evidence for each criterion.
+          </li>
+          <li>
+            Submit clear evidence that the beneficiary has accumulated at least
+            three years of experience in teaching and/or conducting research
+            within the relevant academic field.
+          </li>
+          <li>
+            Include an official job offer letter or contract from the sponsoring
+            employer. This document must clearly describe the title, terms, and
+            conditions of the position being offered to the beneficiary.
+          </li>
+          <li>
+            If the beneficiary has held more than one academic position since
+            being initially hired, provide supporting documentation for each
+            position, following the same format as outlined above. This helps
+            establish continuity and consistency in the beneficiary’s
+            professional experience.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "What eligibility criteria should be identified in the case of EB1-C Multinational Executive or Manager petitions in Form I-140?",
+    content: (
+      <>
+        <p>
+          For EB1-C petitions filed on behalf of Multinational Executives or
+          Managers, the petition should include the following documentation:
+        </p>
+        <ol>
+          <li>
+            Provide a detailed cover letter and supporting evidence that clearly
+            identifies the foreign employer, the position held by the
+            beneficiary abroad, the specific years of employment, and the date
+            the beneficiary transferred to the United States. The petitioner
+            should also clearly state the relationship between the foreign
+            employer and the U.S. petitioner (for example, whether they are
+            affiliates, subsidiaries, joint ventures, etc.).
+          </li>
+          <li>
+            Submit evidence proving that the U.S. employer has been engaged in
+            active business operations for at least one year before the petition
+            was filed. This establishes that the petitioning company has the
+            stability and operational presence required to support the
+            multinational executive or managerial role.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+
+  {
+    title:
+      "What eligibility criteria should be identified in the case of EB-2 Alien of Exceptional Ability petitions in Form I-140?",
+    content: (
+      <>
+        <p>
+          When preparing an I-140 petition under the EB-2 category for Alien of
+          Exceptional Ability, the petitioner must include specific
+          documentation to demonstrate eligibility. The petition should provide:
+        </p>
+        <ol>
+          <li>
+            A clear identification of which of the six regulatory criteria the
+            beneficiary is attempting to fulfill, along with comprehensive and
+            credible supporting evidence for each selected criterion.
+          </li>
+          <li>
+            Proof that the beneficiary meets the minimum educational and/or
+            professional experience requirements outlined in the corresponding
+            labor certification (if filing under Part 2, option d of Form
+            I-140). This evidence must clearly demonstrate the alien’s
+            qualifications and ability to perform at a level above that which is
+            ordinarily encountered in the field.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "What eligibility criteria should be identified in the case of Member of the Professions Holding an Advanced Degree or an Alien of Exceptional Ability, requesting a National Interest Waiver (EB2-NIW) in Form I-140?",
+    content: (
+      <>
+        <p>
+          For an I-140 petition filed under the EB2-NIW category, whether on
+          behalf of a member of the professions holding an advanced degree or an
+          alien of exceptional ability, the following documents should be
+          submitted:
+        </p>
+        <ol>
+          <li>
+            Evidence clearly establishing how the alien qualifies under this
+            classification. This can include proof that the alien possesses an
+            advanced degree, evidence of a bachelor’s degree combined with at
+            least five years of progressive professional experience, or evidence
+            demonstrating the alien’s qualification as an individual of
+            exceptional ability.
+          </li>
+          <li>
+            Identification and supporting documentation addressing the three
+            required prongs for a National Interest Waiver: (a) the proposed
+            endeavor has substantial intrinsic merit, (b) the endeavor is
+            national in scope, and (c) the waiver of the job offer and labor
+            certification requirement would be in the national interest of the
+            United States. These standards are outlined in 8 C.F.R. 204.5(k) and
+            further clarified in Matter of New York State Department of
+            Transportation (NYSDOT), 22 I&N Dec. 3363 (Act. Assoc. Comm. 1998).
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "Can a petition be withdrawn?",
+    content: (
+      <>
+        <p>
+          Yes. Either the petitioner or the authorized representative listed on
+          Form G-28 may formally request the withdrawal of an I-140 petition by
+          submitting a written request to USCIS. Once received, USCIS will
+          process the withdrawal and the petition will no longer be considered
+          active.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "How can a petitioner request the withdrawal of a Form I-140 petition?",
+    content: (
+      <>
+        <p>
+          To request the withdrawal of a Form I-140 petition, the petitioner or
+          the authorized representative (via Form G-28) must submit a written
+          request to USCIS. The withdrawal request should include the following
+          information to ensure accurate processing:
+        </p>
+        <ol>
+          <li>
+            A clear written statement confirming that the petitioner wishes to
+            withdraw the Form I-140 petition;
+          </li>
+          <li>The receipt number of the I-140 petition being withdrawn;</li>
+          <li>
+            The full name, address, and telephone number of the petitioner;
+          </li>
+          <li>
+            The name of the alien beneficiary associated with the petition;
+          </li>
+          <li>
+            The alien registration number (A-number) of the beneficiary, if
+            available;
+          </li>
+          <li>
+            The signature of the petitioner or the petitioner’s authorized
+            representative (as listed on Form G-28).
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "How can I apply for adjustment of status after Form I-140 approval?",
+    content: (
+      <>
+        <p>
+          Once Form I-140 is approved, the next step toward obtaining permanent
+          residency is filing Form I-485, Application to Register Permanent
+          Residence or Adjust Status. This application must be submitted with
+          supporting documentation such as recent photographs, a current
+          employment verification letter, an affidavit of support (if required),
+          results of a medical examination, and any other required evidence.
+        </p>
+        <p>
+          It is important to note that due to evolving immigration regulations,
+          adjustment of status procedures have become more stringent. Applicants
+          are required to provide records that demonstrate continuous lawful
+          status for themselves and any family members included in the
+          application, dating back to their most recent entry into the United
+          States. Applicants whose status expired prior to the approval of their
+          I-140 petition may face significant challenges in establishing
+          eligibility for adjustment of status.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "My self-petitioned I-140 got approved, and my I-485 is still pending. May I leave my current job?",
+    content: (
+      <>
+        <p>
+          If your petition was filed under a self-sponsored category such as NIW
+          or EB1-A, your pending I-485 is not dependent on a specific employer,
+          which means a job change generally does not negatively affect your
+          adjustment application. These self-petitioned categories allow greater
+          flexibility since they are not tied to a sponsoring employer.
+        </p>
+        <p>
+          However, this flexibility does not imply that the applicant may freely
+          switch to any type of employment. It remains essential that you
+          continue to work in the same or similar field of expertise that served
+          as the basis for your I-140 petition. If USCIS issues a Request for
+          Evidence (RFE) or schedules an interview regarding your pending I-485,
+          and it is found that you are no longer engaged in work consistent with
+          the qualifications and intent stated in your I-140, your adjustment
+          application may be denied.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "If my employer sponsored my I-140 petition, may I change employers when I-485 is pending?",
+    content: (
+      <>
+        <p>
+          Yes. Even if your Form I-140 was filed by an employer, you may change
+          employers if your adjustment of status application (Form I-485) has
+          been pending for at least 180 days. Under the American Competitiveness
+          in the Twenty-First Century Act (AC21), you may request “portability”
+          if the new employment opportunity is in the same or a similar
+          occupational classification as the original sponsored position.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Who is eligible to submit a request to change employers under INA 204(j) when I-485 is pending, commonly referred to as “porting”?",
+    content: (
+      <>
+        <p>
+          An alien beneficiary with a pending or approved Form I-140 petition,
+          whose adjustment of status application (Form I-485) has been filed and
+          remains unadjudicated for 180 days or longer, may request to change
+          jobs to a new position in the same or similar occupational
+          classification. Such portability requests are governed by AC21 and are
+          commonly referred to as “porting” under INA 204(j).
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "How can an alien beneficiary submit a request to change employers under INA 204(j)?",
+    content: (
+      <>
+        <p>
+          To request portability under INA 204(j), the beneficiary should follow
+          these steps:
+        </p>
+        <ol>
+          <li>
+            Submit supplemental documentation to the pending Form I-485 record,
+            providing evidence of the new permanent job offer that forms the
+            basis of the portability request.
+          </li>
+          <li>
+            Include a letter from the new permanent employer. The letter must
+            specify the job title, duties, minimum education or training
+            requirements, date employment began (or is expected to begin), and
+            the salary or wage offered. It must also be signed by an authorized
+            representative of the new employer who is empowered to extend
+            permanent job offers.
+          </li>
+          <li>
+            Provide a copy of the Form I-140 approval notice (or receipt notice)
+            and a copy of the Form I-485 receipt notice. These documents are
+            needed to locate the beneficiary’s case file and to confirm that the
+            adjustment application has been pending for at least 180 days.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "May an alien beneficiary request to “port“ to a different employer or job under INA 204(j) if his or her Form I-140 petition is still pending?",
+    content: (
+      <>
+        Yes. An alien beneficiary can request to transfer or “port” to a new
+        employer under INA 204(j), even while the Form I-140 petition remains
+        pending, provided the I-140 and I-485 applications were filed
+        concurrently. However, a key condition is that the Form I-485
+        (adjustment of status) application must have been pending for at least
+        180 days. For the I-140 petition to be considered valid for portability
+        purposes, USCIS must establish that the I-140 was properly filed on
+        behalf of a beneficiary eligible for the employment-based
+        classification, and that the petition included a genuine job offer at
+        the time of filing. In other words, the I-140 must be ultimately
+        approvable before USCIS can grant a favorable determination regarding
+        portability under INA 204(j).
+      </>
+    ),
+  },
+  {
+    title:
+      "How does USCIS determine if an I-140 was valid when processing unapproved I-140 petitions that were concurrently filed with I-485 applications in the portability context?",
+    content: (
+      <>
+        When USCIS receives evidence indicating that a foreign national seeks
+        adjustment of status based on a new job offer under INA 204(j), the
+        adjudicator first examines whether the applicant already has an approved
+        I-140 petition. If no approval exists, the officer then evaluates
+        whether the pending I-140 was approvable at the time of filing. This may
+        involve issuing a Request for Evidence (RFE) if the petition cannot be
+        approved without further supporting documentation. Only after
+        determining that the I-140 was approvable when filed will USCIS
+        adjudicate the adjustment of status application and confirm whether the
+        new job offer falls within the same or a similar occupational
+        classification, as required for portability.
+      </>
+    ),
+  },
+  {
+    title:
+      "Can a successor employer use a predecessor employer's approved labor certification to file an I-140 petition on behalf of the alien beneficiary named on the labor certification?",
+    content: (
+      <>
+        Yes. A successor employer may rely on a predecessor employer’s approved
+        labor certification to file a new I-140 petition for the same alien
+        beneficiary. However, in order to do so, the successor must demonstrate
+        that a valid successor-in-interest (SII) relationship exists between the
+        two entities.
+      </>
+    ),
+  },
+  {
+    title:
+      "How can a successor employer establish a successor-in-interest (SII) relationship with a predecessor employer in order to use that employer's approved labor certification when filing an I-140 petition on behalf of the alien beneficiary named on the labor certification?",
+    content: (
+      <>
+        According to the latest USCIS policy guidance, the following factors
+        must be satisfied to prove a valid successor-in-interest relationship:
+        <ol>
+          <li>
+            The job opportunity offered by the successor must be identical to
+            the one described in the original labor certification filed by the
+            predecessor employer.
+          </li>
+          <li>
+            The successor employer bears the responsibility of proving
+            eligibility, which includes submitting evidence from the
+            predecessor. Such documentation must show, among other things, that
+            the predecessor had the financial ability to pay the offered wage as
+            of the original labor certification filing date.
+          </li>
+          <li>
+            The petitioner must provide detailed documentation of the transfer
+            of ownership or assumption of obligations from the predecessor to
+            the successor, establishing continuity of the employment offer.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "In the case of changing employers, may an alien beneficiary retain the priority date established in a previously approved Form I-140 petition?",
+    content: (
+      <>
+        In general, yes. An alien beneficiary may retain the priority date from
+        a previously approved Form I-140 petition, even if they change
+        employers. Similarly, beneficiaries of approved E12 (Outstanding
+        Professors or Researchers) or E13 (Multinational Executives or Managers)
+        petitions may also retain their established priority date for subsequent
+        petitions filed by a new employer within the same preference category.
+      </>
+    ),
+  },
+  {
+    title:
+      "Is the SII analysis adversely impacted if the job title for the position with the successor company differs from the job title noted in the predecessor company's labor certification?",
+    content: (
+      <>
+        Not necessarily. When USCIS evaluates whether the job opportunity is the
+        same as that listed in the predecessor’s labor certification, the
+        primary focus is on the duties and responsibilities of the position
+        rather than the job title. Changes in job title, updates in software
+        tools used, or wage adjustments resulting from market conditions or time
+        passage generally do not disqualify the job from being considered the
+        same.
+      </>
+    ),
+  },
+  {
+    title: "What is a “Request for Additional Evidence“?",
+    content: (
+      <>
+        A “Request for Additional Evidence” (RFE) is issued when USCIS finds
+        that the submitted petition lacks sufficient evidence to meet the legal
+        requirements for approval. In such cases, USCIS asks the petitioner to
+        provide specific missing documentation or clarification. Applicants
+        should carefully prepare their petitions to minimize the likelihood of
+        an RFE, but it is important to note that even strong petitions may
+        receive one, depending on the officer’s review.
+        <br />
+        It is crucial to respond to an RFE accurately and comprehensively. An
+        incomplete or incorrect response could result in the denial of the I-140
+        petition.
+      </>
+    ),
+  },
+  {
+    title: "Can I file I-140 concurrently with I-485?",
+    content: (
+      <>
+        Yes. USCIS allows the concurrent filing of Form I-140 (Immigrant
+        Petition for Alien Worker) and Form I-485 (Application for Adjustment of
+        Status). However, this option is limited to the first three
+        employment-based categories: EB-1, EB-2, and EB-3.
+        <br />
+        Additionally, if a visa number becomes available later, an I-485 may
+        still be filed while the I-140 is pending. Concurrent filing also
+        enables applicants to request interim benefits such as Employment
+        Authorization Documents (EAD) and Advance Parole (AP) travel
+        authorization while the I-140 is under review.
+      </>
+    ),
+  },
+  {
+    title:
+      "If I file I-140 concurrently with I-485, will both petitions be adjudicated simultaneously? What if my visa is not current?",
+    content: (
+      <>
+        Not always. USCIS has clarified that the adjudication of a concurrently
+        filed I-140 does not depend on whether the I-485 is ready for
+        processing. In cases where a visa number becomes unavailable after
+        filing, USCIS may still approve the I-140 petition, while placing the
+        I-485 on hold (abeyance) until a visa number becomes available again.
+      </>
+    ),
+  },
+  {
+    title:
+      "In the case of I-485 abeyance after I-140 approval, can I file EAD and/or AP?",
+    content: (
+      <>
+        Yes. When the I-140 is approved but the I-485 remains in abeyance,
+        applicants are still eligible to apply for interim benefits such as
+        employment authorization (EAD) and advance parole (AP) while awaiting
+        visa availability.
+      </>
+    ),
+  },
+  {
+    title: "What are the primary advantages of concurrent filing?",
+    content: (
+      <>
+        Concurrent filing of I-140 and I-485 offers several significant
+        benefits:
+        <p>
+          <span className="highlight">Early I-485 filing</span>: The applicant,
+          along with their spouse and unmarried children under 21, can file
+          their I-485 applications (green card applications) at the same time
+          the I-140 is filed. This includes cases where the I-140 is
+          self-petitioned (e.g., National Interest Waiver or Aliens of
+          Extraordinary Ability). Concurrent filing also permits dependent
+          family members to apply alongside the principal applicant.
+        </p>
+        <p>
+          <span className="highlight">Access to EAD and AP</span>: Filing the
+          I-485 allows applicants and family members to request Employment
+          Authorization Documents (EADs) and Advance Parole travel permits.
+          These benefits are particularly valuable for spouses who might
+          otherwise lack work authorization or for applicants who face
+          challenges in obtaining visas abroad.
+        </p>
+        <p>
+          <span className="highlight">Job flexibility</span>: After the I-485
+          has been pending for at least 180 days, beneficiaries may be able to
+          change employers under the portability rule, provided the new job is
+          in the same or a similar occupational classification. However, legal
+          guidance should be sought before making employment changes to avoid
+          risks of denial. In some categories, such as NIW or Extraordinary
+          Ability petitions, greater flexibility may exist even before I-485
+          filing.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What happens to my I-485 filing if my I-140 is rejected?",
+    content: (
+      <>
+        If the concurrently filed I-140 petition is denied, the associated I-485
+        application will also be denied, since the adjustment of status depends
+        on the approval of the I-140.
+      </>
+    ),
+  },
+];
+
+// **************************************************************************************************
+// ************************ Immigrant Visa Processing   **********************************************
+// **************************************************************************************************
+
+export const ImmigrantVisaProcessingContent = [
+  <>
+    <strong>Steps for Immigrant Visa Processing:</strong>
+    <br /> <br />
+    <strong className="Steps">
+      Step 1: File the Employment-Based Immigrant Petition (Form I-140)
+    </strong>
+    <p>
+      If you are residing outside of the United States, or if you are living
+      inside the U.S. but choose to pursue your immigrant visa through consular
+      processing abroad, you will indicate this choice on your Form I-140. (See
+      Form I-140, Part 4, 1.a.) This selection serves as a formal notification
+      to USCIS that your immigrant visa application will be processed through a
+      U.S. Department of State consulate located overseas.
+    </p>
+    <p>
+      In addition, if you have qualifying dependents such as your spouse or
+      children who also wish to obtain green cards based on your approved I-140,
+      you must note this information on your Form I-140. (See Form I-140, Part
+      7, 1.h.) This ensures USCIS is aware that your dependents will also apply
+      for their immigrant visas at a U.S. Department of State consulate abroad.
+    </p>
+    <br />
+    <strong className="Steps">
+      Step 2: Wait for a Decision on the Immigrant Petition
+    </strong>
+    <p>
+      After filing, USCIS will review the petition and notify the petitioner of
+      the outcome. If the petition is approved and the beneficiary resides
+      abroad (or has chosen consular processing while living in the U.S.), USCIS
+      will forward the approved petition to the Department of State’s National
+      Visa Center (NVC). The petition will remain at the NVC until an immigrant
+      visa number becomes available.
+    </p>
+    <p>
+      Applicants can verify the availability of an immigrant visa number by
+      consulting the monthly &nbsp;
+      <a href="https://travel.state.gov/content/visas/en/law-and-policy/bulletin.html">
+        U.S. Department of State Visa Bulletin
+      </a>
+      .
+    </p>
+    <p>
+      For first preference employment-based immigrant categories (EB1A, EB1B,
+      and EB1C), priority dates are typically current, meaning that visa numbers
+      are generally available immediately for approved beneficiaries.
+    </p>
+    <p>
+      For second preference employment-based categories (NIW, EB-2 PERM), visa
+      numbers are generally current for most applicants, except those born in
+      India or China. Beneficiaries from these countries may need to wait until
+      their priority date becomes current before the NVC can proceed with
+      processing.
+    </p>
+    <p>
+      Please Note – As a general rule, visa chargeability is based on the
+      country of <b>birth</b>, not citizenship or nationality. However, there
+      are exceptions:
+    </p>
+    <ol>
+      <li>
+        A child may be charged to the country of either parent if accompanying
+        or following to join;
+      </li>
+      <li>
+        A spouse may be charged to the country of the accompanying spouse;
+      </li>
+      <li>
+        An individual born in a country where neither parent was born or resided
+        may be charged to the foreign state of either parent.
+      </li>
+    </ol>
+    <p>
+      For example, if the primary beneficiary was born in India or China, but
+      their spouse was not, the case may qualify for cross-chargeability, which
+      can make a visa number immediately available. Contact our office to
+      explore whether cross-chargeability applies to your circumstances.
+    </p>
+    <br />
+    <strong className="Steps">
+      Step 3: Notification from the National Visa Center (NVC)
+    </strong>
+    <p>
+      Once the approved petition reaches the NVC, they take charge of collecting
+      visa application fees and supporting documents. Both the petitioner and
+      beneficiary will be notified upon receipt of the petition and again when
+      an immigrant visa number is close to becoming available. At this point,
+      NVC will issue detailed instructions for the submission of required
+      documentation and fee payments.
+    </p>
+    <p>
+      The first step is receiving an “Immigrant Visa Application Processing Fee
+      Bill Invoice” from the NVC for each family member applying through
+      consular processing. This invoice will list the fee amount due and provide
+      specific payment instructions. It is extremely important to follow these
+      instructions exactly.
+    </p>
+    <p>
+      After the NVC receives the fees, you will receive further instructions
+      regarding which documents must be submitted. Ensure you provide everything
+      requested and only what is requested. Do <b>not</b> send additional or
+      unsolicited documents unless specifically instructed by NVC.
+    </p>
+    <br />
+    <strong className="Steps">
+      Step 4: Prepare for Your Consular Interview
+    </strong>
+    <p>
+      Once the NVC confirms that all required documentation has been received,
+      they will schedule your immigrant visa interview and notify you of the
+      appointment details. At this stage, preparation is crucial, and you should
+      take the following steps:
+    </p>
+    <ol>
+      <li>
+        Carefully review the NVC appointment notice for the interview’s date,
+        time, and location;
+      </li>
+      <li>
+        Schedule and complete the mandatory medical examination with an
+        authorized physician;
+      </li>
+      <li>
+        Gather and organize all required original documents. Copies submitted to
+        the NVC will be transferred to the consular officer, but originals must
+        also be available at the interview;
+      </li>
+      <li>Obtain the required passport-style photographs;</li>
+      <li>
+        Review the &nbsp;
+        <a href="https://travel.state.gov/content/visas/en/immigrate/immigrant-process/interview.html">
+          specific instructions from the U.S. Embassy or Consulate
+        </a>
+        where your interview will be conducted;
+      </li>
+      <li>
+        Check the &nbsp;
+        <a href="https://travel.state.gov/content/visas/en/immigrate/immigrant-process/interview/prepare/notices.html">
+          important interview notices
+        </a>
+        published by the U.S. Department of State;
+      </li>
+      <li>
+        Consult the &nbsp;
+        <a href="https://travel.state.gov/content/visas/en/immigrate/immigrant-process/interview/prepare/appointment.html">
+          Immigrant Visa Interview FAQs
+        </a>
+        for additional guidance;
+      </li>
+      <li>
+        Review all forms and documents you have submitted to ensure consistency
+        in your answers.
+      </li>
+    </ol>
+    <p>
+      For further details on interview preparation, refer to the &nbsp;
+      <a href="https://travel.state.gov/content/visas/en/immigrate/immigrant-process.html">
+        U.S. Department of State website
+      </a>
+      .
+    </p>
+    <br />
+    <strong className="Steps">Step 5: Attend Your Interview Appointment</strong>
+    <p>
+      On the day of your interview, arrive neatly and conservatively dressed.
+      For security reasons, friends, relatives, attorneys, or business
+      associates are not permitted to accompany you inside. Arrive on time —
+      ideally no more than 15 minutes early. Be prepared for possible waiting
+      times due to the volume of applicants; consider bringing reading material
+      or something to occupy your time.
+    </p>
+    <p>
+      If your family is applying with you, there may be one case number covering
+      all dependents. In such instances, the principal applicant’s case will be
+      reviewed first, followed by the spouse and children.
+    </p>
+    <p>
+      Please Note – If any of your children were born in the U.S., you must
+      bring their U.S. passports to the interview.
+    </p>
+    <p>
+      During the interview, answer all questions truthfully and consistently. If
+      you do not know the answer, simply state so rather than guessing. Any
+      attempt to conceal information or provide false details could result in
+      permanent denial of U.S. entry. At the conclusion of the interview, you
+      will be required to take an oath confirming the accuracy of your
+      statements and sign DS-230 Part II.
+    </p>
+    <p>
+      Most interviews are conducted in English. If you are not comfortable
+      speaking English, check with the U.S. Consulate to determine whether
+      alternative language support or a translator can be arranged.
+    </p>
+    <p>
+      Biometric fingerprinting will not occur at the interview but will instead
+      be taken at your U.S. port of entry.
+    </p>
+    <p>
+      Please Note – Approval of a green card is never guaranteed in advance. A
+      consular officer can only decide after thoroughly reviewing your
+      application, supporting documents, and conducting the interview. It is
+      <b>highly advised</b> not to sell property, resign from employment, or
+      finalize travel arrangements until you have received your green card
+      approval.
+    </p>
+    <strong className="Steps">
+      Step 6: Inform the NVC of Any Updates or Changes
+    </strong>
+    <p>
+      In most cases, you do not need to reach out to the National Visa Center on
+      your own, as they will proactively contact you whenever they require
+      additional details or documentation. However, it is{" "}
+      <span class="highlight">very important</span> that you notify the NVC
+      immediately if there are any significant changes in your situation—for
+      example, if you move to a new address, if a child in your case turns 21
+      years of age, or if there is a change in your marital status. Such changes
+      can directly impact your eligibility or the availability of a visa number.
+    </p>
+    <p>
+      <span>
+        E-mail is the preferred and most efficient method of communication with
+        the NVC.
+      </span>{" "}
+      You may reach them at &nbsp;
+      <a href="mailto:NVCINQUIRY@state.gov">NVCINQUIRY@state.gov</a>.
+    </p>
+    <p>
+      {" "}
+      Please Note –{" "}
+      <span>
+        Always use your own personal e-mail account when contacting the NVC.
+      </span>{" "}
+      If clicking on the e-mail address does not automatically open your
+      personal e-mail client, simply copy and paste the e-mail address into your
+      account manually to ensure the message is sent from the correct source.
+    </p>
+    <p>
+      To help the NVC respond quickly and accurately, make sure your e-mail
+      includes the following details:
+    </p>
+    <ol>
+      <li>
+        Clearly write your NVC Case Number or USCIS Receipt Number in the
+        subject line of the e-mail.
+      </li>
+      <li>
+        Provide the applicant’s full name and date of birth, along with the
+        petitioner’s name and date of birth.
+      </li>
+      <li>
+        For employment-based petitions, include the name of the sponsoring
+        employer or organization.
+      </li>
+      <li>
+        If you are represented by an attorney, provide the attorney’s full name,
+        the name of their law firm, and their mailing address.
+      </li>
+    </ol>
+    <p>
+      You may also reach the NVC by phone at (603) 334-0700. Representatives are
+      available Monday through Friday, between 7:00 AM and 12:00 midnight
+      (Eastern Time). When calling, be prepared to give the following
+      information so they can provide a case-specific response:
+    </p>
+    <ol>
+      <li>Your NVC Case Number or USCIS Receipt Number</li>
+      <li>
+        The applicant’s and petitioner’s names along with their dates of birth
+      </li>
+      <li>
+        If you are an attorney, you must also provide the name of your law
+        office
+      </li>
+    </ol>
+    <p>
+      {" "}
+      Please Note – This phone service can only be used with a touch-tone
+      telephone.
+    </p>
+    <p>
+      You can also send inquiries to the NVC by postal mail. General
+      case-related questions should be addressed to:
+    </p>
+    <p>
+      <b>National Visa Center</b>
+      <br />
+      Attn: WC
+      <br />
+      31 Rochester Ave. Suite 200
+      <br />
+      Portsmouth, NH 03801-2915
+    </p>
+    <p>
+      All forms, supporting documents, and photographs should be mailed to the
+      following address:
+    </p>
+    <p>
+      <b>National Visa Center</b>
+      <br />
+      Attn: DR
+      <br />
+      31 Rochester Ave. Suite 100
+      <br />
+      Portsmouth, NH 03801-2914
+    </p>
+    <strong className="Steps">
+      Step 7: What Happens After Your Green Card is Approved
+    </strong>
+    <p>
+      If your immigrant visa is granted, the consular officer will hand you a
+      sealed packet of documents commonly referred to as the “Visa Packet.” It
+      is very important that you do <span class="highlight">not</span> open this
+      packet under any circumstances.
+    </p>
+    <p>
+      When you arrive in the United States, you must present this sealed Visa
+      Packet to a Customs and Border Protection (CBP) officer at your port of
+      entry. At that time, your fingerprints will also be taken. The CBP officer
+      will carefully review the contents of your packet and inspect you for
+      admissibility. If there are no issues, you will officially be admitted as
+      a lawful permanent resident, giving you the right to live and work in the
+      United States permanently.
+    </p>
+    <p>
+      If, however, your visa application is denied, you will be given a written
+      refusal notice explaining the reason(s) for the denial. In some cases, the
+      notice will also provide information on steps you may be able to take in
+      order to overcome the refusal.
+    </p>
+    <strong className="Steps">
+      Step 8 : Receiving Your Physical Green Card
+    </strong>
+    <p>
+      After you are admitted into the United States, your physical green card
+      will be mailed to the address you provided. Normally, the green card
+      should arrive within 30 days of your entry. If you do not receive your
+      card within that time frame, you should immediately contact the USCIS
+      National Customer Service Center at 1-800-375-5283, or alternatively, you
+      may schedule an InfoPass appointment to visit your local USCIS office for
+      assistance.
+    </p>
+  </>,
+];
+
+// **************************************************************************************************
+// ************************ H 1B PAGE ALL CONTENT **********************************************
+// **************************************************************************************************
+
+export const Hb1VisasContent = [
+  {
+    title: "Who is required to obtain an H-1B visa?",
+    content: (
+      <>
+        Any U.S. employer that intends to hire a foreign national in a specialty
+        occupation, or in certain cases as a fashion model of distinguished
+        ability and merit, must petition for an H-1B nonimmigrant visa on behalf
+        of that employee. This visa category allows companies to legally employ
+        highly skilled international professionals to fill roles that demand
+        advanced knowledge and expertise.
+      </>
+    ),
+  },
+  {
+    title: "Can a foreign national independently apply for an H-1B visa?",
+    content: (
+      <>
+        No. An H-1B visa cannot be obtained directly by the foreign worker. It
+        requires sponsorship from a U.S.-based employer who submits the
+        petition. In other words, the visa status depends entirely on the
+        employer’s petition; an individual cannot apply on his or her own
+        without a sponsoring company.
+      </>
+    ),
+  },
+  {
+    title: "What qualifies as a “specialty occupation” under the H-1B program?",
+    content: (
+      <>
+        A “specialty occupation” is defined as a professional role that requires
+        both:
+        <ol>
+          <li>
+            The theoretical and practical application of highly specialized
+            knowledge; and
+          </li>
+          <li>
+            The attainment of at least a bachelor’s degree or higher (or its
+            equivalent) in a specific specialty as the minimum requirement to
+            enter the occupation in the U.S.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "How does USCIS determine whether a position qualifies as a “specialty occupation”?",
+    content: (
+      <>
+        When USCIS reviews an H-1B petition, several key factors are examined,
+        including:
+        <ol>
+          <li>
+            Whether a bachelor’s or higher degree in a specific field is
+            required for entry into the occupation.
+          </li>
+          <li>
+            Whether the degree requirement is standard and commonly accepted
+            across the industry for similar roles in similar companies.
+          </li>
+          <li>
+            If industry-wide acceptance is lacking, whether the employer can
+            demonstrate that the position is unusually complex or unique,
+            thereby necessitating a degree.
+          </li>
+          <li>
+            Whether the employer’s standard practice is to require a degree for
+            that role (for example, if all individuals previously holding the
+            position had degrees).
+          </li>
+          <li>
+            Whether the duties of the job are so complex and specialized that a
+            degree is normally expected to perform them.
+          </li>
+          <li>
+            Whether the responsibilities and level of authority associated with
+            the position reflect professional standing typically requiring
+            advanced education.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "Does the size of the employing company affect approval of the H-1B petition?",
+    content: (
+      <>
+        Yes, in practice the size of the employer can play a role in how USCIS
+        views the petition. In recent years, smaller companies have faced
+        greater scrutiny, as USCIS often questions whether such businesses
+        genuinely require workers in specialty occupations. For this reason,
+        small employers must provide particularly strong supporting evidence,
+        such as showcasing contracts with reputable clients or presenting
+        detailed business plans that justify the need for highly skilled
+        professionals.
+      </>
+    ),
+  },
+  {
+    title: "What makes a foreign worker “qualified” for an H-1B position?",
+    content: (
+      <>
+        Under USCIS regulations, a foreign national is considered qualified for
+        an H-1B specialty occupation if he or she meets one of the following
+        requirements:
+        <ol>
+          <li>
+            Holds a U.S. bachelor’s degree or higher in the required specialty
+            field from an accredited college or university.
+          </li>
+          <li>
+            Holds a foreign degree that has been officially evaluated and
+            determined to be equivalent to a U.S. bachelor’s or higher degree in
+            the specialty field.
+          </li>
+          <li>
+            Holds an unrestricted state license, registration, or certification
+            that authorizes full practice in the occupation and permits
+            immediate engagement in employment within the state of intended
+            work.
+          </li>
+          <li>
+            Possesses education, specialized training, and work experience that,
+            when combined, are equivalent to completing a U.S. bachelor’s or
+            higher degree in the field.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "Must a foreign worker obtain a professional license if the job requires one?",
+    content: (
+      <>
+        Yes. If the role being filled is in a field where a professional license
+        is required, immigration rules mandate that the foreign worker must
+        already hold the necessary license (or in some cases, a temporary
+        license) before they can begin working under H-1B status. While a
+        permanent license is typically required, USCIS may accept a temporary
+        license if the relevant state permits professionals to practice fully
+        under such authorization.
+      </>
+    ),
+  },
+  {
+    title: "What is a Labor Condition Application (LCA)?",
+    content: (
+      <>
+        An LCA is a mandatory document that must be filed by the employer with
+        the U.S. Department of Labor (DOL) before submitting the H-1B petition
+        to USCIS. Through the LCA, the employer makes certain attestations, such
+        as paying the prevailing wage and ensuring proper working conditions.
+        Once the DOL certifies the LCA, the employer can then move forward by
+        filing the H-1B petition with USCIS to request approval for hiring the
+        foreign worker in a specialty occupation.
+      </>
+    ),
+  },
+  {
+    title: "What steps must an employer take before filing an LCA?",
+    content: (
+      <>
+        Before filing an LCA with the Department of Labor, an employer must
+        complete two important steps:
+        <ol>
+          <li>
+            <b>Determine the prevailing wage:</b> The employer must identify the
+            correct wage level for the position using one of the following
+            methods:
+            <ul style={{ listStyleType: "square" }}>
+              <li>
+                Requesting a formal wage determination from the National
+                Prevailing Wage and Helpdesk Center (NPWHC).
+              </li>
+              <li>
+                Relying on a wage rate set forth in a collective bargaining
+                agreement (if one exists).
+              </li>
+              <li>
+                Using determinations issued under the Davis-Bacon Act (DBA) for
+                construction-related jobs.
+              </li>
+              <li>
+                Using determinations under the McNamara-O’Hara Service Contract
+                Act (SCA) for service-related jobs.
+              </li>
+              <li>
+                Submitting a survey conducted by an independent and
+                authoritative source.
+              </li>
+              <li>
+                Utilizing another legitimate and recognized data source, such as
+                the OFLC Online Data Center.
+              </li>
+            </ul>
+            <p>
+              The DOL does not require a specific methodology to determine the
+              prevailing wage. However, if a collective bargaining agreement is
+              in place, its wage rate must be treated as the prevailing wage.
+            </p>
+          </li>
+          <li>
+            <b>Notify U.S. workers:</b> The employer must inform existing U.S.
+            workers of the intention to hire a foreign worker. This is done by
+            posting the completed LCA (Form ETA 9035E) either as a physical
+            notice or electronically. The posting must occur within 30 days
+            prior to the LCA submission and remain visible for at least 10
+            consecutive business days in two prominent workplace locations. If
+            the employer communicates with workers electronically (via e-mail,
+            bulletin boards, or company intranet), electronic notice is also
+            acceptable. Additionally, a copy of the certified LCA must be given
+            to each H-1B employee covered by it.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "How long is a prevailing wage determination valid?",
+    content: (
+      <>
+        <p>
+          A prevailing wage determination (PWD) issued by the National
+          Prevailing Wage and Helpdesk Center (NPWHC) remains valid for a period
+          ranging from ninety (90) days up to one (1) year from the date it is
+          issued. During this validity period, the employer must file the Labor
+          Condition Application (LCA). If the employer believes the
+          determination is not accurate, they have the option to request a
+          redetermination by submitting additional supporting evidence, such as
+          wage data from another acceptable source. Employers also have the
+          right to formally challenge the PWD by requesting a review of the
+          decision from the NPWHC director.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Can a prevailing wage determination be reviewed?",
+    content: (
+      <>
+        <p>
+          Yes. Employers may request a review of a prevailing wage determination
+          (or a redetermination) within ten (10) calendar days from the date it
+          was issued. Additionally, if the employer disagrees with the outcome
+          of the NPWHC review, they may escalate the matter further by
+          requesting a review from the Board of Alien Labor Certification
+          Appeals (BALCA). This request must be submitted within thirty (30)
+          calendar days of the NPWHC’s final decision.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "May an employer ignore the prevailing wage determination and use another method of determining wages?",
+    content: (
+      <>
+        <p>
+          Yes. Under current Department of Labor (DOL) policy, an employer is
+          permitted to disregard the prevailing wage determination issued by the
+          NPWHC if they disagree with it. Instead, the employer may choose to
+          rely on any of the other approved methods for establishing the
+          prevailing wage, such as collective bargaining agreements, independent
+          surveys, or other legitimate data sources.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What are the restrictions of an “independent authoritative source“?",
+    content: (
+      <>
+        <p>
+          The Department of Labor defines an “independent authoritative source”
+          as a professional, business, trade, educational, or governmental
+          organization (or similar entity) that possesses recognized expertise
+          in a specific occupational field.
+        </p>
+        <p>
+          However, the use of such sources must strictly follow the guidelines
+          outlined in the LCA rules and the prevailing wage guidance issued in
+          November 2009. Should an investigation occur, the employer must be
+          able to provide adequate justification for choosing and relying on an
+          alternative wage source under these standards.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Is there a poster requirement for LCA (Labor Condition Application)?",
+    content: (
+      <>
+        <p>No. There is no formal poster requirement for the LCA process.</p>
+      </>
+    ),
+  },
+  {
+    title: "Is there a notice requirement for LCA?",
+    content: (
+      <>
+        <p>
+          Yes, there is a notice requirement. The employer is obligated to
+          inform U.S. workers of the intention to hire a foreign worker. This
+          must be done by providing notice to the bargaining representative (if
+          one exists). If no representative exists, the employer must post the
+          notice of filing in at least two highly visible locations at the
+          workplace, or alternatively, provide electronic notification. The
+          notice must be provided either on or within thirty (30) days before
+          the date the LCA is submitted to the Department of Labor (DOL).
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How can notice to U.S. workers be given?",
+    content: (
+      <>
+        <p>
+          The employer may give notice using one of two primary methods: a hard
+          copy or electronic notification. A hard copy notice must be provided
+          to the bargaining representative (if one exists). In the absence of
+          such a representative, the notice must be physically posted for at
+          least ten (10) consecutive days in two or more prominent locations at
+          the worksite(s) where nonimmigrant workers will be employed.
+          Electronic notices may also be used, such as through the employer’s
+          normal communication methods—email distribution, posting on a company
+          bulletin board, or the employer’s official website.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What form should an employer file to obtain H-1B visas and what attestations must an employer make in the LCA (Labor Condition Application)?",
+    content: (
+      <>
+        <p>
+          To obtain approval for H-1B employment, the employer must first file a
+          Labor Condition Application (LCA) using Form ETA 9035 or ETA 9035E
+          with the U.S. Department of Labor. By submitting this form, the
+          employer is making several mandatory attestations, including:
+        </p>
+        <ol>
+          <li>
+            That the nonimmigrant worker will be paid at least the local
+            prevailing wage or the employer’s actual wage (whichever is higher),
+            including compensation during certain periods of non-productive
+            time, and that benefits will be offered on the same basis as U.S.
+            workers;
+          </li>
+          <li>
+            That the employment of H-1B workers will not adversely affect the
+            working conditions of similarly employed U.S. workers;
+          </li>
+          <li>
+            That H-1B workers will not be employed at any location where a
+            strike or lockout in the occupation is occurring, and that the
+            Department of Labor will be notified if such a situation arises;
+          </li>
+          <li>
+            That on or within thirty (30) days before filing the LCA, the
+            employer provided notice of intent to hire H-1B workers, either to
+            the bargaining representative (if one exists) or by posting in
+            visible workplace locations or providing electronic notice.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "How should an LCA be filed?",
+    content: (
+      <>
+        <p>
+          Labor Condition Applications (LCAs) must be filed electronically
+          through the Department of Labor’s iCERT Portal System, available at{" "}
+          <a href="http://iCERT.doleta.gov">http://iCERT.doleta.gov</a>. The
+          only two exceptions to electronic filing are if the employer has a
+          physical disability preventing electronic submission, or if the
+          employer lacks access to the Internet.
+        </p>
+        <p>
+          Employers who submit LCAs through the iCERT system typically receive a
+          response within seven (7) business days, unless the submission
+          contains clear errors or inconsistencies.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "How long is H-1B certification valid? And how long can a foreign worker remain in H-1B status?",
+    content: (
+      <>
+        <p>
+          The H-1B certification remains valid for the employment period listed
+          on the Labor Condition Application (Form ETA 9035E), up to a maximum
+          of three (3) years for each approval.
+        </p>
+        <p>
+          A foreign worker can remain in H-1B status for a continuous period of
+          up to six (6) years, unless an extension is specifically granted by
+          USCIS. Once this limit is reached, the worker must remain outside the
+          United States for a minimum of one (1) year before becoming eligible
+          for another H-1B petition. However, certain foreign workers with
+          long-pending labor certification applications or immigrant visa
+          petitions may qualify for extensions beyond the six-year limit,
+          typically in one-year increments.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What is the number of new H-1B visas issued every year?",
+    content: (
+      <>
+        <p>
+          The number of new H-1B visas available each fiscal year is subject to
+          an annual cap. The standard cap allows for 65,000 visas annually.
+          Additionally, an extra 20,000 visas are reserved for foreign nationals
+          who have earned a U.S. master’s degree or higher from an accredited
+          U.S. institution of higher education.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What is the “local prevailing wage” in the first attestation of the LCA (Labor Condition Application)?",
+    content: (
+      <>
+        <p>
+          The employer is required to pay the foreign worker at least the higher
+          of either the local prevailing wage for the occupation in the area of
+          intended employment or the actual wage the employer pays to other
+          employees with similar experience and qualifications. The “prevailing
+          wage” refers to the average wage paid to workers in comparable
+          positions within the same geographic area. For the purposes of this
+          rule, “similarly employed” refers to workers who hold substantially
+          comparable positions within the same occupational classification in
+          the area of employment.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Can my spouse and children join me if I obtain an H-1B visa?",
+    content: (
+      <>
+        <p>
+          Yes. The spouse and unmarried children of an H-1B visa holder may
+          apply for and receive H-4 dependent visas. Individuals with H-4 visa
+          status are permitted to reside in the United States, attend school,
+          and in some cases may obtain work authorization. However, by default,
+          H-4 visa holders do not have employment authorization unless
+          specifically granted by USCIS under certain conditions.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What is the “actual wage” in the first attestation of the LCA?",
+    content: (
+      <>
+        <p>
+          The “actual wage” is defined as the wage paid by the employer to other
+          individuals who have similar experience and qualifications and who are
+          employed in the same position. Employers must ensure that the H-1B
+          worker receives no less than this wage, or the prevailing wage,
+          whichever is higher. The Department of Labor outlines factors used to
+          determine “similar experience and qualifications,” which include
+          education level, professional experience, job responsibilities,
+          specialized knowledge, and other legitimate business factors such as
+          distinctions, awards, or international recognition.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What additional rules apply to employers who are dependent upon H-1B workers or are willful violators of the H-1B rules? And who are considered H-1B dependent employers?",
+    content: (
+      <>
+        <p>
+          An employer is considered H-1B dependent if a significant portion of
+          its workforce consists of H-1B employees (generally 15% or more,
+          although smaller companies have different thresholds). These employers
+          must follow additional rules designed to protect U.S. workers.
+          However, certain employers may be exempt from these additional rules
+          if they hire only H-1B workers who earn at least $60,000 annually or
+          who possess a master’s degree (or higher) in a specialty directly
+          related to the job.
+        </p>
+        <p>
+          H-1B dependent employers and willful violators of H-1B regulations
+          must make three additional attestations:
+        </p>
+        <ol>
+          <li>
+            That they will not displace any similarly employed U.S. workers
+            within 90 days before or after filing an H-1B petition or extension
+            for a foreign worker;
+          </li>
+          <li>
+            That they will not place H-1B workers at another employer’s worksite
+            unless they first verify that the other employer has not displaced,
+            and does not intend to displace, a U.S. worker within 90 days before
+            or after the H-1B placement;
+          </li>
+          <li>
+            That before filing an H-1B petition, the employer took genuine and
+            good faith steps to recruit U.S. workers for the job. If an equally
+            qualified U.S. worker applied, the employer was obligated to offer
+            the position to that worker over the foreign applicant. This rule
+            does not apply if the foreign worker qualifies as a “priority
+            worker.”
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "Who else is subject to the special rules?",
+    content: (
+      <>
+        <p>
+          The American Recovery and Reinvestment Act of 2009 imposes specific
+          obligations on employers that receive federal assistance under Chapter
+          13 of the Federal Reserve Act or funds through the Troubled Asset
+          Relief Program of the Emergency Economic Stabilization Act of 2008.
+          Any such employer seeking to hire H-1B workers must comply with the
+          attestations required of H-1B dependent employers, as outlined
+          earlier. In effect, these organizations must demonstrate additional
+          responsibility and adherence to labor protections before being allowed
+          to employ H-1B workers.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What are employer's responsibilities in H-1B program?",
+    content: (
+      <>
+        <p>
+          Employers petitioning for H-1B, H-1B1, or E-3 nonimmigrant workers
+          have multiple obligations to ensure compliance with U.S. immigration
+          and labor laws. These include the following:
+        </p>
+        <ol>
+          <li>
+            Filing a properly completed Labor Condition Application (LCA) using
+            Form ETA 9035E, or Form ETA 9035 when special authorization has been
+            granted. By signing the LCA, the employer certifies that it will
+            provide fair wages, proper working conditions, and equal treatment
+            to both U.S. and nonimmigrant employees.
+          </li>
+          <li>
+            Making the certified LCA, along with supporting documentation,
+            publicly available for inspection at the employer’s principal U.S.
+            office or the worksite within one business day of filing with the
+            Department of Labor (DOL).
+          </li>
+          <li>
+            Submitting the certified LCA to the U.S. Citizenship and Immigration
+            Services (USCIS) together with the petition (Form I-129) when
+            requesting H-1B or H-1B1 status. For E-3 petitions, the procedure
+            can vary: in some cases, the employee applies directly at a U.S.
+            consulate, pays the applicable fees, and receives an I-94 at entry,
+            which serves as proof of work authorization.
+          </li>
+          <li>
+            Ensuring that the nonimmigrant employee does not begin employment
+            until USCIS has granted proper authorization or, in cases of
+            employment transfer, until the new employer has filed a compliant
+            petition supported by a valid LCA.
+          </li>
+          <li>
+            Maintaining thorough records and documentation to substantiate all
+            attestations made in the LCA. Such records must be retained at the
+            principal place of business and be available for inspection by the
+            Department of Labor upon request.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "How does an U.S. employer establish eligibility for an H-1B petition?",
+    content: (
+      <>
+        <p>
+          In order to qualify for filing an H-1B petition, a U.S. employer must
+          demonstrate that a legitimate employer-employee relationship exists
+          with the foreign worker. This relationship is proven through the
+          employer’s ability to hire, pay, supervise, control, or terminate the
+          worker’s employment. Beyond proving this relationship, the employer
+          must also satisfy all other H-1B requirements, including:
+        </p>
+        <ol>
+          <li>
+            Showing that the employee will be entering the United States on a
+            temporary basis specifically to work in a specialty occupation.
+          </li>
+          <li>
+            Providing evidence that the beneficiary is suitably qualified to
+            perform the duties of the specialty occupation.
+          </li>
+          <li>
+            Filing a Labor Condition Application (LCA) for each location where
+            the employee is expected to work.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "What factors does USCIS consider when evaluating the employer-employee relationship?",
+    content: (
+      <>
+        <p>
+          When USCIS reviews whether an employer-employee relationship exists,
+          it assesses the employer’s “right to control” the employee. This
+          includes evaluating whether the employer determines when, where, and
+          how the employee performs their duties. Factors include the employer’s
+          role in supervising the employee’s work, reviewing the results,
+          providing direction, and maintaining authority to hire, pay, or
+          terminate the employee. USCIS considers the overall circumstances,
+          rather than a single factor, to decide if a genuine relationship
+          exists.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What types of evidence can an employer provide to demonstrate that I have a valid employer-employee relationship with the beneficiary?",
+    content: (
+      <>
+        <p>
+          Employers must provide clear, detailed documentation of the working
+          relationship between themselves and the foreign worker. This is
+          especially important if the employee will work at third-party client
+          sites, where questions of control may arise. Evidence might include
+          contracts, statements of work, or management agreements that show the
+          employer retains authority over supervision, direction, and
+          termination. Additionally, a well-structured itinerary describing all
+          work locations and assignments should be submitted when applicable.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What if an employer cannot submit the evidence listed in the memorandum?",
+    content: (
+      <>
+        <p>
+          The evidence outlined in the USCIS memorandum is illustrative, not
+          exhaustive. Employers are not limited to those documents and may
+          provide alternative materials that equally establish the right to
+          control the employee. A combination of contracts, organizational
+          charts, internal memos, or correspondence may serve as proof, provided
+          they demonstrate the employer’s ongoing authority. USCIS adjudicators
+          will weigh the totality of evidence to determine whether the required
+          employer-employee relationship is sufficiently established.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What are employee's rights in H-1B program?",
+    content: (
+      <>
+        <p>
+          Employees working under H-1B status are entitled to certain rights and
+          protections under U.S. law. These include:
+        </p>
+        <ol>
+          <li>Receiving a copy of the certified LCA from the employer.</li>
+          <li>
+            Being paid the greater of the prevailing wage in the local area of
+            employment or the actual wage paid to similarly qualified workers at
+            the company.
+          </li>
+          <li>
+            Receiving wages even during non-productive time, if such downtime is
+            caused by the employer or results from delays such as licensing
+            requirements.
+          </li>
+          <li>
+            Being offered the same fringe benefits as U.S. employees in
+            comparable positions.
+          </li>
+          <li>
+            Protection from unlawful penalties for early termination of
+            employment. While employers cannot impose punitive fines, they may
+            seek contractually agreed “liquidated damages” under state law in
+            cases of breach of contract.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "What if I get fired before my H1-B visa is expired?",
+    content: (
+      <>
+        <p>
+          If an H-1B employee loses their position, they must either find a new
+          employer willing to file a fresh petition, change to another valid
+          immigration status, or leave the United States. Failure to take one of
+          these steps could result in being out of lawful status.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "I am in H-1B visa status, and my employer has begun the permanent residency process. Will I have any problems renewing my H-1B visa or traveling internationally?",
+    content: (
+      <>
+        <p>
+          Generally, no issues arise in this situation. U.S. immigration law
+          recognizes the principle of “dual intent” for H-1B workers. This means
+          an individual can maintain temporary H-1B status while simultaneously
+          pursuing permanent residency through a labor certification, immigrant
+          petition, or adjustment of status application. As long as H-1B
+          requirements are met, you may continue to work and travel
+          internationally, even while your green card process is underway.
+        </p>
+      </>
+    ),
+  },
+];
+
+// **************************************************************************************************
+// ************************ NIW MAIN PAGE ALL CONTENT **********************************************
+// **************************************************************************************************
+
+export const L1VisaContent = [
+  {
+    title: "What is the purpose of L-1 Visa?",
+    content: (
+      <>
+        The L-1 visa serves as one of the most valuable nonimmigrant options for
+        multinational companies and their employees. Its primary purpose is to
+        enable the lawful transfer of qualified personnel, such as executives,
+        managers, or employees with specialized knowledge, from a foreign office
+        to an affiliated or related office in the United States. This visa
+        facilitates business expansion and the sharing of corporate expertise
+        across borders. Nationals of all countries may apply, provided they meet
+        the statutory requirements and eligibility criteria set by U.S.
+        immigration law.
+      </>
+    ),
+  },
+  {
+    title: "Is the L-1 visa holder allowed to have dual intent?",
+    content: (
+      <>
+        Yes. The L-1 visa, similar to the H-1B visa, permits “dual intent.” This
+        means that an individual can lawfully maintain temporary nonimmigrant
+        status under the L-1 visa while also pursuing permanent residency (green
+        card) in the United States. Applying for or being the beneficiary of a
+        green card process does not negatively impact one’s ability to hold or
+        renew an L-1 visa.
+      </>
+    ),
+  },
+  {
+    title:
+      "Who needs to file L visa? What should be filed to obtain an L visa?",
+    content: (
+      <>
+        It is the responsibility of the U.S. employer, or the U.S. branch of the
+        company, to file the petition on behalf of the employee being
+        transferred. The employer must submit Form I-129, Petition for a
+        Nonimmigrant Worker, along with the L classification supplement. This
+        petition is filed with U.S. Citizenship and Immigration Services (USCIS)
+        and serves as the official request to classify the foreign employee as
+        eligible to work temporarily in the United States under the L visa
+        category.
+      </>
+    ),
+  },
+  {
+    title: "Where should I-129 Forms be filed?",
+    content: (
+      <>
+        Form I-129 petitions for L visas must be filed with either the Vermont
+        Service Center (VSC) or the California Service Center (CSC). The correct
+        filing location depends on the employee’s primary place of employment in
+        the U.S. In situations where the employee will work in multiple states
+        or regions, the location of the employer’s main U.S. office will
+        determine the appropriate service center for filing.
+      </>
+    ),
+  },
+  {
+    title: "What are the differences between L-1A and L-1B visas?",
+    content: (
+      <>
+        <p>
+          There are two distinct classifications under the L-1 visa program,
+          depending on the role of the employee being transferred:
+        </p>
+        <ol>
+          <li>
+            <strong>L-1A: Managers/Executives</strong>
+            <br />
+            Employees who hold managerial or executive roles, including
+            overseeing professional staff or directing a key function,
+            department, or subdivision of the company, may qualify for the L-1A
+            visa. This visa is initially granted for up to three years, with
+            possible two-year extensions, to a maximum stay of seven years.
+          </li>
+          <li>
+            <strong>L-1B: Specialized Knowledge Staff</strong>
+            <br />
+            This category applies to employees who possess advanced or unique
+            knowledge of the company’s products, services, research, systems,
+            processes, proprietary techniques, or management practices. The L-1B
+            visa is initially valid for three years, extendable up to a maximum
+            of five years.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "How long can I stay in the United States if I have the L-1 Visa?",
+    content: (
+      <>
+        The maximum length of stay depends on the type of L-1 visa. Executives
+        and managers on an L-1A visa may remain for up to seven years, while
+        specialized knowledge workers on an L-1B visa may remain for up to five
+        years. Typically, the visa is granted for an initial period of three
+        years, with possible extensions. For new offices, the initial visa
+        validity is limited to one year, after which extensions may be
+        requested. Extensions are generally approved in two-year increments,
+        subject to eligibility and proper documentation.
+      </>
+    ),
+  },
+  {
+    title: "What form should be filed for L-1 visa extensions?",
+    content: (
+      <>
+        Employers must file Form I-129 with the L supplement when requesting an
+        extension of L-1 status for the employee. This form covers both the
+        continuation of the petition and the employee’s stay in the United
+        States. For dependent family members, Form I-539 must be filed at the
+        same time. Employers should also provide a supporting letter confirming
+        the continuation of employment, along with the employee’s and
+        dependents’ I-94 records. Filing should be made with the designated
+        USCIS service center based on the employer’s location.
+      </>
+    ),
+  },
+  {
+    title:
+      "How long must the foreign worker have been employed by the overseas company?",
+    content: (
+      <>
+        To qualify, the transferee must have been employed continuously by the
+        foreign company for at least one full year within the three years
+        immediately preceding their entry to the United States. Short business
+        trips or brief visits to the U.S. do not disrupt the one-year
+        requirement. However, extended stays in the U.S. could potentially be
+        considered an interruption and may affect eligibility.
+      </>
+    ),
+  },
+  {
+    title:
+      "What kind of relationship is required between the overseas and the U.S. companies?",
+    content: (
+      <>
+        The foreign employer must have a qualifying relationship with the U.S.
+        entity. This relationship can take the form of a parent company,
+        subsidiary, branch, or affiliate. USCIS typically requires documentation
+        of this connection, such as corporate records or organizational charts.
+        Large, multinational corporations may be exempted from extensive
+        documentation if their global structure and affiliations are already
+        well established and recognized.
+      </>
+    ),
+  },
+  {
+    title: "Does the qualifying company have to be a corporation?",
+    content: (
+      <>
+        No. U.S. immigration law allows different types of business entities,
+        not just corporations, to serve as qualifying companies. Partnerships,
+        limited liability companies, and even sole proprietorships may petition
+        for an L-1 visa, provided they can demonstrate that the business is
+        legally separate from the employee being transferred. Larger
+        organizations operating in non-corporate structures may still qualify,
+        although they may face a higher burden of proof in establishing their
+        legitimate business identity.
+      </>
+    ),
+  },
+  {
+    title: "What if the overseas company ceases to exist?",
+    content: (
+      <>
+        For an L-1 visa to remain valid, the foreign company must continue to
+        operate as a legitimate business entity throughout the employee’s U.S.
+        assignment. If the overseas company shuts down, merges, or otherwise
+        ceases operations, the L-1 petition will no longer be valid, and the
+        employee’s visa status will be placed in jeopardy.
+      </>
+    ),
+  },
+  {
+    title: "What are foreign workers' qualifications for an L visa?",
+    content: (
+      <>
+        To qualify for an L-1 visa, the employee must be employed in a
+        managerial or executive capacity, or must possess specialized knowledge
+        that is essential to the company’s operations. Furthermore, the employee
+        must continue to work in one of these qualifying roles after being
+        transferred to the U.S. entity, thereby ensuring that their skills,
+        knowledge, or leadership are genuinely beneficial to the affiliated
+        American company.
+      </>
+    ),
+  },
+  {
+    title: "Who is considered a “manager“ under the L visa regulations?",
+    content: (
+      <>
+        <p>
+          The legal definitions of “manager“ and “executive“ under the L-1 visa
+          program are consistent with those applied in the EB1-C category for
+          Multinational Managers and Executives. According to immigration law, a
+          “manager“ may be defined as:
+        </p>
+        <ol>
+          <li>
+            An individual who primarily oversees the operations of an
+            organization, or manages a department, subdivision, function, or
+            component of the organization. The inclusion of “function” broadens
+            the definition, making it more relevant for smaller companies or
+            cases where one person is responsible for directly managing an
+            essential function.
+          </li>
+          <li>
+            An individual who mainly supervises and directs the work of other
+            managerial, supervisory, or professional employees, or
+            alternatively, manages a key function within the organization,
+            department, or subdivision.
+          </li>
+          <li>
+            An individual who possesses authority over critical personnel
+            decisions, such as hiring, firing, and recommending promotions or
+            disciplinary actions. If no staff is supervised, the manager must
+            operate at a senior level within the company’s hierarchy or with
+            respect to the function being managed.
+          </li>
+          <li>
+            An individual who exercises significant discretion over the daily
+            operations of the specific activity, function, or department they
+            are entrusted to manage.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "Who qualifies as an “executive“ for the L-1 Visa?",
+    content: (
+      <>
+        <p>
+          An “executive“ is defined as a professional who meets the following
+          criteria:
+        </p>
+        <ol>
+          <li>
+            Leads and directs the management of the entire organization, or
+            plays a central role in overseeing a major component or essential
+            function of the business.
+          </li>
+          <li>
+            Has the authority to establish and implement the organization’s
+            policies and long-term goals, ensuring that strategic objectives are
+            aligned with business needs.
+          </li>
+          <li>
+            Exercises significant discretionary power in making important
+            business decisions without frequent oversight.
+          </li>
+          <li>
+            Receives only broad guidance or general supervision from
+            higher-ranking executives, the board of directors, or shareholders
+            of the company.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "Who is classified as a “person of specialized knowledge“?",
+    content: (
+      <>
+        A person considered to possess specialized knowledge must demonstrate
+        unique or advanced expertise regarding the petitioning organization’s
+        products, services, research, techniques, equipment, or management. This
+        includes knowledge that provides a competitive advantage in
+        international markets, or advanced insight into the organization’s
+        processes and procedures. In this context, “special knowledge“ refers to
+        expertise that goes beyond the typical or common understanding held by
+        others working in the same field.
+      </>
+    ),
+  },
+  {
+    title:
+      "Must the U.S. position be identical to the foreign worker’s previous role abroad?",
+    content: (
+      <>
+        There is no strict requirement for the U.S. position to be an exact
+        replica of the role the employee held overseas. While the
+        responsibilities do not need to be identical, the position in the United
+        States must fall into an equivalent category or classification, ensuring
+        that the worker continues to serve in a qualifying managerial,
+        executive, or specialized knowledge capacity.
+      </>
+    ),
+  },
+  {
+    title: "Is there an annual cap on the number of L-1 visas issued?",
+    content: (
+      <>
+        No. Unlike several other nonimmigrant work visas, the L-1 visa category
+        does not impose an annual quota or numerical limit, which means that
+        eligible applicants are not restricted by a yearly cap.
+      </>
+    ),
+  },
+  {
+    title:
+      "What type of visas are issued to the spouse and children of an L-1 visa holder?",
+    content: (
+      <>
+        The spouse and unmarried children under the age of 21 of an L-1 visa
+        holder are granted L-2 dependent visas. While dependents may study
+        full-time in the United States, only the spouse of the principal L-1
+        visa holder is eligible to apply for work authorization.
+      </>
+    ),
+  },
+  {
+    title: "Can my family accompany me if I obtain an L-1 visa?",
+    content: (
+      <>
+        Yes. Spouses and unmarried children under 21 of L-1 visa holders are
+        eligible for L-2 dependent status. Under recent immigration updates, L-2
+        spouses may apply for employment authorization in the United States, and
+        dependents may enroll in educational programs at U.S. schools and
+        universities.
+      </>
+    ),
+  },
+  {
+    title: "What are the main benefits of applying for an L-1 visa?",
+    content: (
+      <>
+        The L-1 visa offers several advantages compared to other
+        employment-based visas. Among its benefits: there is no annual cap on
+        visa numbers, and L-1 visa holders may pursue permanent residency while
+        in the U.S. Furthermore, some managers and executives in L-1 status can
+        apply for a green card without going through the labor certification
+        process. Additionally, dependent spouses of L-1 holders are eligible to
+        obtain work authorization.
+      </>
+    ),
+  },
+  {
+    title:
+      "Is a prevailing wage requirement imposed on U.S. employers, similar to the H-1B program?",
+    content: (
+      <>
+        No. Employers sponsoring L-1 visa applicants are not required to meet
+        the prevailing wage standards applicable to similarly employed U.S.
+        workers. The only requirement is that the employee’s income in the
+        United States must be sufficient to prevent the need for public
+        assistance.
+      </>
+    ),
+  },
+  {
+    title: "What services are included in the legal fee for an L-1 petition?",
+    content: (
+      <>
+        <p>
+          Our legal services cover the full range of support required to file an
+          L-1 petition, including:
+        </p>
+        <ol>
+          <li>
+            Communicating with your employer to guide them through the
+            sponsorship process.
+          </li>
+          <li>
+            Drafting an employment verification letter that outlines company
+            details, your role, responsibilities, and qualifications, to be
+            reviewed and signed by your employer.
+          </li>
+          <li>
+            Providing a detailed checklist of supporting documents required for
+            the petition.
+          </li>
+          <li>
+            Organizing and structuring all necessary documents according to
+            USCIS submission standards.
+          </li>
+          <li>
+            Drafting the petition letter and revising it until it fully meets
+            your expectations.
+          </li>
+          <li>
+            Submitting the finalized petition package to the appropriate USCIS
+            Service Center.
+          </li>
+          <li>
+            Tracking your case status with USCIS and handling inquiries on your
+            behalf while your petition is pending.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+];
+
+// **************************************************************************************************
+// ************************ O1 visa **********************************************
+// **************************************************************************************************
+
+export const O1VisaConbtent = [
+  {
+    title: "What is the purpose of an O-1 visa?",
+    content: (
+      <>
+        <p>
+          The O-1 visa is designed for foreign nationals who demonstrate
+          extraordinary ability in fields such as science, education, business,
+          athletics, or the arts. It allows these individuals to temporarily
+          work in the United States in their area of expertise. Additionally,
+          the O-3 visa category is available for the dependents of O-1 holders,
+          which includes the spouse and unmarried children under 21 years of
+          age.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Compared to H-1B, what advantages does the O-1 visa offer?",
+    content: (
+      <>
+        <p>
+          <u>A. No visa lottery requirement.</u>
+          <br />
+          Unlike the H-1B visa, which is subject to an annual cap and lottery
+          system, the O-1 visa does not involve a lottery. This means qualified
+          individuals and employers can apply at any time without being
+          restricted by the cap, even if they work for private companies.
+        </p>
+        <p>
+          <u>B. No prevailing wage requirement.</u>
+          <br />
+          Unlike the H-1B, which requires employers to meet prevailing wage
+          standards, the O-1 visa has no such requirement. However, the
+          compensation offered must still be appropriate and reflective of the
+          high-level expertise expected of an O-1 professional.
+        </p>
+        <p>
+          <u>C. Premium processing is always available.</u>
+          <br />
+          Employers and applicants can request premium processing for O-1
+          petitions, which guarantees faster adjudication, typically within 15
+          calendar days.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What is the standard of review for an O-1 visa?",
+    content: (
+      <>
+        <p>
+          The review standards vary depending on the applicant’s field. For
+          scientists, educators, and business professionals, the standard is
+          particularly high. They must demonstrate sustained national or
+          international recognition and be regarded as individuals who have
+          reached the very top of their field—similar to the EB-1A immigrant
+          visa criteria. For applicants in the arts, the requirement is
+          “distinction,” meaning they must have achieved recognition and a level
+          of accomplishment significantly above the norm, so that they are
+          considered prominent or well-known in their field. Applicants in the
+          motion picture or television industry must show a record of
+          extraordinary achievement. Regardless of field, all O-1 applicants
+          must prove that they are entering the U.S. specifically to work in the
+          area for which they have gained recognition.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Who qualifies as an alien of extraordinary ability in science, education, business, or athletics?",
+    content: (
+      <>
+        <p>
+          Foreign nationals in these fields must demonstrate sustained national
+          or international acclaim, with evidence that their achievements are
+          recognized through extensive documentation. Furthermore, they must be
+          coming to the United States to continue working in the field in which
+          they achieved this recognition.
+        </p>
+        <p>
+          For examples of successful O-1 cases handled by our firm, please view
+          our O-1 success stories{" "}
+          <a
+            href="https://www.wegreened.com/blog/success-stories-o1-a/"
+            target="_blank"
+          >
+            here
+          </a>
+          .
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What does “extraordinary ability” mean?",
+    content: (
+      <>
+        <p>
+          The term “extraordinary ability” refers to a level of expertise that
+          places an individual among the small percentage who have risen to the
+          very top of their field of endeavor. It signifies professional
+          recognition that goes far beyond average achievement.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "How can an application prove that the foreign national has sustained national or international acclaim in science, education, or business?",
+    content: (
+      <>
+        <p>
+          Such acclaim can be proven in two primary ways: either through receipt
+          of a major, internationally recognized award such as the Nobel Prize
+          or the Academy Award, or by providing at least three of the following
+          types of supporting evidence:
+        </p>
+        <ol>
+          <li>
+            Evidence of receiving nationally or internationally recognized
+            prizes or awards for excellence in the field;
+          </li>
+          <li>
+            Membership in associations that require outstanding achievements of
+            their members, judged by recognized national or international
+            experts;
+          </li>
+          <li>
+            Published material in professional journals, trade publications, or
+            major media featuring the applicant’s work or contributions;
+          </li>
+          <li>
+            Service as a judge or panelist evaluating the work of others in the
+            same or an allied field;
+          </li>
+          <li>
+            Original contributions in science, education, or business that are
+            of major significance in the field;
+          </li>
+          <li>
+            Authorship of scholarly articles published in reputable professional
+            journals or widely recognized media outlets;
+          </li>
+          <li>
+            Employment in a critical or essential role for distinguished
+            organizations or establishments;
+          </li>
+          <li>
+            Evidence of receiving a high salary or other significant
+            remuneration compared to others in the field, supported by contracts
+            or reliable documentation.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "What is the processing time for an O-1 visa?",
+    content: (
+      <>
+        <p>
+          Once the I-129 petition is submitted, it will be processed at the
+          designated USCIS Service Center, such as the Texas Service Center
+          (TSC). Current O-1 I-129 processing timelines are published on the
+          USCIS website and can be accessed{" "}
+          <a href="https://egov.uscis.gov/processing-times/" target="_blank">
+            here
+          </a>
+          . Additionally, applicants may request premium processing, which
+          ensures an expedited review and decision within 15 calendar days.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Can an O-1 visa holder have dual intent?",
+    content: (
+      <>
+        <p>
+          No, the O-1 visa is not categorized as a dual-intent visa, unlike the
+          H-1B or L-1 visas. However, O-1 holders are not required to maintain a
+          foreign residence abroad. The approval of a labor certification or the
+          filing of an immigrant petition (such as I-140 or I-485) does not
+          automatically disqualify an individual from obtaining O-1 status.
+          According to the Department of State Foreign Affairs Manual (
+          <a
+            href="https://fam.state.gov/fam/09FAM/09FAM040213.html"
+            target="_blank"
+          >
+            source
+          </a>
+          ), an individual can legitimately enter the U.S. on an O-1 or O-3 visa
+          for a temporary period and, at the same time, pursue permanent
+          residency. However, if an I-485 has already been filed, the applicant
+          should not travel internationally using the O-1 visa. Instead, they
+          must wait for an Advance Parole (AP) document, which can be obtained
+          by filing Form I-131 alongside the I-485 application.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Who is eligible to file the O-1 petition?",
+    content: (
+      <>
+        <p>
+          O-1 applicants cannot file petitions on their own behalf. Only a U.S.
+          employer or an authorized agent can submit the petition. Petitions
+          must be filed with the appropriate USCIS Service Center, based on the
+          applicant’s intended place of work. If the foreign national intends to
+          work for multiple employers, each employer must file a separate
+          petition, unless an authorized agent is filing on behalf of all
+          employers. Agents can act on behalf of foreign employers to submit
+          Form I-129 and accept service of process.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What documentation should be submitted with an O-1 petition?",
+    content: (
+      <>
+        <p>
+          The petition must include{" "}
+          <a href="https://www.uscis.gov/i-129" target="_blank">
+            Form I-129
+          </a>{" "}
+          along with supporting evidence. An O-1 petition cannot be filed more
+          than six months before the applicant’s services are required. Required
+          supporting documents typically include written contracts between the
+          petitioner and the beneficiary. If no written contract exists, a
+          summary of the terms of the oral agreement should be provided.
+          Additionally, the petition should explain the nature of the planned
+          events or activities, specify the requested duration of stay, and
+          include a detailed itinerary of the performances or projects the
+          beneficiary will be engaged in.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How long can an O-1 visa holder remain in the United States?",
+    content: (
+      <>
+        <p>
+          The length of stay granted under an O-1 visa depends on the duration
+          necessary to complete the specific event or activity for which the
+          applicant is admitted. This period can be granted for up to three
+          years initially. Afterward, O-1 status may be extended in one-year
+          increments until the project or activity is concluded.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Can my family join me if I obtain an O1 visa?",
+    content: (
+      <>
+        <p>
+          Yes. The immediate family members of an O1 visa holder, specifically
+          the spouse and any unmarried children under the age of 21, are
+          eligible to accompany the principal beneficiary to the United States.
+          They will be granted O-3 dependent status, which allows them to
+          legally reside in the U.S. for the same period as the O1 holder. To
+          qualify, they must present valid documentation proving their
+          relationship to the O1 principal. While O-3 dependents are not
+          permitted to work in the United States, they are allowed to enroll in
+          educational programs and pursue studies at schools, colleges, or
+          universities during their stay.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What does the attorney fee cover?",
+    content: (
+      <>
+        <p>
+          Our legal service fee includes comprehensive support throughout the O1
+          visa petition process. Specifically, our assistance covers the
+          following steps:
+        </p>
+        <ol>
+          <li>
+            Communicating with your current or prospective U.S. employer to
+            facilitate and confirm their sponsorship for your petition.
+          </li>
+          <li>
+            Consulting with you to identify strong candidates who can provide
+            recommendation letters supporting your extraordinary ability.
+          </li>
+          <li>
+            Drafting up to six detailed recommendation letters tailored to your
+            case, which your recommenders can review, edit, and sign.
+          </li>
+          <li>
+            Preparing a professional job offer letter that outlines your role,
+            responsibilities, the nature of the project, and your
+            qualifications, for the employer’s review and approval.
+          </li>
+          <li>
+            Providing you with a clear checklist of the supporting evidence and
+            documents you need to prepare for submission with your petition.
+          </li>
+          <li>
+            Organizing and compiling all supporting documentation in full
+            compliance with USCIS requirements and regulations.
+          </li>
+          <li>
+            Drafting a thorough petition letter that highlights your
+            qualifications and achievements, and revising it based on your
+            feedback until you are fully satisfied.
+          </li>
+          <li>
+            Filing the completed petition package with the appropriate USCIS
+            Service Center within the required timelines.
+          </li>
+          <li>
+            Following up with USCIS on the status of your pending petition and
+            providing updates.
+          </li>
+          <li>
+            Responding to Requests for Evidence (RFE), Notices of Intent to Deny
+            (NOID), or Notices of Intent to Revoke (NOIR), if issued by USCIS,
+            without charging any additional legal fees.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "What are the USCIS fees for the O1 visa?",
+    content: (
+      <>
+        <p>
+          The United States Citizenship and Immigration Services (USCIS) charges
+          different filing fees depending on the type and size of the employer:
+        </p>
+        <ul>
+          <li>
+            <b>Nonprofit organizations and small employers</b> (25 or fewer
+            full-time employees): $530
+          </li>
+          <li>
+            <b>All other employers</b>: $1,055
+          </li>
+        </ul>
+        <p>
+          In addition to the filing fee, USCIS requires an{" "}
+          <b>asylum program fee</b> that varies by employer type:
+        </p>
+        <ul>
+          <li>$0 for nonprofit petitioners</li>
+          <li>$300 for small employers (25 or fewer full-time employees)</li>
+          <li>$600 for larger employers</li>
+        </ul>
+        <p>
+          Applicants may also choose <b>Premium Processing</b>, which expedites
+          USCIS’s review of the petition. The current Premium Processing fee is
+          $2,805, and it guarantees an initial decision within 15 calendar days.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Can O1 status be used to freelance in the open market?",
+    content: (
+      <>
+        <p>
+          No. The O1 visa classification does not permit open-market freelance
+          or independent employment. An O1 beneficiary may only engage in
+          specific, pre-approved services or events listed in the petition.
+          These events must be clearly defined and may include a wide range of
+          professional activities such as conferences, scientific projects,
+          lecture tours, exhibits, business ventures, artistic performances,
+          tours, or academic engagements. Any work outside of these identified
+          events would require an amended petition and USCIS approval.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Can an O1 visa holder perform work outside the events listed in the petition?",
+    content: (
+      <>
+        <p>
+          No. The scope of employment for an O1 visa holder is limited strictly
+          to the events, projects, or activities outlined in the original
+          petition approved by USCIS. If there are additional events or
+          significant changes in employment, an amended petition must be filed.
+          An exception exists for artists or entertainers, who may take on
+          additional performances or engagements consistent with their O1
+          caliber without needing to file an amendment.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What is an advisory opinion in the O1 petition process?",
+    content: (
+      <>
+        <p>
+          An advisory opinion is a written consultation that must generally
+          accompany an O1 petition. It is obtained from a relevant peer group,
+          labor organization, or recognized management body within the
+          beneficiary’s field of expertise. The advisory opinion serves as
+          independent confirmation of the alien’s extraordinary ability and
+          qualifications. However, if the petitioner can demonstrate that no
+          appropriate consulting entity exists in the field, USCIS may waive the
+          requirement for an advisory opinion.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What happens if O1 employment ends earlier than expected?",
+    content: (
+      <>
+        <p>
+          If O1 employment is terminated earlier than planned, whether due to
+          resignation or layoff, the visa holder is generally granted a grace
+          period of up to 60 days or until the expiration date on their I-94
+          record, whichever is shorter. During this grace period, the O1
+          beneficiary may remain in the U.S. but is not authorized to work
+          unless they transition to another valid immigration status.
+        </p>
+        <p>
+          Additionally, if the termination is involuntary (i.e., not due to
+          resignation), the employer is required to cover the reasonable cost of
+          the beneficiary’s transportation back to their last country of
+          residence before entering the United States. The employer must also
+          notify USCIS about the early termination of employment.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What if there are changes to the terms of O1 employment?",
+    content: (
+      <>
+        <p>
+          Any substantial change in the terms or conditions of O1 employment
+          generally requires the filing of an amended petition. Examples include
+          relocation to a new worksite, switching from full-time to part-time
+          employment, significant modifications in job responsibilities, or
+          other material changes to the original agreement. Failure to file an
+          amendment in such circumstances may result in loss of compliance with
+          O1 status.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Is there a size requirement for the employer or petitioner in O1 cases?",
+    content: (
+      <>
+        <p>
+          No. There is no minimum size requirement for the petitioner in an O1
+          case. Start-ups, small businesses, universities, research
+          institutions, and large corporations can all serve as O1 petitioners,
+          provided they can demonstrate the legitimacy of the employment and the
+          beneficiary’s extraordinary ability in their field.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Can someone subject to the J-1 two-year home residency requirement obtain an O1 visa?",
+    content: (
+      <>
+        <p>
+          Yes. Even if an individual is subject to the J-1 visa two-year home
+          residency requirement under INA 212(e), they may still apply for and
+          receive an O1 visa. However, this must be done through consular
+          processing at a U.S. consulate abroad after approval of their I-129
+          petition. The requirement does not bar issuance of the O1 visa itself,
+          but the applicant must still eventually fulfill the two-year home
+          residency obligation or secure a waiver if they later wish to adjust
+          status to permanent residency.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What is the difference between obtaining an O1 visa through consular processing and changing status within the United States?",
+    content: (
+      <>
+        <p>
+          If you <b>change status within the U.S.</b>, your immigration status
+          will automatically update to O1 on the “Valid From” date printed on
+          your I-129 approval notice, without the need to leave the country.
+        </p>
+        <p>
+          If you choose <b>consular processing</b>, you must schedule and attend
+          an interview at a U.S. consulate abroad after approval of your I-129
+          petition. Only after successfully completing the interview and
+          obtaining the O1 visa stamp in your passport can you re-enter the U.S.
+          in O1 status. Please note that some applicants may face administrative
+          processing at the consulate, which could delay issuance of the visa.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "I am interested in applying for an O1 visa. How do I request your firm’s assistance?",
+    content: (
+      <>
+        <p>
+          If you would like to seek professional assistance with your O1
+          petition, please share your resume and basic information by submitting
+          a free evaluation request online. To begin, click{" "}
+          <a
+            href="https://wenzo.wegreened.com/case_evaluation"
+            className="link_underline"
+            target="_blank"
+          >
+            here
+          </a>
+          .
+        </p>
+      </>
+    ),
+  },
+];
+
+// **************************************************************************************************
+// ************************ J1 VISAS **********************************************
+// **************************************************************************************************
+
+export const J1VisaContent = [
+  {
+    title: "What is the purpose of J-1 visa?",
+    content: (
+      <>
+        The J-1 visa is a nonimmigrant visa category designed for individuals
+        who wish to participate in approved exchange visitor programs in the
+        United States. It is intended to promote cultural exchange, mutual
+        understanding, and the sharing of knowledge across nations. J-1 visa
+        holders may come to the U.S. in various capacities, including as
+        students, researchers, professors, non-academic specialists, physicians
+        in training, international visitors, camp counselors, au pairs, or even
+        participants in summer work/travel programs. The primary goal is to
+        allow foreign nationals to acquire valuable experience and skills while
+        also contributing to cross-cultural learning and collaboration.
+      </>
+    ),
+  },
+  {
+    title: "What is the period of stay of J (J-1 and J-2) visa?",
+    content: (
+      <>
+        The period of stay for J-1 exchange visitors, along with their
+        dependents (spouse and children under J-2 status), is typically tied to
+        the dates specified on the official Form DS-2019 issued by the program
+        sponsor. In addition to this program duration, J visa holders are
+        generally granted an extra 30-day grace period, often referred to as the
+        “travel period,” which allows them to prepare for departure, travel
+        within the United States, or transition between arrangements. However,
+        J-2 dependents cannot remain in the U.S. beyond the principal J-1’s
+        authorized stay. Importantly, J-1 holders are admitted for the “duration
+        of status” (D/S) required to complete their exchange program, as noted
+        on Form DS-2019, and their I-94 record usually does not bear a fixed end
+        date but instead reflects this D/S condition.
+      </>
+    ),
+  },
+  {
+    title:
+      "What is foreign residency requirement? How does it influence a J visa holder?",
+    content: (
+      <>
+        Certain J-1 visa holders are subject to what is known as the “two-year
+        foreign residency requirement.” This rule obligates the exchange visitor
+        to return to their home country, or country of last permanent residence,
+        for an aggregate period of two years after completing their program
+        before they can change to certain other nonimmigrant statuses or apply
+        for permanent residency in the United States. A J-1 holder subject to
+        this requirement cannot adjust to H (temporary worker), L (intra-company
+        transferee), or K (fiancé(e)) visas, nor can they directly apply for a
+        green card, unless a waiver is granted. Moreover, they cannot change to
+        another nonimmigrant status from within the U.S., except for specific
+        diplomatic categories (A or G visas). This rule ensures that the
+        knowledge and skills acquired during the program are shared back in the
+        home country, supporting the original intent of cultural and educational
+        exchange.
+      </>
+    ),
+  },
+  {
+    title:
+      "May a J-1 holder obtain a different nonimmigrant visa in a U.S. Consulate abroad?",
+    content: (
+      <>
+        Yes. A J-1 exchange visitor who is subject to the foreign residency
+        requirement is prohibited from changing to another nonimmigrant status
+        while physically present in the United States. However, they may still
+        apply for and obtain a visa in another eligible nonimmigrant category
+        (other than H, L, or K visas) by applying directly at a U.S. consulate
+        abroad. This means that while their options within the U.S. are
+        restricted, they can still pursue alternative pathways outside the
+        country if they meet the eligibility criteria for the new visa type.
+      </>
+    ),
+  },
+  {
+    title:
+      "Who is subject to the two-year foreign residency requirement before they may change to certain other nonimmigrant visa categories or before they may obtain permanent residency?",
+    content: (
+      <>
+        <p>
+          The two-year home-country physical presence requirement applies in the
+          following circumstances:
+        </p>
+        <ol>
+          <li>
+            When the J-1 exchange visitor’s program is funded, either fully or
+            partially, by the U.S. government or the government of their home
+            country (or country of last legal residence).
+          </li>
+          <li>
+            When the J-1 participant’s skills or field of expertise appear on
+            the “Exchange Visitor Skills List,” meaning those skills are deemed
+            to be of vital importance to their country of nationality or
+            residence.
+          </li>
+          <li>
+            When the J-1 participant enters the United States specifically to
+            undertake graduate medical training or education.
+          </li>
+        </ol>
+        <p>
+          It is important to note that this requirement extends to J-2
+          dependents (spouse and children) as well, meaning they are equally
+          subject to the obligation if the principal J-1 visa holder is bound by
+          it.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "On what condition may a waiver be provided?",
+    content: (
+      <>
+        <p>
+          A J-1 exchange visitor who is subject to the two-year home residency
+          rule may apply for a waiver of this requirement under specific
+          circumstances, including:
+        </p>
+        <ol>
+          <li>
+            When a U.S. government agency submits a waiver request on behalf of
+            the J-1 holder, usually because their continued presence in the
+            United States is considered important for national security,
+            scientific advancement, or the public interest.
+          </li>
+          <li>
+            When the J-1 holder can prove that enforcing the residency
+            requirement would cause exceptional hardship to their U.S. citizen
+            or lawful permanent resident spouse or child.
+          </li>
+          <li>
+            When the J-1 holder demonstrates that they would likely face
+            persecution in their home country based on race, religion,
+            nationality, political opinion, or membership in a particular social
+            group.
+          </li>
+          <li>
+            When the home government of the J-1 participant issues a formal “No
+            Objection” statement, indicating it does not oppose the individual
+            remaining in the United States. (Note: foreign medical graduates are
+            generally ineligible for this type of waiver.)
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title:
+      "When might a government agency request a J waiver on behalf of an exchange visitor?",
+    content: (
+      <>
+        A U.S. government agency may request a waiver on behalf of an exchange
+        visitor if it determines that requiring the J-1 visa holder to depart
+        the country would negatively affect a program, project, or initiative
+        that is of significant importance to the agency or to the United States
+        as a whole. For example, if the visitor is contributing valuable
+        research or expertise that supports public health, scientific
+        development, or national interests, the agency may formally request a
+        waiver so the individual can remain in the United States.
+      </>
+    ),
+  },
+  {
+    title:
+      "Does the exchange visitor have to be employed in a government agency to obtain an “agency request” J-waiver?",
+    content: (
+      <>
+        No. The exchange visitor does not necessarily need to be directly
+        employed by a U.S. government agency to qualify for an “agency request”
+        waiver. They may work for a private organization, a research
+        institution, or even a university, but if their work aligns with the
+        goals or needs of a government agency, that agency can still choose to
+        sponsor a waiver request. For example, a private-sector researcher
+        working on a project funded or valued by the Department of Defense or
+        the Department of Health and Human Services could receive an agency
+        request waiver through those agencies, provided the contribution is
+        deemed sufficiently important.
+      </>
+    ),
+  },
+  {
+    title: "What is the procedure of a government “agency request“ J-waiver?",
+    content: (
+      <>
+        In cases of an “agency request” J-waiver, the process generally begins
+        with an employer or institution that is willing to act as a sponsor on
+        behalf of the J-1 exchange visitor. The sponsoring employer or
+        organization must submit a request to a government agency such as the
+        Department of Defense or the Department of Health and Human Services,
+        among others. If the chosen government agency concludes that the waiver
+        would serve a significant public interest or fulfill an important need,
+        the agency then issues a formal request for the waiver. This request is
+        forwarded to the U.S. Department of State (DOS) Waiver Review Division
+        for further assessment. After reviewing the case and receiving the
+        agency’s recommendation, the DOS provides its advisory opinion. The
+        ultimate and final decision, however, rests with the United States
+        Citizenship and Immigration Services (USCIS), which determines whether
+        the waiver will be granted or denied.
+      </>
+    ),
+  },
+  {
+    title:
+      "What kind of sponsorship may a J-1 physician obtain for the purpose of J Waiver?",
+    content: (
+      <>
+        J-1 physicians seeking a waiver of the two-year home residency
+        requirement may secure sponsorship through various U.S. government
+        agencies, each with its own set of guidelines and criteria. One category
+        of sponsorship is based on the existence of a direct employer-employee
+        relationship between the physician and the sponsoring agency. A
+        well-known example of this is the Veterans Administration’s physician
+        waiver sponsorship program. Another avenue for sponsorship relates to
+        physicians engaged in academic or scientific research in areas of
+        national health importance, where the Department of Health and Human
+        Services (HHS) often plays a role in sponsorship. Furthermore, certain
+        agencies are willing to sponsor physicians who commit to serving in
+        medically underserved areas within the United States. Agencies such as
+        the Appalachian Regional Commission and the U.S. Department of
+        Agriculture (USDA) have historically supported such waivers to address
+        healthcare shortages in rural and underserved communities.
+      </>
+    ),
+  },
+  {
+    title:
+      "What constitutes “exceptional hardship“ for the purpose of J waiver?",
+    content: (
+      <>
+        For a J-1 exchange visitor to qualify for a waiver on the grounds of
+        “exceptional hardship,” it must be demonstrated that the hardship goes
+        well beyond the normal difficulties that naturally result from
+        compliance with the two-year foreign residence requirement. The hardship
+        must be unforeseen, significant, and unique to the applicant’s
+        circumstances. A common example involves serious medical conditions
+        affecting a qualifying family member, provided the condition is more
+        than minor and adequate treatment is not available in the applicant’s
+        home country. Claims of exceptional hardship have also been supported in
+        cases where family members who are U.S. citizens or lawful permanent
+        residents might face persecution if forced to relocate. Cultural,
+        social, and educational disruptions, along with language and economic
+        barriers, may also be factors in evaluating the severity of the hardship
+        claim.
+      </>
+    ),
+  },
+  {
+    title:
+      "Is separation of a U.S. citizen spouse from the J-1 holder considered “exceptional hardship“?",
+    content: (
+      <>
+        Generally, separation from a U.S. citizen spouse alone does not
+        typically rise to the level of “exceptional hardship.” Normal hardships
+        such as the emotional difficulty of separation, or the challenges of
+        relocating to a less developed country, are often viewed as predictable
+        and foreseeable at the time the marriage took place or when the J-1
+        status was obtained. However, exceptional hardship may be recognized
+        when there are unique circumstances, such as economic impossibility of
+        maintaining the family unit abroad due to lack of suitable employment
+        opportunities, or when the family cannot reasonably sustain two separate
+        households. The presence of U.S. citizen children in these cases often
+        strengthens the hardship claim, as their best interests and needs carry
+        significant weight in the determination process.
+      </>
+    ),
+  },
+  {
+    title:
+      "How can an exchange visitor be granted a J Waiver by obtaining a “no objection“ letter?",
+    content: (
+      <>
+        <p>
+          When an exchange visitor is subject to the two-year home residency
+          rule because their field of expertise appears on their home country’s
+          skills list, or because they received financial support from their
+          home government, they may seek a waiver by obtaining a “no objection”
+          statement. This document is an official declaration from the
+          applicant’s home government indicating that it does not object to the
+          individual remaining in the United States and waiving the requirement
+          to return home. In such cases, the U.S. Department of State usually
+          recommends approval, since the home country itself has no opposition
+          to the waiver.
+        </p>
+        <p>
+          However, if the individual’s exchange program was funded by the U.S.
+          government, obtaining a waiver through a “no objection” statement
+          becomes much more difficult. In these situations, the relevant U.S.
+          government agency that provided the funding is consulted, and if that
+          agency opposes the waiver, the Department of State typically follows
+          its recommendation and advises against approval. Agencies such as
+          USAID (U.S. Agency for International Development) often resist such
+          waivers, making them challenging to secure.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What is the procedure of applying for J Waiver?",
+    content: (
+      <>
+        <p>
+          The application process for a J-1 waiver involves a series of specific
+          steps. The applicant must first complete Form DS-3035, officially
+          known as the J-1 Visa Waiver Recommendation Application. The
+          Department of State now requires this form to be filled out online
+          through its designated portal. Upon completion, the system generates a
+          data barcode page that must be printed and submitted along with the
+          processing fee and all required supporting documents. Applicants are
+          strongly advised to submit all documents together to avoid delays.
+        </p>
+        <p>
+          In certain cases, such as “no objection” waivers or agency request
+          waivers, some documents must be sent directly by the applicant’s home
+          country embassy or by the sponsoring U.S. government agency. Once the
+          Waiver Review Division completes its review, it forwards its
+          recommendation to USCIS. Generally, USCIS follows the State
+          Department’s recommendation, and denials are rare when a favorable
+          opinion has been issued. If USCIS does issue a denial despite such a
+          recommendation, the applicant may appeal the decision to the USCIS
+          Administrative Appeals Office.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What documents must be submitted along with the “no objection” waiver application?",
+    content: (
+      <>
+        In cases where a J-1 exchange visitor applies for a waiver on the basis
+        of a “no objection” statement, the essential requirement is that an
+        official declaration be issued directly from the government of the
+        applicant’s home country. Typically, embassies or consulates of foreign
+        governments located in the United States are well aware of this
+        procedure and often have designated officials who handle such requests.
+        The “no objection” statement is not sent by the applicant personally,
+        but rather transmitted through official diplomatic channels directly to
+        the U.S. Department of State Waiver Review Division for consideration.
+        This ensures the authenticity and formal acknowledgment of the home
+        government’s position in the waiver process.
+      </>
+    ),
+  },
+  {
+    title:
+      "What documents must be submitted along with the “agency request” J Waiver application?",
+    content: (
+      <>
+        When seeking a waiver based on an “interested government agency” (IGA)
+        request, the applicant must first obtain sponsorship from the respective
+        agency. Once sponsorship is secured, evidence of this sponsorship must
+        be submitted as part of the waiver package. Each federal agency that
+        agrees to act as a sponsor has its own distinct procedures, review
+        standards, and in some cases, specific application forms or waiver
+        boards. Therefore, the documents required may vary depending on the
+        sponsoring agency. While some agencies may request detailed employment
+        agreements and justification letters, others may require evidence of the
+        applicant’s contributions to a project that serves a national interest.
+        Because of these variations, it is important for applicants to carefully
+        follow the specific requirements outlined by the sponsoring agency
+        before submission.
+      </>
+    ),
+  },
+  {
+    title:
+      "What documents must be submitted along with the “exceptional hardship” J Waiver application?",
+    content: (
+      <>
+        For waivers based on exceptional hardship or potential persecution,
+        applicants must file Form I-612, Application for Waiver of the Foreign
+        Residence Requirement, with U.S. Citizenship and Immigration Services
+        (USCIS). Alongside this form, applicants must provide strong documentary
+        evidence to support their claims of hardship or persecution. This
+        evidence may include medical reports, psychological evaluations,
+        affidavits, financial records, expert testimony, or country condition
+        reports that illustrate why compliance with the two-year rule would
+        cause severe hardship. Once USCIS makes a favorable determination on the
+        hardship or persecution claim, it forwards its decision to the U.S.
+        Department of State, along with Form I-613, to recommend approval of the
+        waiver. The Department of State then conducts its own review before
+        forwarding the recommendation to USCIS for final action.
+      </>
+    ),
+  },
+  {
+    title:
+      "How do I determine if my exchange visitor program was funded by the U.S. Government, my government, or an international organization that received funding from the U.S. Government or my government?",
+    content: (
+      <>
+        The most reliable way to determine whether your exchange program was
+        funded by the U.S. Government, your home government, or an international
+        organization supported by either, is to consult directly with your
+        responsible program officer. This officer has access to official records
+        and funding details of the program. If your participation was financed
+        fully or even partially by one of these entities, then you are
+        automatically subject to the two-year home-country physical presence
+        requirement. It is important to clarify this early, as the funding
+        source directly affects your eligibility for certain types of waivers,
+        and may limit the options available to you when applying for a waiver.
+      </>
+    ),
+  },
+  {
+    title: "How should I file J Waiver online?",
+    content: (
+      <>
+        <p>
+          The U.S. Department of State requires that the J-1 Visa Waiver
+          Recommendation Application (Form DS-3035) be completed online through
+          its official waiver portal. Applicants must carefully follow the
+          step-by-step instructions provided on the website. Once the form is
+          completed, the system generates a barcode data page, which the
+          applicant must print and submit as part of the application package.
+          Below are the filing steps:
+        </p>
+        <ol>
+          <li>
+            <strong>Complete Form DS-3035 online:</strong> Fill out the online
+            waiver application using the official Waiver Review Division
+            website. No paper version of the form will be accepted.
+          </li>
+          <li>
+            <strong>Mail your application and fee payment:</strong> Submit the
+            printed barcode page, the processing fee (currently $120), and
+            supporting documents to the Waiver Review Division at the address
+            provided in the application instructions.
+          </li>
+          <li>
+            <strong>Submit required supporting documents:</strong> Depending on
+            the type of waiver sought, this may include “no objection”
+            statements, government agency requests, or hardship evidence.
+          </li>
+          <li>
+            <strong>Track your application status:</strong> Applicants can check
+            the progress of their waiver request online and update contact
+            information as necessary.
+          </li>
+          <li>
+            <strong>Respond to requests for additional information:</strong> If
+            the Waiver Review Division requires further clarification, you must
+            promptly provide additional documentation.
+          </li>
+          <li>
+            <strong>Final review:</strong> After DOS issues its recommendation,
+            USCIS makes the ultimate decision on whether to approve or deny the
+            waiver.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "What is the processing time for J Waiver?",
+    content: (
+      <>
+        <p>
+          The time required to process a J Waiver application depends on the
+          specific basis under which the waiver is being requested, as different
+          types of waivers involve different levels of review and documentation.
+          The Waiver Review Division of the U.S. Department of State handles
+          these cases, and the length of time varies accordingly.
+        </p>
+        <p>
+          For instance, if you are applying for a waiver through a{" "}
+          <strong>No Objection Statement</strong>, the average processing time
+          is approximately 6 to 8 weeks. In the case of an{" "}
+          <strong>Agency Request Waiver</strong>, the timeline typically ranges
+          from 4 to 8 weeks, depending on how quickly the sponsoring agency
+          communicates with the Department of State. Applications filed on the
+          basis of <strong>persecution or exceptional hardship</strong>{" "}
+          generally take longer, often about 3 to 4 months, as they require a
+          more detailed legal review. Finally,{" "}
+          <strong>Conrad State 30 Program waivers</strong>, which are common for
+          physicians, are usually processed within 4 to 6 weeks. These estimates
+          may vary depending on workload, completeness of your submission, and
+          the speed of correspondence between agencies.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "My waiver recommendation application was denied. Can I ask for reconsideration or appeal the decision?",
+    content: (
+      <>
+        <p>
+          Once a final decision has been issued by the Waiver Review Division,
+          it is considered binding and conclusive. The Department of State does
+          not have a formal policy that allows for reconsideration or appeals of
+          denied J Waiver recommendation applications. Every case is carefully
+          reviewed before a determination is made. However, you may still have
+          an alternative option: you are permitted to reapply if you qualify
+          under a <strong>different basis for waiver</strong>. For example, if
+          your original application was submitted under a “no objection” basis
+          and denied, you may reapply under another ground, such as an agency
+          request or exceptional hardship, if it legitimately applies to your
+          circumstances.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Why would a recommendation application be denied by the Waiver Review Division?",
+    content: (
+      <>
+        <p>
+          There are several reasons why the Waiver Review Division may deny a
+          recommendation application. The primary reason is that the arguments
+          presented in favor of the waiver do not outweigh the program’s goals
+          and U.S. foreign policy considerations that support the two-year
+          home-country physical presence requirement. Specifically, applicants
+          who received funding directly from the U.S. Government for their
+          exchange program often face denials, since granting a waiver in such
+          cases is generally considered inconsistent with the objectives of the
+          exchange visitor program. In other cases, insufficient evidence, weak
+          justification, or failure to demonstrate national interest or
+          exceptional hardship may also lead to denial.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "My waiver recommendation application was denied, but I have new information that may affect my eligibility. Can I send it to the Waiver Review Division and ask for reconsideration of my denied application?",
+    content: (
+      <>
+        <p>
+          As a general rule, once your waiver recommendation application has
+          been denied, it cannot be reopened, reconsidered, or appealed. You are
+          also not permitted to reapply using the same basis that was already
+          reviewed and denied. However, there is{" "}
+          <strong>one important exception</strong>. If your waiver request was
+          based on <em>persecution</em> or <em>exceptional hardship</em> to a
+          U.S. citizen or lawful permanent resident spouse or child, and you are
+          able to provide significant new evidence that was not previously
+          available, you may file a new application with USCIS. In this
+          scenario, you will need to submit a completely new waiver application,
+          including all necessary documents outlined in the official
+          instructions, and you must also pay the required processing fee again.
+          This ensures that your new evidence can be properly evaluated in light
+          of your circumstances.
+        </p>
+      </>
+    ),
+  },
+];
+
+// **************************************************************************************************
+// ************************ J1 VISAS **********************************************
+// **************************************************************************************************
+
+export const E1VisaContent = [
+  {
+    title: "What is the purpose of E-1/E-2 visas?",
+    content: (
+      <>
+        <p>
+          The E-1 and E-2 visas are specifically designed for individuals who
+          are nationals of countries that maintain treaties of commerce and
+          navigation with the United States. The E-1 visa is intended for Treaty
+          Traders who are engaged in substantial trade activities between their
+          home country and the U.S., while the E-2 visa is meant for Treaty
+          Investors who invest a significant amount of capital in a U.S.
+          enterprise. Both categories aim to encourage international economic
+          cooperation by allowing eligible traders and investors, along with
+          certain employees, to live and work in the United States while
+          carrying out trade or investment activities.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What are the requirements of the E-1 “treaty trader” visa?",
+    content: (
+      <>
+        <p>
+          The E-1 visa, often referred to as the Treaty Trader visa, enables
+          nationals of treaty countries to engage in a substantial flow of trade
+          with the United States. To qualify for this visa, applicants must
+          satisfy specific requirements set under U.S. immigration law.
+        </p>
+        <p>
+          The main requirements of the E-1 Treaty Trader visa include the
+          following:
+        </p>
+        <ol>
+          <li>
+            The applicant must be a national of a country that maintains a
+            treaty of commerce and navigation with the United States.
+          </li>
+          <li>
+            The business entity or trading firm in the U.S. for which the
+            applicant works must also share the nationality of the treaty
+            country.
+          </li>
+          <li>
+            The international trade must be “substantial,” which means it should
+            involve a significant, continuous, and ongoing volume of trade
+            transactions.
+          </li>
+          <li>
+            At least 50 percent or more of the international trade carried out
+            by the applicant or their firm must be conducted between the United
+            States and the treaty country.
+          </li>
+          <li>
+            Trade refers to the actual international exchange of goods,
+            services, or technology, and the ownership (title) of the traded
+            items must pass from one party to another.
+          </li>
+          <li>
+            The applicant must serve in a supervisory, executive, or highly
+            specialized role that is critical to the successful functioning of
+            the business. General laborers or unskilled workers do not qualify
+            under this category.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "What is “trade” for the purpose of a treaty trader visa?",
+    content: (
+      <>
+        <p>
+          For E-1 visa purposes, “trade” is defined broadly to include the
+          international exchange, purchase, or sale of goods and services. This
+          can cover a wide range of industries such as banking, tourism,
+          transportation, communications, consulting, design and engineering,
+          and insurance, among others. The core requirement is that ownership of
+          the traded goods, services, or technology must change hands between
+          the parties involved in the transaction.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What constitutes “substantial” for the purpose of E visas?",
+    content: (
+      <>
+        <p>
+          The term “substantial” is interpreted differently depending on whether
+          it relates to traders or investors. For E-1 traders, substantial trade
+          means that more than 50 percent of the total business activity is
+          conducted between the United States and the treaty country. For E-2
+          investors, “substantial” investment refers to an amount of capital
+          sufficient to ensure the viability of the enterprise, meaning it
+          should be capable of sustaining and operating as a real business
+          rather than a marginal endeavor. The transactions need not be large
+          individually, but they should be numerous and collectively
+          significant.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What are the definitions of “goods” and “services”?",
+    content: (
+      <>
+        <p>
+          In the context of the E-1 and E-2 visa programs, “goods” are defined
+          as tangible items of commerce that hold intrinsic value, with the
+          exception of money, securities, or negotiable instruments. On the
+          other hand, “services” encompass economic activities that result in
+          outputs other than physical goods, such as consulting, financial
+          services, engineering, or design work.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What is the possible disadvantage of an E-1 visa?",
+    content: (
+      <>
+        <p>
+          One of the potential drawbacks of holding an E-1 Treaty Trader visa is
+          that eligibility depends heavily on maintaining the majority of trade
+          volume between the treaty country and the United States. If the trade
+          activities of the individual or their company shift primarily to third
+          countries outside of the treaty relationship, the visa holder may lose
+          their eligibility under the E-1 category, leading to disqualification
+          or termination of visa status.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What are the requirements of the E-2 Treaty Investor visa?",
+    content: (
+      <>
+        <p>
+          The E-2 Treaty Investor visa is intended for nationals of treaty
+          countries who wish to invest a substantial amount of capital in a U.S.
+          business. To qualify, applicants must meet a series of legal
+          requirements:
+        </p>
+        <ol>
+          <li>
+            The applicant must be a national of a country that maintains a
+            qualifying treaty with the United States.
+          </li>
+          <li>
+            The enterprise or individual associated with the investment must
+            also share the nationality of the treaty country.
+          </li>
+          <li>
+            The applicant must have already invested, or be in the active
+            process of investing, a substantial amount of capital into the U.S.
+            enterprise.
+          </li>
+          <li>
+            The enterprise in which the investment is made must be a real,
+            operating, and legitimate commercial business.
+          </li>
+          <li>
+            The investment itself must be significant enough to ensure the
+            success of the business venture.
+          </li>
+          <li>
+            The investment must not be marginal, meaning it cannot solely
+            provide income for the applicant and their family without
+            contributing to the broader U.S. economy.
+          </li>
+          <li>
+            The applicant must demonstrate the ability to develop, manage, and
+            direct the operations of the enterprise.
+          </li>
+          <li>
+            If the applicant is entering the U.S. as an employee, they must hold
+            an executive, supervisory, or essential skills role critical to the
+            functioning of the enterprise.
+          </li>
+          <li>
+            The applicant must intend to leave the United States once their E-2
+            status comes to an end.
+          </li>
+        </ol>
+      </>
+    ),
+  },
+  {
+    title: "What qualifies a company as a national of a treaty country?",
+    content: (
+      <>
+        <p>
+          A company can be classified as a national of a treaty country if at
+          least 50% of the ownership is held by nationals of that treaty
+          country. In addition, the investor or employee applying for the visa
+          must personally be a national of the same treaty country in order to
+          qualify under the E visa program.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What is the “substantial” requirement of investment in law for the E-2 visa?",
+    content: (
+      <>
+        <p>
+          For the E-2 visa, the term “substantial investment” does not have a
+          fixed dollar amount defined by law. Instead, it is evaluated in
+          proportion to the total cost of establishing or purchasing the
+          enterprise in question. The investment should be large enough to
+          demonstrate the applicant’s commitment to the success of the business
+          and to ensure its viability as a functioning enterprise. The
+          Department of State provides guidance, stating that a substantial
+          investment must:
+        </p>
+        <ol>
+          <li>
+            Be significant in relation to the total cost of purchasing or
+            creating the business enterprise;
+          </li>
+          <li>
+            Be sufficient to confirm the investor’s financial commitment to
+            making the enterprise a success;
+          </li>
+          <li>
+            Be of a magnitude that indicates the likelihood that the investor
+            will successfully develop and manage the enterprise.
+          </li>
+        </ol>
+        <p>
+          In practice, this is assessed on a sliding scale: the smaller the
+          overall cost of the enterprise, the higher the proportion of
+          investment required to meet the “substantial” threshold. Conversely,
+          in large-scale enterprises, the required proportional investment may
+          be smaller while still qualifying as substantial.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What is the minimum amount of cash required to meet the test of substantiality?",
+    content: (
+      <>
+        <p>
+          As a general rule, many U.S. consular officers look for a minimum
+          investment of around $100,000 U.S. to satisfy the test of
+          substantiality, provided that this amount is proportionate to the
+          total cost of acquiring or establishing the business. An investment
+          below this level may be considered insufficient unless the applicant
+          can convincingly demonstrate that the nature of the business does not
+          require additional capital, and that the amount already invested
+          represents the full, or nearly the full, acquisition cost. It is
+          important to note that the $100,000 figure is not a legally fixed
+          requirement, but rather a practical guideline. Each case is evaluated
+          individually, taking into consideration the type of enterprise, the
+          scale of the investment, the proportionality of the funds to the
+          acquisition cost, the potential profitability, and other relevant
+          factors such as risk and sustainability.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Is there an amount of money that will meet the substantiality test of the E-2 visa for sure?",
+    content: (
+      <>
+        <p>
+          Although there is no set statutory amount that guarantees meeting the
+          substantiality test, an investment of $1,000,000 or more is generally
+          presumed to qualify. This is due to the fact that the sheer magnitude
+          of such an investment strongly indicates the investor’s commitment and
+          the viability of the enterprise, even if the percentage of the
+          investment compared to the overall project cost is not within the
+          normally recommended range. In practice, consular officers almost
+          always consider such a large investment to satisfy the substantiality
+          requirement by default.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "In addition to the substantiality test, are there other restrictions on the investment for the E-2 visa?",
+    content: (
+      <>
+        <p>
+          Yes, beyond simply meeting the substantiality test, the investment
+          must also be considered an “active” investment. This means that the
+          funds must be placed into a functioning, operating business that
+          generates goods or services. Passive investments, such as purchasing
+          stocks, bonds, or undeveloped real estate that merely appreciate in
+          value without direct involvement, do not qualify. Additionally, the
+          funds invested must be personally at risk by the investor. This means
+          that loans secured against the assets of the enterprise itself are not
+          acceptable, as they do not expose the investor to real financial risk.
+          The requirement ensures that the investor is genuinely committed to
+          the success of the business.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How long can I stay in the States with the E-visa?",
+    content: (
+      <>
+        <p>
+          Individuals granted E-visa status, often referred to as treaty aliens,
+          are typically admitted into the United States for an initial period of
+          two years, regardless of the remaining validity of their actual visa
+          stamp. For example, even if the visa itself is due to expire in a
+          matter of days, the individual may still be admitted for a full
+          two-year stay. Each time the treaty alien departs the U.S. and
+          reenters, a new two-year admission period is granted automatically.
+          Therefore, those who travel abroad at least once a year can
+          effectively maintain their status without ever having to apply for
+          extensions through USCIS, as each reentry resets their authorized stay
+          period.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How can I extend E-visa for me and my family?",
+    content: (
+      <>
+        <p>
+          If you remain in the United States continuously for two years without
+          traveling abroad, you will need to apply for an extension of your
+          nonimmigrant stay. This extension must be submitted to the U.S.
+          Citizenship and Immigration Services (USCIS) using Form I-129, which
+          is the Petition for a Nonimmigrant Worker. It is important to note
+          that family members, such as spouses and children of the principal
+          E-visa holder, are not automatically included in this petition.
+          Instead, they must file their own separate extension requests using
+          Form I-539, the Application to Extend/Change Nonimmigrant Status.
+        </p>
+        <p>
+          Both the principal petition (Form I-129) and the dependent
+          applications (Form I-539) must be filed with the California Service
+          Center, regardless of where the E-visa holder is employed in the
+          United States. Extensions of stay for E-visa holders are granted in
+          increments of two years, and there is no maximum limit on the number
+          of extensions that can be granted, provided that the visa holder
+          continues to maintain valid E-visa status.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Does my E-visa authorize me to work?",
+    content: (
+      <>
+        <p>
+          Yes, an E-visa allows the principal holder to work in the United
+          States, but only in employment activities that are directly related to
+          the terms and conditions of the nonimmigrant classification. The type
+          and scope of work that the E-visa holder is permitted to perform will
+          be clearly annotated on the visa issued by the U.S. consulate. Any
+          employment outside the approved scope of the visa would be considered
+          unauthorized.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Does my spouse's E-visa authorize him/her to work?",
+    content: (
+      <>
+        <p>
+          Yes, spouses of E-1 and E-2 nonimmigrants are eligible to apply for
+          employment authorization in the United States. Once approved, they may
+          work for any employer and are not restricted to the enterprise that
+          sponsored the principal applicant. This provides significant
+          flexibility for spouses to pursue independent career opportunities
+          during their stay in the U.S.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "Where should the E visa application be submitted? What forms should be filed?",
+    content: (
+      <>
+        <p>
+          The most common way to obtain E visa status is by applying at a U.S.
+          consulate outside of the United States. The visa application must
+          include supporting documentation demonstrating that all the
+          requirements for Treaty Trader (E-1) or Treaty Investor (E-2) status
+          have been met. Consulates require the standardized supplemental form,
+          currently designated as Form DS-156E, which has become mandatory in E
+          visa applications.
+        </p>
+        <p>
+          For foreign nationals who are already legally present in the United
+          States under another nonimmigrant status, it is possible to apply for
+          a change of status to E-1 or E-2 classification without leaving the
+          country. This change of status request is made to USCIS using Form
+          I-129 and must also include the same supporting documents that would
+          be required if the application were made abroad at a consulate.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Where should Form I-129 be filed?",
+    content: (
+      <>
+        <p>
+          All I-129 petitions, along with the related I-539 applications for
+          dependent family members, are required to be filed exclusively with
+          the California Service Center. This rule applies regardless of the
+          petitioner’s actual place of employment or residence in the United
+          States, meaning the location of the employer or the worksite does not
+          change the designated filing office.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Can I expedite my E visa petition?",
+    content: (
+      <>
+        <p>
+          Yes, it is possible to request that your E visa petition be processed
+          on an expedited basis. Petitioners who choose this option may apply
+          for premium processing, which guarantees that the case will be
+          adjudicated within 15 business days. To utilize this service, the
+          petitioner must file Form I-907 and include the required premium
+          processing fee, which is currently $2,805. It is important to note
+          that this fee is in addition to, and completely separate from, the
+          regular filing fee associated with Form I-129.
+        </p>
+      </>
+    ),
+  },
+  {
+    title:
+      "What is the procedure of obtaining E visa via U.S. consulate located abroad?",
+    content: (
+      <>
+        <p>
+          When applying for an E visa through a U.S. consulate abroad,
+          applicants must follow a detailed process. After completing all
+          necessary paperwork, the visa application package is submitted to the
+          U.S. consular post. In many cases, consulates may first conduct a
+          prescreening of the application before scheduling an interview. During
+          this stage, the applicant might be asked to provide additional
+          supporting documents. Following prescreening, the next step generally
+          involves an in-person interview with the visa applicant. However,
+          sometimes the consular officer may initially choose to meet only with
+          the company representative or principal investor to confirm the
+          eligibility of the trading or investment enterprise for treaty
+          purposes, before interviewing the employees or dependents who will
+          actually travel to the United States. At numerous consulates, both the
+          review of the company’s eligibility for treaty classification and the
+          visa adjudication for the applicant can be handled within the same
+          interview. If the company or investment has already been prescreened
+          and approved, the consular officer will then primarily focus on
+          determining whether the individual applicant and their family members
+          are admissible to the United States as nonimmigrants.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "How long is the E-visa valid?",
+    content: (
+      <>
+        <p>
+          The validity of an E visa, as well as the number of permitted entries
+          into the United States, is determined based on the principle of
+          reciprocity between the United States and the applicant’s country of
+          nationality. For the majority of treaty countries, E visas are
+          generally issued with a validity period of five years and are usually
+          granted with multiple entry privileges. However, the exact period of
+          validity can vary depending on the specific treaty agreement. The
+          Foreign Affairs Manual, Volume 9, contains the complete list of
+          maximum validity periods and entry limitations for each treaty
+          country.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "What visa does family member of E-1 and E-2 visa get?",
+    content: (
+      <>
+        <p>
+          Family members, such as a spouse and unmarried children under the age
+          of 21, of a principal foreign national who has been approved for E-1
+          or E-2 status, are granted the same visa classification as the main
+          applicant. Unlike some other nonimmigrant visa categories where
+          dependents are placed into a separate subcategory, in the case of the
+          E visa, dependents are classified under the exact same E-1 or E-2
+          status as the principal applicant.
+        </p>
+      </>
+    ),
+  },
 ];

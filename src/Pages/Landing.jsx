@@ -6,7 +6,6 @@ import Testimonials from "../Components/Testimonials";
 import ContactUs from "../Components/ContactUs";
 
 export default function Landing() {
-  
   return (
     <div className="LandingPage">
       <LandingHeroSec />
@@ -16,8 +15,7 @@ export default function Landing() {
         <div className="Container">
           <p className="SmallHead">Our Services</p>
           <h2 className="HeadFont">
-            Expert immigration guidance and innovative IT solutions tailored to
-            your needs.
+            Helping you secure U.S. and Canadian visas with confidence
           </h2>
           <div className="ServicesContainer">
             <div className="EachService">
@@ -31,18 +29,6 @@ export default function Landing() {
                 hassle-free process.
               </p>
               <a href="/usimmigration">Read More</a>
-            </div>
-            <div className="EachService">
-              <div className="ServiceImage">
-                <img src="/Images/Development.svg" alt="" />
-              </div>
-              <p className="ServiceName">IT Solutions</p>
-              <p className="ServiceDetials">
-                We provide innovative IT services tailored to your business
-                needs. From software development to cybersecurity, our solutions
-                enhance efficiency, security, and growth.
-              </p>
-              <a href="">Read More</a>
             </div>
           </div>
         </div>
@@ -61,8 +47,6 @@ export default function Landing() {
       </div>
 
       <ContactUs />
-
-      
     </div>
   );
 }

@@ -26,6 +26,18 @@ import Eb1BFaqs from "./Pages/ServicesPages/Eb1BFaqs";
 import LaborCertificationOutlet from "./Pages/ServicesPages/LaborCertificationOutlet";
 import LaborCertificationServiceTabs from "./Components/LaborCertificationServiceTabs";
 import LaborCertification from "./Pages/ServicesPages/LaborCertification";
+import LaborCertificationFaqs from "./Pages/ServicesPages/LaborCertificationFaqs";
+import I485GreenCardApplicationOutlet from "./Pages/ServicesPages/I485GreenCardApplicationOutlet";
+import I485GreenCardApplication from "./Pages/ServicesPages/I485GreenCardApplication";
+import I485ConcurrentFiling from "./Pages/ServicesPages/I485ConcurrentFiling";
+import ImmigrantVisaProcessing from "./Pages/ServicesPages/ImmigrantVisaProcessing";
+import NonImmigrationVisasOutlet from "./Pages/ServicesPages/NonImmigrationVisasOutlet";
+import H1BVisaOccupationWorker from "./Pages/ServicesPages/H1BVisaOccupationWorker";
+import L1Visa from "./Pages/ServicesPages/L1Visa";
+import O1Visa from "./Pages/ServicesPages/O1Visa";
+import J1Visa from "./Pages/ServicesPages/J1Visa";
+import E1Visa from "./Pages/ServicesPages/E1Visa";
+import AboutUs from "./Pages/AboutUs";
 
 function App() {
   return (
@@ -35,6 +47,8 @@ function App() {
         <Route path="/" element={<Landing />} />
         <Route path="/usimmigration" element={<UsImmigrationMainPage />} />
         <Route path="/profile-evaluation" element={<ProfileEvaluationForm />} />
+        <Route path="/profile-evaluation" element={<ProfileEvaluationForm />} />
+        <Route path="/about-us" element={<AboutUs />} />
 
         {/* Nested route setup for EB2-NIW (National Interest Waiver)  */}
         <Route path="/eb2-niv" element={<Eb2NiwOutlet />}>
@@ -65,14 +79,46 @@ function App() {
         </Route>
 
         {/* Nested route setup for EB1-B  */}
-        <Route path="/perm-labor-certification" element={<LaborCertificationOutlet />}>
+        <Route
+          path="/perm-labor-certification"
+          element={<LaborCertificationOutlet />}
+        >
           <Route index element={<LaborCertification />} />
-          <Route path="eb1-b-legal-fee" element={<LegalFeeEb1B />} />
+          <Route
+            path="perm-labor-certification-faqs"
+            element={<LaborCertificationFaqs />}
+          />
         </Route>
 
+        {/* Nested route setup for EB1-B  */}
+        <Route
+          path="/I-485-green-card-application"
+          element={<I485GreenCardApplicationOutlet />}
+        >
+          <Route index element={<I485GreenCardApplication />} />
+          <Route
+            path="I-140-and-I-485-concurrent-filing"
+            element={<I485ConcurrentFiling />}
+          />
+        </Route>
 
+        <Route
+          path="/immigrant-visa-processing"
+          element={<ImmigrantVisaProcessing />}
+        />
 
-
+        {/* Nested route setup for NonImmigrationVisas  */}
+        <Route
+          path="/non-immigration-visas"
+          element={<NonImmigrationVisasOutlet />}
+        >
+          <Route index element={<H1BVisaOccupationWorker />} /> {/* default */}
+          <Route path="h-1b-visa" element={<H1BVisaOccupationWorker />} />
+          <Route path="l1-visa" element={<L1Visa />} />
+          <Route path="o1-visa" element={<O1Visa />} />
+          <Route path="j1-visa" element={<J1Visa />} />
+          <Route path="e1-visa" element={<E1Visa />} />
+        </Route>
       </Routes>
       <Footer />
     </BrowserRouter>
