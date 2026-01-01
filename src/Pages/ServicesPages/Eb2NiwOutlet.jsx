@@ -17,10 +17,9 @@ export default function Eb2NiwOutlet() {
             labor market test unnecessary for the country’s best interests.
           </p>
           <button className="SisuButton1">
-            <a href="/profile-evaluation">Evaluate Profile for EB2-NIW</a>
+            <a href="https://susiexperts.us/case_evaluation.php" target="_blank">Evaluate Profile</a>
           </button>
         </div>
-        <div className="overlay"></div>
       </div>
       <div className="Container">
         <div className="page-divider">

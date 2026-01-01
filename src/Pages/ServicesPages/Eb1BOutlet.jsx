@@ -1,5 +1,4 @@
 import { Outlet } from "react-router-dom";
-import ContactUs from "../../Components/ContactUs";
 import Sidebar from "../../Components/Sidebar";
 
 export default function Eb1BOutlet() {
@@ -19,10 +18,9 @@ export default function Eb1BOutlet() {
             universities, the role must be tenured or tenure-track.
           </p>
           <button className="SisuButton1">
-            <a href="/profile-evaluation">Evaluate Profile for EB1-B</a>
+            <a href="https://susiexperts.us/case_evaluation.php" target="_blank">Evaluate Profile</a>
           </button>
         </div>
-        <div className="overlay"></div>
       </div>
 
       <div className="Container">
@@ -62,7 +60,6 @@ export default function Eb1BOutlet() {
           </div>
         </div>
       </div>
-      <ContactUs />
     </div>
   );
 }

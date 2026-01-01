@@ -53,7 +53,7 @@ export default function Eb2Niw() {
         </div>
       </div>
 
-      <ContactUs />
+      
     </>
   );
 }

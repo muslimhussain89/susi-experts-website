@@ -12,7 +12,7 @@ export default function J1Visa() {
 
   return (
     <>
-      <ServicesBread bread3={"Non Immigiration"} bread4={"H-1b Visas"} />
+      <ServicesBread bread3={"Non Immigiration"} bread4={"J1 Visas"} />
 
       <div className="ServiceDetailSection">
         <div className="Container">

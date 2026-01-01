@@ -11,7 +11,7 @@ export default function NiwServiceTabs() {
     { path: "/eb2-niv/processing-of-niw", label: "Processing of NIW" },
     { path: "/eb2-niv/benefits-of-niw", label: "Benefits of NIW" },
     { path: "/eb2-niv/niw-faqs", label: "NIW Faqs" },
-    { path: "/eb2-niv/niw-success", label: "NIW Success" },
+    // { path: "#", label: "NIW Success" },
   ];
 
   return (

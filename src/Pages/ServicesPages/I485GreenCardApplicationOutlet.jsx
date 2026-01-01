@@ -19,10 +19,9 @@ export default function I485GreenCardApplicationOutlet() {
             provided they meet the eligibility requirements.
           </p>
           <button className="SisuButton1">
-            <a href="/profile-evaluation">Evaluate Profile for EB1-A</a>
+            <a href="https://susiexperts.us/case_evaluation.php" target="_blank">Evaluate Profile</a>
           </button>
         </div>
-        <div className="overlay"></div>
       </div>
       <div className="Container">
         <div className="page-divider">
@@ -32,7 +31,6 @@ export default function I485GreenCardApplicationOutlet() {
           </div>
         </div>
       </div>
-      <ContactUs />
     </div>
   );
 }

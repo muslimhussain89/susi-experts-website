@@ -12,7 +12,7 @@ export default function O1Visa() {
 
   return (
     <>
-      <ServicesBread bread3={"Non Immigiration"} bread4={"H-1b Visas"} />
+      <ServicesBread bread3={"Non Immigiration"} bread4={"O1 Visas"} />
 
       <div className="ServiceDetailSection">
         <div className="Container">

@@ -5,8 +5,8 @@ export default function LaborCertificationServiceTabs() {
   const active = location.pathname;
 
   const tabs = [
-    { path: "/perm-labor-certification", label: "EB1-B Overview" },
-    { path: "/perm-labor-certification/perm-labor-certification-faqs", label: "Legal Fees fo EB1-B" },
+    { path: "/perm-labor-certification", label: " PERM Overview" },
+    { path: "/perm-labor-certification/perm-labor-certification-faqs", label: "PERM FAQs" },
   ];
 
   return (

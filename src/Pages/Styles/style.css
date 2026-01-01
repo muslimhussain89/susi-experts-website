@@ -1,11 +1,53 @@
+.marquee {
+  overflow: hidden;
+  white-space: nowrap;
+  width: 100%;
+  padding: 10px 0px;
+  background-color: #bc0c1d;
+  color: white;
+}
+
+/* Moving element */
+.marquee-track {
+  display: inline-block;
+  padding-left: 100%;
+  animation: marquee 55s linear infinite;
+}
+
+/* Text only */
+.marquee-text {
+  display: inline-block;
+  width: fit-content;
+  font-size: 1.4rem;
+  cursor: pointer;
+  font-weight: 400;
+}
+
+/* 🔥 KEY FIX: pause animation ONLY when text is hovered */
+.marquee-track:has(.marquee-text:hover) {
+  animation-play-state: paused;
+}
+
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
 .Navbar {
 
 
       z-index: 3;
       position: relative;
       background: #ffffffa1;
-      border-bottom: 1px solid white;
       padding: 0px 0px;
+}
+
+.Navbar.navbar-inner {
+      background: #f5f5f7;
 }
 
 .NavbarInner {
@@ -25,14 +67,20 @@
       text-transform: uppercase;
       text-decoration: none;
       font-family: 'ProxiRegular';
-      font-size: 1.8rem;
+      font-size: 2.1rem;
       margin-right: 25px;
       font-weight: 800;
-      color: black;
+      color: #222F63;
+      white-space: nowrap;
 }
 
-.Navbar .NavbarLogo a img {
-      width: 25%;
+.NavbarLinks a:hover {
+      color: red;
+}
+
+.Navbar .NavbarLogo a img,
+.SiteLink a img {
+      width: 10rem;
 }
 
 .Container {
@@ -78,23 +126,127 @@
 }
 
 .HeroSection {
-      height: 100vh;
+      min-height: 100vh;
+      position: relative;
+      margin-top: -120px;
+      padding: 50px 0px 50px 0px;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+
+.HeroSection::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: #00000099;
+      z-index: 1;
 }
 
 .HeroSection a {
       margin-top: 50px;
 }
 
-.overlay,
-.hero-bg-images {
-      height: 100vh;
-      overflow: hidden;
+
+
+/* MOBILE MENU  */
+
+.NavbarMobile {
+      display: none;
+      z-index: 4;
+      padding: 1% 6% 2% 6%;
 }
 
-.hero-bg-images {
+.NavbarMobile.navbar-mobile-color {
+      background-color: #222F63;
+      border-top: 1px solid white;
+}
+
+.NavbarMobileLinks {
       position: absolute;
-      top: 0;
+      top: -114px;
+      z-index: 40;
+      height: 100vh;
+      width: 92%;
+      background-color: #000000e3;
+      padding: 20px 30px;
+      transition: all 0.5s ease;
+      right: -105%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+}
+
+.NavbarMobileLinks .NavbarLinks {
+      display: flex;
+      flex-direction: column;
+}
+
+.NavbarMobileLinks .NavbarLinks a {
+      text-align: left;
+      margin: 15px 0px;
+      font-size: 3rem;
+      border-bottom: 1px solid #ffffff52;
+      padding-bottom: 15px;
+      color: #ffffffb3;
+}
+
+.NavbarMobileLinks .NavbarLinks a:nth-child(1) {
+      border-bottom: 0;
+      opacity: 0.5;
+}
+
+.NavbarMobileLinks .NavbarLinks a:nth-child(1) {
+      margin-bottom: 45px;
+      margin-top: 45px;
+}
+
+.NavbarMobileLinks .GetinTouchBtn {
+      margin-top: 45px;
+}
+
+.NavbarMobileLinks .GetinTouchBtn button {
+      font-size: 2.8rem;
+}
+
+.NavbarMobileLinks.NavbarMobileOpen {
+      right: 0;
+}
+
+.NavbarMobileLinks .NavbarLinks {
+      margin-top: 15vh;
       width: 100%;
+}
+
+
+
+.CloseMenu {
+      position: absolute;
+      right: 20px;
+      background-color: white;
+      border: none;
+      border-radius: 58px;
+      opacity: 0.8;
+      width: 45px;
+      height: 45px;
+}
+
+.MobileMenuLogo {
+      position: absolute;
+      top: -20px;
+      left: 20px;
+}
+
+.MenuButton {
+      right: 20px;
+      background-color: white;
+      border: none;
+      border-radius: 5px;
+      padding: 8px;
 }
 
 .hero-bg-images img {
@@ -136,13 +288,12 @@
       align-items: center;
       text-align: center;
       justify-content: center;
-      height: 85vh;
+      padding: 150px 0px 50px 0px;
 }
 
 .HeroSection h1:hover,
 .HeroSection p:hover,
 .PageHead:hover {
-      /* color: white; */
       word-spacing: 1.4px;
 }
 
@@ -153,7 +304,7 @@
       z-index: 3;
       position: relative;
       font-family: 'InterMedium';
-      transition: all 0.2s ease;
+      transition: all 0.4s ease;
 }
 
 .PageHead {
@@ -169,7 +320,7 @@
       z-index: 3;
       position: relative;
       margin-top: 50px;
-      transition: all 0.2s ease;
+      transition: all 0.4s ease;
 }
 
 .HeroSection h1,
@@ -193,22 +344,21 @@ form button,
       z-index: 3;
 }
 
-.HeroContent {
-      width: 100%;
+.HeroSection a:hover,
+.AboutContent button:hover,
+form button:hover,
+.SisuButton1:hover {
+      background-color: red;
+      color: white;
 }
 
-
-
-.overlay {
+/* .overlay {
       position: absolute;
       top: 0;
       width: 100%;
       background: #00000099;
       z-index: 2;
-}
-
-
-
+} */
 
 .bg-layer {
       position: absolute;
@@ -225,8 +375,8 @@ form button,
 
 .AboutUs {
       position: relative;
-      height: 100vh;
-      margin-top: -158px;
+      min-height: 100vh;
+      background-color: #fcfcfc;
 }
 
 .AboutUs .Container,
@@ -270,7 +420,7 @@ form button,
 }
 
 .AboutContent {
-      padding-top: 100px;
+      padding: 100px 0px;
 }
 
 .AboutContent button {
@@ -284,15 +434,20 @@ form button,
 .AboutImage {
       position: absolute;
       right: 0px;
-      height: 100vh;
+      min-height: 100vh;
       width: 50%;
 }
 
 .AboutImage img {
       width: 100%;
-      height: 100vh;
+      min-height: 100vh;
       object-fit: cover;
-      object-position: 35%;
+}
+
+.about-image-mobile,
+.ceo-image-mobile,
+.who-we-are-image-mobile {
+      display: none;
 }
 
 
@@ -305,7 +460,8 @@ form button,
 .OurServices .HeadFont,
 .FaqsTop,
 .Testimonilas .SmallHead,
-.Testimonilas .HeadFont {
+.Testimonilas .HeadFont,
+.success-stories {
       text-align: center;
 }
 
@@ -560,12 +716,18 @@ form button,
 .EachTesti {
       background-color: white;
       position: relative;
-      padding: 45px 45px;
+      padding: 45px 45px 25px 45px;
       box-shadow: 0px 5px 12px 0px #bbc6ce;
       box-sizing: border-box;
       /* margin-left: 5px; */
       border: 2px solid white;
-      height: 280px;
+      /* height: 300px; */
+}
+
+.EachTesti button {
+      font-size: 1.4rem;
+      padding: 8px 20px;
+
 }
 
 .TestiName {
@@ -574,9 +736,25 @@ form button,
 
 .EachTesti p {
       font-size: 1.6rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 5;
+      /* show only 4 lines */
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      transition: all 0.3s ease;
+
 }
 
-.Testimonilas {
+.EachTesti p.expanded {
+      -webkit-line-clamp: unset;
+      /* remove limit when expanded */
+      overflow: visible;
+      transition: all 0.5s ease;
+}
+
+.Testimonilas,
+.success-stories {
       background-color: #f5f5f7;
       padding: 100px 0px;
 }
@@ -655,7 +833,7 @@ form button,
 
 .Footer .Container .FooterLogoSec {
       width: 40%;
-      padding-right: 50px;
+      padding-right: 120px;
 }
 
 .FooterLogoSec a img {
@@ -687,7 +865,7 @@ form button,
 .FooterLinksSec,
 .FooterContactSec {
       width: 25%;
-      padding-top: 50px;
+      padding-top: 0px;
 }
 
 .FooterLinksSec p,
@@ -697,13 +875,15 @@ form button,
 }
 
 .FooterLinksWrapper a,
-.FooterContactSec a {
+.FooterContactSec a,
+.FooterContactSec p {
       display: block;
       text-decoration: none;
       color: #d1d1d1;
       font-size: 1.8rem;
       text-transform: capitalize;
       margin: 10px 0px;
+      cursor: pointer;
 }
 
 .FooterLinksWrapper a:hover,
@@ -711,13 +891,65 @@ form button,
       color: white;
 }
 
-.FooterContactSec a svg {
+.FooterContactSec a svg,
+.FooterContactSec p svg {
       margin-right: 8px;
       margin-top: 5px;
 }
 
+.FooterContactSec button {
+      background: none;
+      border: none;
+      position: absolute;
+      right: 25px;
+      top: 25px;
+}
+
+.FooterContactSec a:nth-child(1) svg {
+      width: 25px;
+      height: 25px;
+}
+
+.FooterContactSec a:nth-child(2) svg {
+      width: 22px;
+      height: 22px;
+}
+
 .FooterContactSec a {
       display: flex;
+}
+
+.we-chat-widget {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      height: 100vh;
+      left: 0;
+      background: black;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+}
+
+.we-chat-widget img {
+      border-radius: 50px;
+}
+
+.contact-country {
+      font-size: 1.5rem;
+      color: white;
+}
+
+.us-contacts,
+.pak-contacts {
+      border: 1px solid white;
+      padding: 0px 15px;
+      border-radius: 5px;
+}
+
+.pak-contacts {
+      margin-top: 10px;
 }
 
 .Rights {
@@ -767,7 +999,8 @@ form button {
 
 .ContactUsRight img {
       width: 100%;
-      border-radius: 50%;
+      border-radius: 45%;
+      margin-top: -50px;
 }
 
 
@@ -817,8 +1050,15 @@ form button {
       background-repeat: no-repeat;
 }
 
-.ServicesWrapper .overlay {
+.ServicesWrapper::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
       background: #fffc;
+      z-index: 1;
 }
 
 .UsImmigrationMainPage .OurServices {
@@ -862,12 +1102,13 @@ form button {
 .BreadCrumb .Container a {
       font-size: 2.2rem;
       color: white;
-      margin-right: 12px;
 }
 
 .BreadCrumb .Container a::after {
       content: '/';
-      margin-left: 15px;
+      margin-left: 6px;
+      margin-right: 8px;
+
 }
 
 .BreadCrumb .Container a:last-child::after {
@@ -940,8 +1181,8 @@ b {
 
 .ServicePage .ContactUs {
       background-color: #f5f5f7;
-      padding: 100px 0px;
-      margin-top: 100px;
+      /* padding: 100px 0px; */
+      /* margin-top: 100px; */
 }
 
 .Tabs {
@@ -959,6 +1200,7 @@ b {
       cursor: pointer;
       color: white;
       margin-right: 5px;
+      margin-bottom: 5px;
 }
 
 .Tabs .activeTab {
@@ -970,10 +1212,6 @@ b {
       color: white;
 }
 
-.Tabs a {
-      text-decoration: none;
-      color: white;
-}
 
 td,
 th {
@@ -1039,6 +1277,17 @@ tr:hover td {
       margin-top: -150px;
 }
 
+.about-us-hero::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: #000000b5;
+      z-index: 1;
+}
+
 .about-us-hero .Container {
       display: flex;
       align-items: center;
@@ -1067,22 +1316,29 @@ tr:hover td {
 .who-we-are .Container,
 .why-choose-us .Container {
       align-items: center;
+      padding-top: 50px;
+      padding-bottom: 50px;
 }
 
 .who-we-are .Container div:nth-child(2),
 .why-choose-us .Container div:nth-child(1) {
       right: 0px;
-      height: 85vh;
+      min-height: 92vh;
 }
 
-.who-we-are .Container div:nth-child(2) img,
+.who-we-are .Container .who-we-are-image img,
 .why-choose-us .Container div:nth-child(1) img {
-      height: 85vh;
+      height: 100%;
       position: absolute;
       right: 0;
       object-fit: cover;
-      object-position: 35%;
+      object-position: 50%;
       width: 50%;
+      top: 0;
+}
+
+.who-we-are .Container .who-we-are-image img {
+      object-position: 55%;
 }
 
 .why-choose-us .Container div:nth-child(1) img {
@@ -1094,26 +1350,159 @@ tr:hover td {
       background-repeat: no-repeat;
       background-size: cover;
       position: relative;
-      padding: 150px 0px;
+      padding: 100px 0px;
       background-position: 100% 36%;
 
 }
 
+.vision-mission-goal::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: #000000b8;
+}
+
 .vision-mission-goal .Container div {
-      width: 30%;
+      width: 32%;
       color: white !important;
       z-index: 3;
+      border: 1px solid white;
+      border-top-left-radius: 25px;
+      padding: 20px;
+      position: relative;
+      overflow: hidden;
+}
+
+.vision-mission-goal .Container div:hover::after {
+      width: 100%;
+      transition: all 0.5s ease;
+      z-index: -1;
+}
+
+.vision-mission-goal .Container div::after {
+      position: absolute;
+      content: '';
+      width: 0%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      background-color: #222F63;
 }
 
 .vision-mission-goal .Container div .SmallHead {
       color: white;
 }
 
-.vision-mission-goal .overlay {
-      height: 100%;
-      background: #000000b8;
+
+.vision-mission-goal .Container .who-we-are-text {
+      margin-top: 50px;
 }
-.vision-mission-goal .Container .who-we-are-text
-{
-margin-top: 50px;
+
+.whatsapp {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      z-index: 1000;
+      background-color: #25d366;
+      padding: 10px;
+      border-radius: 50%;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+      transition: transform 0.3s ease;
+}
+
+
+
+/* contact form  */
+
+.thankyou_message {
+      display: none;
+      border-radius: 40px;
+      padding: 15px;
+      color: white;
+      font-family: 'Titillium Web', sans-serif;
+      justify-content: space-between;
+      align-items: center;
+      border: 1px solid white;
+      bottom: 0px;
+      background: white;
+      align-items: center;
+      flex-wrap: nowrap;
+      margin-top: 25px;
+}
+
+.thankyou_message a {
+      background: white;
+      width: 50px;
+      height: 50px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 12px;
+      margin-left: 15px;
+}
+
+.thankyou_message a svg {
+      width: 45%;
+}
+
+.thankyou_message h1 {
+      color: black;
+}
+
+/* FOUNDER MESSAGE  */
+
+.founder-message {
+      padding: 100px 0px;
+      background-color: #222f63;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+}
+
+.founder-message .Container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: white !important;
+}
+
+.founder-message .Container .SmallHead,
+.success-stories .HeadFont,
+.success-stories .SmallHead {
+      color: white !important;
+}
+
+.founder-message .Container .ceo-image {
+      width: 45%;
+}
+
+.founder-message .Container .ceo-message {
+      width: 50%;
+}
+
+.founder-message .Container .ceo-image img {
+      width: 100%;
+      border-radius: 8px;
+}
+
+.success-stories {
+      background-color: #222f63;
+      color: white !important;
+}
+
+.success-stories .HeadFont {
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+      font-size: 2rem;
+      margin-top: 40px;
+}
+
+.success-stories .swiper-slide img {
+      width: 100%;
+      border-radius: 18px;
+
 }

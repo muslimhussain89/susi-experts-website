@@ -12,12 +12,12 @@ export default function L1Visa() {
 
   return (
     <>
-      <ServicesBread bread3={"Non Immigiration"} bread4={"H-1b Visas"} />
+      <ServicesBread bread3={"Non Immigiration"} bread4={"L1 Visas"} />
 
       <div className="ServiceDetailSection">
         <div className="Container">
           <p className="service-name">
-            Frequently Asked Questions for HB-1 Visas
+            Frequently Asked Questions for L1 Visas
           </p>
           <NonImmigrationVisasTabs />
 

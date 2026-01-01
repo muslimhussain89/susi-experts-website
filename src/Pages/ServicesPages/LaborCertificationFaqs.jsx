@@ -13,7 +13,7 @@ export default function LaborCertificationFaqs() {
 
   return (
     <>
-      <ServicesBread bread4={"Faqs for EB2 and National Interest Waiver (NIW)"} />
+      <ServicesBread bread4={"Faqs for Labor Certification/PERM Process"} />
 
       <div className="ServiceDetailSection">
         <div className="Container">

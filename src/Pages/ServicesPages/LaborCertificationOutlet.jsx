@@ -7,21 +7,30 @@ export default function LaborCertificationOutlet() {
     <div className="ServicePage">
       <div className="ServicesWrapper">
         <div className="Container">
-          <h1 className="PageHead">Immigiration Petition / Labor Certification and PERM Filing </h1>
+          <h1 className="PageHead">
+            Immigiration Petition / Labor Certification and PERM Filing{" "}
+          </h1>
           <p>
-            The EB-2 National Interest Waiver (NIW) is a special option under
-            the employment-based second preference category that lets eligible
-            individuals apply for a green card on their own, without requiring a
-            job offer or employer-sponsored labor certification.This waiver is
-            designed for individuals whose work in the United States holds
-            significant value and national importance, making the traditional
-            labor market test unnecessary for the country’s best interests.
+            Foreign nationals who have been offered permanent employment in the
+            U.S. and do not qualify for an exemption from labor certification
+            must obtain Alien Employment Certification, commonly known as labor
+            certification, from the U.S. Department of Labor (DOL). The DOL must
+            be satisfied that there are no qualified U.S. workers available to
+            fill the permanent position offered to the foreign national and that
+            the wages and working conditions for the role will not adversely
+            affect the U.S. labor market. Once the labor certification is
+            approved, it serves as the basis for filing an employment-based
+            second or third preference petition with USCIS.
           </p>
           <button className="SisuButton1">
-            <a href="/profile-evaluation">Evaluate Profile for EB1-A</a>
+            <a
+              href="https://susiexperts.us/case_evaluation.php"
+              target="_blank"
+            >
+              Evaluate Profile
+            </a>
           </button>
         </div>
-        <div className="overlay"></div>
       </div>
       <div className="Container">
         <div className="page-divider">
@@ -60,7 +69,6 @@ export default function LaborCertificationOutlet() {
           </div>
         </div>
       </div>
-      <ContactUs />
     </div>
   );
 }

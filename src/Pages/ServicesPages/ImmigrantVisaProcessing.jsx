@@ -21,7 +21,7 @@ export default function ImmigrantVisaProcessing() {
             Processing (IVP).
           </p>
           <button className="SisuButton1">
-            <a href="/profile-evaluation">Evaluate Profile for Entrepreneurs</a>
+            <a href="https://susiexperts.us/case_evaluation.php" target="_blank">Evaluate Profile for Entrepreneurs</a>
           </button>
         </div>
         <div className="overlay"></div>

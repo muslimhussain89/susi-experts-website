@@ -4,7 +4,6 @@ import Navbar from "./Components/Navbar";
 import Landing from "./Pages/Landing";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import UsImmigrationMainPage from "./Pages/UsImmigrationMainPage";
-import ProfileEvaluationForm from "./Pages/ProfileEvaluationForm";
 import Eb2NiwOutlet from "./Pages/ServicesPages/Eb2NiwOutlet";
 import Eb2Niw from "./Pages/ServicesPages/Eb2Niw";
 import NiwRequirements from "./Pages/ServicesPages/NiwRequirements";
@@ -24,7 +23,6 @@ import ProcessingOfEb1B from "./Pages/ServicesPages/ProcessingOfEb1B";
 import Eb1AFaqs from "./Pages/ServicesPages/Eb1AFaqs";
 import Eb1BFaqs from "./Pages/ServicesPages/Eb1BFaqs";
 import LaborCertificationOutlet from "./Pages/ServicesPages/LaborCertificationOutlet";
-import LaborCertificationServiceTabs from "./Components/LaborCertificationServiceTabs";
 import LaborCertification from "./Pages/ServicesPages/LaborCertification";
 import LaborCertificationFaqs from "./Pages/ServicesPages/LaborCertificationFaqs";
 import I485GreenCardApplicationOutlet from "./Pages/ServicesPages/I485GreenCardApplicationOutlet";
@@ -38,6 +36,7 @@ import O1Visa from "./Pages/ServicesPages/O1Visa";
 import J1Visa from "./Pages/ServicesPages/J1Visa";
 import E1Visa from "./Pages/ServicesPages/E1Visa";
 import AboutUs from "./Pages/AboutUs";
+import { FaWhatsapp } from "react-icons/fa";
 
 function App() {
   return (
@@ -46,8 +45,6 @@ function App() {
       <Routes>
         <Route path="/" element={<Landing />} />
         <Route path="/usimmigration" element={<UsImmigrationMainPage />} />
-        <Route path="/profile-evaluation" element={<ProfileEvaluationForm />} />
-        <Route path="/profile-evaluation" element={<ProfileEvaluationForm />} />
         <Route path="/about-us" element={<AboutUs />} />
 
         {/* Nested route setup for EB2-NIW (National Interest Waiver)  */}
@@ -121,6 +118,16 @@ function App() {
         </Route>
       </Routes>
       <Footer />
+      {/* whatsapp integratiion  */}
+      <div className="whatsapp">
+        <a
+          href="https://wa.me/+923261112555"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FaWhatsapp size={35} color="white" />
+        </a>
+      </div>
     </BrowserRouter>
   );
 }

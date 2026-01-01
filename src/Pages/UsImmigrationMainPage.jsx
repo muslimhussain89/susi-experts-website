@@ -78,7 +78,7 @@ export default function UsImmigrationMainPage() {
             </div>
             <div className="EachService">
               <div className="ServiceImage">
-                <img src="/Images/Development.svg" alt="" />
+                <img src="/Images/GreenCard.svg" alt="" />
               </div>
               <p className="ServiceName">I-485 Green Card Application </p>
               <p className="ServiceDetials">
@@ -90,7 +90,7 @@ export default function UsImmigrationMainPage() {
             </div>
             <div className="EachService">
               <div className="ServiceImage">
-                <img src="/Images/Development.svg" alt="" />
+                <img src="/Images/GreenCard.svg" alt="" />
               </div>
               <p className="ServiceName">Immigrant Visa Processing </p>
               <p className="ServiceDetials">
@@ -102,7 +102,7 @@ export default function UsImmigrationMainPage() {
             </div>
             <div className="EachService">
               <div className="ServiceImage">
-                <img src="/Images/Development.svg" alt="" />
+                <img src="/Images/GreenCard.svg" alt="" />
               </div>
               <p className="ServiceName">Non Immigration Visas </p>
               <p className="ServiceDetials">
@@ -114,9 +114,7 @@ export default function UsImmigrationMainPage() {
             </div>
           </div>
         </div>
-        
       </div>
-      <ContactUs />
     </div>
   );
 }

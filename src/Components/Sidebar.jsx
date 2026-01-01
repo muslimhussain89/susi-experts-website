@@ -3,7 +3,7 @@ import React from "react";
 export default function Sidebar() {
   return (
     <div className="sidebar">
-      <p>Services</p>
+      <p>Related Services</p>
       <ul>
         <li>
           <a href="/eb2-niv">EB2-NIW</a>
@@ -18,34 +18,34 @@ export default function Sidebar() {
           <a href="/eb1-b">EB1-B</a>
         </li>
         <li>
-          <a href="">EB1-C</a>
-        </li>
-        <li>
           <a href="/perm-labor-certification">PERM (Labor Certification)</a>
         </li>
         <li>
-          <a href="">I-485 Adjustment of Status</a>
+          <a href="/I-485-green-card-application">I-485 Adjustment of Status</a>
         </li>
         <li>
-          <a href="">I-140 and I-485 Concurrent Filing</a>
+          <a href="/I-485-green-card-application/I-140-and-I-485-concurrent-filing">I-140 and I-485 Concurrent Filing</a>
         </li>
         <li>
           <a href="">Immigrant Visa Processing</a>
         </li>
         <li>
-          <a href="">H1B Visa</a>
+          <a href="/non-immigration-visas">H1B Visa</a>
         </li>
         <li>
-          <a href="">L1 visa</a>
+          <a href="/non-immigration-visas/l1-visa">L1 visa</a>
         </li>
         <li>
-          <a href="">O1/O3 visa</a>
+          <a href="/non-immigration-visas/o1-visa">O1/O3 visa</a>
         </li>
         <li>
-          <a href="">J-1 Visa and Waiver</a>
+          <a href="/non-immigration-visas/j1-visa">J-1 Visa and Waiver</a>
         </li>
         <li>
-          <a href="">E1/E2 visa</a>
+          <a href="/non-immigration-visas/e1-visa">E1/E2 visa</a>
+        </li>
+        <li>
+          <a href="https://susiexperts.us/case_evaluation.php">FREE PROFILE EVALUATION</a>
         </li>
       </ul>
     </div>

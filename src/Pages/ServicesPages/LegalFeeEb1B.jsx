@@ -15,7 +15,7 @@ export default function LegalFeeEb1B() {
       <div className="ServiceDetailSection">
         <div className="Container">
           <p className="service-name">
-            Legal EB1-B Fee
+            Legal Fee of EB1-B 
           </p>
           <Eb1BServiceTabs />
 
